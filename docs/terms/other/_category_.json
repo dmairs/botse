@@ -1,4 +1,8 @@
 {
-    "label": "Other"
+    "label": "Other",
+    "link": {
+      "type": "generated-index",
+      "description": "Other frequently referenced terminology."
+    }
 }
   
