@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bound-armaments",
+    "name": "Bound Armaments",
+    "skills": [
+      {
+        "svg": "/img/icons/daedric-summoning/summon.svg",
+        "description": "At the end of any unit's turn, you may choose an adventurer in X,X,X to perform an engage, rolling 3 enemy Combat dice. This engage ignores enemy skill: <Term pathName='/docs/terms/skill-keywords/ethereal'>Ethereal</Term>. Then, exhaust this die."
+      },
+      {
+        "svg": "/img/icons/daedric-summoning/summon.svg",
+        "description": "At the end of any unit's turn, you may choose an adventurer in X,X,X to perform an engage, rolling 2 of their available skill dice. If those dice would be exhausted, they are recovered instead. Then, exhaust this die."
+      }
+    ]
+  },
+  {
+    "id": "daedric-curse",
+    "name": "Daedric Curse",
+    "skills": [
+      {
+        "svg": "/img/icons/daedric-summoning/summon.svg",
+        "description": "Deal X <Term pathName='/docs/terms/true-damage'>true damage</Term> to an adjacent enemy."
+      },
+      {
+        "svg": "/img/icons/daedric-summoning/summon.svg",
+        "description": "Deal 1 <Term pathName='/docs/terms/true-damage'>true damage</Term> to an adjacent enemy. Then, any single adventurer may trigger 1 of their class abilities that costs 2 tenacity or less for free"
+      }
+    ]
+  }
+]
