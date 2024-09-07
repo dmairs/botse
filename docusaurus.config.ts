@@ -51,7 +51,8 @@ const config: Config = {
       termsDir: './docs/terms',
       docsDir: './docs/',
       glossaryFilepath: './docs/glossary.md'
-    }],
+    },],
+    require.resolve('docusaurus-lunr-search'),
   ],
   themeConfig: {
     // Replace with your project's social card

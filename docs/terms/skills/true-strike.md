@@ -6,4 +6,4 @@ tags:
   - Quest Unit Skill
 ---
 
-If all of this unit's rolled enemy Combat dice result in a 1, this unit deals [true damage](/docs/terms/true-damage).
+If all of this unit's rolled enemy Combat dice result in a 1, this unit deals [true damage](/docs/terms/other/true-damage).
