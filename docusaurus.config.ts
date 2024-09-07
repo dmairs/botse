@@ -3,8 +3,8 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'BOTSE Wiki',
-  tagline: 'Documentation for all things TES:BOTSE',
+  title: 'BOTSE Helper',
+  tagline: 'Unofficial references for The Elder Scrolls:Betrayal of the Second Era board game',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -36,10 +36,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
         },
-        blog: {
-          showReadingTime: true,
-          // Useful options to enforce blogging best practices
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -48,7 +45,7 @@ const config: Config = {
   ],
   plugins: [
     ['@grnet/docusaurus-terminology', {
-      termsDir: './docs/terms',
+      termsDir: './docs/all',
       docsDir: './docs/',
       glossaryFilepath: './docs/glossary.md'
     },],
@@ -58,26 +55,17 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'BOTSE Wiki',
+      title: 'BOTSE Helper',
       logo: {
-        alt: 'Logo for BOTSE Wiki',
+        alt: 'Logo for BOTSE Helper',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'defaultSidebar',
-          position: 'left',
-          label: 'Wiki',
-        },
-        { to: '/blog', label: 'Blog', position: 'left' },
-      ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Chip Theory Games',
+          title: 'Official Chip Theory Games',
           items: [
             {
               label: 'Support',

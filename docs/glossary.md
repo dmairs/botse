@@ -3,4 +3,4 @@ id: glossary
 title: Glossary
 ---
 
-Glossary of terms.
+Glossary of all terms.
