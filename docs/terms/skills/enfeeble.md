@@ -1,6 +1,6 @@
 ---
 id: enfeeble
-title: Enfeeble
+title: "Enfeeble #"
 hoverText: After this unit's engage, its target gains \# light fatigue.
 ---
 

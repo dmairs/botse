@@ -2,6 +2,8 @@
 id: burn
 title: Burn
 hoverText: After this unit determines its target, the target must choose to lose 1 tenacity, discard 1 item, or deal itself 1 true damage.
+tags:
+  - Quest Unit Skill
 ---
 
 After this unit determines its target, the target must choose to either:
