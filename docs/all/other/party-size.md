@@ -1,0 +1,9 @@
+---
+id: party-size
+title: Party Size
+hoverText: "Party size (SYMBOL) is a variable that represents a number equal to the number of adventurers in the party (whether defeated or not)"
+---
+
+Throughout your game, you will frequently see encounter and effect text referring to the party size (SYMBOL) icon. This icon is a variable that represents a number equal to the number of adventurers in the party (whether defeated or not). Companions are not counted when determining this number.
+
+This icon is used to balance game effects with the number of players. When this icon appears, you will frequently be required to add, subtract, or multiply SYMBOL with another value.

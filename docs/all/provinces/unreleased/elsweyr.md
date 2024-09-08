@@ -1,9 +1,9 @@
 ---
 id: elsweyr
 title: Elsweyr
-hoverText: "Province Code: EL"
+hoverText: "Code: EL"
 tags:
   - Elsweyr
 ---
 
-- Province Code: **EL**
+- Code: **EL**

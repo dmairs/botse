@@ -8,6 +8,13 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: #000000;
+  color: #ffffff;
+
+  background-size: cover;
+  background-position: center;
+  border-top: 5px solid rgb(49, 49, 49);;
+  border-bottom: 5px solid rgb(49, 49, 49);
 }
 
 

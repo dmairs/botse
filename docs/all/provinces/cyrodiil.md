@@ -1,10 +1,10 @@
 ---
 id: cyrodiil
 title: Cyrodiil
-hoverText: "Province Code: CY"
+hoverText: "Code: CY"
 tags:
   - Cyrodiil
 ---
 
-- Province Code: **CY**
+- Code: **CY**
 - Native Skill: [Detain](/docs/all/enemy-skills/native-skills/detain)

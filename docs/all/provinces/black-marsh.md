@@ -1,10 +1,10 @@
 ---
 id: black-marsh
 title: Black Marsh
-hoverText: "Province Code: BM"
+hoverText: "Code: BM"
 tags:
   - Black Marsh
 ---
 
-- Province Code: **BM**
+- Code: **BM**
 - Native Skill: [Storm Seer](/docs/all/enemy-skills/native-skills/storm-seer)

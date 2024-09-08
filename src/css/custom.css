@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hidden {
+  display: none !important;
+}
+
+.icon-svg {
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+}

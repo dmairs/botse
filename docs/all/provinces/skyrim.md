@@ -1,10 +1,10 @@
 ---
 id: skyrim
 title: Skyrim
-hoverText: "Province Code: SK"
+hoverText: "Code: SK"
 tags:
   - Skyrim
 ---
 
-- Province Code: **SK**
+- Code: **SK**
 - Native Skill: [Freeze](/docs/all/enemy-skills/native-skills/freeze)

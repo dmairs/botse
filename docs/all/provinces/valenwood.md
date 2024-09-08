@@ -1,11 +1,11 @@
 ---
 id: valenwood
 title: Valenwood
-hoverText: "Province Code: VW"
+hoverText: "Code: VW"
 tags:
   - Valenwood
 ---
 
-- Province Code: **VW**
+- Code: **VW**
 - Native Skill: [Iron Bark](/docs/all/enemy-skills/native-skills/iron-bark)
 

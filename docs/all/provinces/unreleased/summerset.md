@@ -1,9 +1,9 @@
 ---
 id: summerset
 title: Summerset
-hoverText: "Province Code: SU"
+hoverText: "Code: SU"
 tags:
   - Summerset
 ---
 
-- Province Code: **SU**
+- Code: **SU**

@@ -13,7 +13,7 @@ with a rolled skill die.
 A unit is always within range of itself.
 
 ### Adventurer's Range
-Defined by their current battle form. Some battle forms (such as SYMBOL or SYMBOL) have a range equal to an adventurer’s Stamina or Magicka stat, while others allow only adjacent units to be within range. 
+Defined by their current battle form. Some battle forms (such as SYMBOL or SYMBOL) have a range equal to an adventurer's Stamina or Magicka stat, while others allow only adjacent units to be within range. 
 
 ### Enemy's Range
 Equal to its range stat.  

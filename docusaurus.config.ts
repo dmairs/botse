@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'BOTSE Helper',
-  tagline: 'Unofficial references for The Elder Scrolls:Betrayal of the Second Era board game',
+  tagline: 'Unofficial references for The Elder Scrolls:Betrayal of the Second Era',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
