@@ -1,0 +1,8 @@
+{
+  "label": "Provinces",
+  "link": {
+    "type": "generated-index",
+    "description": "Each province is represented by an overland map and gazetteer."
+  }
+}
+  

@@ -1,0 +1,7 @@
+{
+  "label": "Skill Lines",
+  "link": {
+    "type": "generated-index",
+    "description": "Skills are the dice an adventurer rolls during battle. Each skill is part of a larger skill line, which is tied to either your Stamina or Magicka stat. Some skill line's corresponding stat limits the number of skill dice that can be rolled during an engage action. This stat is shown on each skill line reference sheet."
+  }
+}
