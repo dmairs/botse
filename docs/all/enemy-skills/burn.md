@@ -7,6 +7,6 @@ tags:
 ---
 
 After this unit determines its target, the target must choose to either:
-- lose 1 tenacity
+- lose 1 [tenacity](/docs/all/other/tenacity)
 - discard 1 item
 - deal itself 1 true damage.

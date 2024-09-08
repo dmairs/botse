@@ -47,7 +47,7 @@ const config: Config = {
     ['@grnet/docusaurus-terminology', {
       termsDir: './docs/all',
       docsDir: './docs/',
-      glossaryFilepath: './docs/glossary.md'
+      glossaryFilepath: './docs/glossary.md',
     },],
     require.resolve('docusaurus-lunr-search'),
   ],

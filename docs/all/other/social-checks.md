@@ -7,7 +7,7 @@ hoverText: "A social check can be made only during an encounter that specificall
 Some encounters give the party the opportunity to resolve a social check to access otherwise unavailable choices or to gain additional rewards. If the party succeeds at a social check, it gains the benefits described. If the party fails, the associated choice cannot be selected or the additional reward is not gained. Each social check can be attempted only once.
 
 ## Difficulty Value
-A social check can be made only during an encounter that specifically offers the choice to perform one and includes its difficulty value in parentheses within that choice's text. A difficulty value is typically based on a fixed value that is either added to or multiplied by the number of adventurers (SYMBOL).
+A social check can be made only during an encounter that specifically offers the choice to perform one and includes its difficulty value in parentheses within that choice's text. A difficulty value is typically based on a fixed value that is either added to or multiplied by the number of adventurers ([<img src="/icons/party-size.svg" alt="Party Size Icon" class="icon-svg" />](/docs/all/other/party-size)).
 
 ## Social Check Sequence
 

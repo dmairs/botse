@@ -8,10 +8,10 @@ hoverText: The party gains any rewards from the encounter it resolved during the
 
 The party gains any rewards from the encounter it resolved during the previous phase. Then, the party members update their adventurers, following the steps below in order.
 
-If an encounter has a reward, it is shown as an SYMBOL icon next to the encounter or described in its text.
+If an encounter has a reward, it is shown as an <img src="/icons/xp.svg" alt="XP Icon" class="icon-svg" /> icon next to the encounter or described in its text.
 
 ## 1. Gain Rewards 
-Gain all XP or other rewards for succeeding at the encounter. If you failed, do not gain the encounter's rewards. The party leader increases the party's total [XP](/docs/all/other/xp) earned on the XP Dial by the value next to the SYMBOL icon. Each player also adds this amount to their current unspent XP balance on their adventurer mat. This unspent amount can exceed 3 until the end of the Reward Phase. If it does, the player keeps track of the total themselves. Players may spend XP in the Gain Advancements step.
+Gain all XP or other rewards for succeeding at the encounter. If you failed, do not gain the encounter's rewards. The party leader increases the party's total [XP](/docs/all/other/xp) earned on the XP Dial by the value next to the <img src="/icons/xp.svg" alt="XP Icon" class="icon-svg" /> icon. Each player also adds this amount to their current unspent XP balance on their adventurer mat. This unspent amount can exceed 3 until the end of the Reward Phase. If it does, the player keeps track of the total themselves. Players may spend XP in the Gain Advancements step.
 
 - Some encounters refer to gaining [bonus XP](/docs/all/other/bonus-xp). This XP is not added to the party's XP Dial, but must instead be tracked by individual adventurers. It is otherwise spent and treated like standard XP.
 
@@ -19,7 +19,7 @@ Gain all XP or other rewards for succeeding at the encounter. If you failed, do 
 
 - If other rewards are gained, such as item cards or advancements; do as the encounter instructs. If an advancement is gained, add it to each affected adventurer's mat during this step.
 
-- If the party's overland token is at an unstable landmark (SYMBOL) and it completes a peaceful or conflict overland encounter, or traveling caravan town encounter, each adventurer gains 2 [tenacity](/docs/all/other/tenacity), regardless of whether the encounter was successful.
+- If the party's overland token is at an unstable landmark (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" class="icon-svg" />) and it completes a peaceful or conflict overland encounter, or traveling caravan town encounter, each adventurer gains 2 [tenacity](/docs/all/other/tenacity), regardless of whether the encounter was successful.
 
 - If the party gains a special achievement, such as a quest keyword or access to a closed town—record it in the campaign journal.
 

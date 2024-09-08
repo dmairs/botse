@@ -1,7 +1,6 @@
 ---
 id: icon-reference
 title: Iconography Reference
-hoverText: "A table of all iconography."
 ---
 
 ### Resolving Skill Abilities

@@ -6,4 +6,4 @@ tags:
   - Quest Unit Skill
 ---
 
-Before this unit deals damage, its target loses tenacity equal to the amount of damage dealt.
+Before this unit deals damage, its target loses [tenacity](/docs/all/other/tenacity) equal to the amount of damage dealt.
