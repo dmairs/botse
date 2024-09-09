@@ -39,7 +39,7 @@ Draw a peaceful encounter card.
 
 After the party resolves a peaceful encounter card, set that card aside until the end of the day so its icon can be referred to when activating the [provinces'](/docs/category/provinces) effect during the [End of Day Phase](/docs/all/day/end-of-day-phase). 
 
-#### Conflict landmark <img src="/icons/conflict-outcome.svg" alt="Conflict Outcome Icon" class="icon-svg" />
+#### Conflict landmark <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" class="icon-svg" />
 Draw a conflict encounter card.
 
 #### Unstable landmark <img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" class="icon-svg" />
