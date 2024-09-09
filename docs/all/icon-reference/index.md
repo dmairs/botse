@@ -25,7 +25,7 @@ title: Iconography Reference
 | <img src="/icons/weapon.svg" alt="Weapon Icon" /> | Weapon |
 
 
-### [Status Effects](/docs/category/status-effects/)
+### [Status Effects](/docs/all/status-effects/)
 | Icon | Name |
 |-----------|-------------|
 | <img src="/icons/bane.svg" alt="Bane Icon" /> | [Bane](/docs/all/status-effects/bane) |
@@ -51,12 +51,12 @@ title: Iconography Reference
 | <img src="/icons/daedra.svg" alt="Daedra Icon" /> | Daedra |
 | <img src="/icons/humanoid.svg" alt="Humanoid Icon" /> | Humanoid |
 
-### Skill Line Types
+### [Skill Line Types](/docs/all/skill-lines)
 | Icon | Name |
 |-----------|-------------|
-| <img src="/icons/mage.svg" alt="Mage Icon" /> | Mage |
-| <img src="/icons/thief.svg" alt="Thief Icon" /> | Thief |
-| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | Warrior |
+| <img src="/icons/mage.svg" alt="Mage Icon" /> | [Mage](/docs/category/mage) |
+| <img src="/icons/thief.svg" alt="Thief Icon" /> | [Thief](/docs/category/thief) |
+| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/category/warrior) |
 
 ### Encounters
 | Icon | Name |

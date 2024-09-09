@@ -49,7 +49,7 @@ const config: Config = {
       docsDir: './docs/',
       glossaryFilepath: './docs/glossary.md',
     },],
-    require.resolve('docusaurus-lunr-search'),
+    require.resolve('docusaurus-lunr-search')
   ],
   themeConfig: {
     // Replace with your project's social card

@@ -1,10 +1,9 @@
 ---
 id: morrowind
-title: Morrowind
-hoverText: "Code: MW"
+title: Morrowind [MW]
+hoverText: "Code: MW. Native Skill: Fumes."
 tags:
   - Morrowind
 ---
 
-- Code: **MW**
 - Native Skill: [Fumes](/docs/all/enemy-skills/native-skills/fumes)

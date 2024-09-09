@@ -1,10 +1,9 @@
 ---
 id: cyrodiil
-title: Cyrodiil
-hoverText: "Code: CY"
+title: Cyrodiil [CY]
+hoverText: "Code: CY. Native Skill: Detain."
 tags:
   - Cyrodiil
 ---
 
-- Code: **CY**
 - Native Skill: [Detain](/docs/all/enemy-skills/native-skills/detain)

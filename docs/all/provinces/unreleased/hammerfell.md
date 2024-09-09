@@ -1,9 +1,9 @@
 ---
 id: hammerfell
-title: Hammerfell
-hoverText: "Code: HF"
+title: Hammerfell [HF]
+hoverText: "Code: HF."
 tags:
   - Hammerfell
 ---
 
-- Code: **HF**
+*Yet to be released.*

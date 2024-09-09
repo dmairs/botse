@@ -1,10 +1,9 @@
 ---
 id: high-rock
-title: High Rock
-hoverText: "Code: HR"
+title: High Rock [HR]
+hoverText: "Code: HR. Native Skill: Incite."
 tags:
   - High Rock
 ---
 
-- Code: **HR**
 - Native Skill: [Incite](/docs/all/enemy-skills/native-skills/incite)

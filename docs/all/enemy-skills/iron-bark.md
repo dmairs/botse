@@ -6,4 +6,4 @@ tags:
   - Quest Unit Skill
 ---
 
-When this unit is dealt damage by non-adjacent units, its defense is increased by 1.
+When this unit is dealt damage by non-[adjacent](/docs/all/other/adjacent) units, its defense is increased by 1.

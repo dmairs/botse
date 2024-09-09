@@ -1,9 +1,9 @@
 ---
 id: elsweyr
-title: Elsweyr
-hoverText: "Code: EL"
+title: Elsweyr [EL]
+hoverText: "Code: EL."
 tags:
   - Elsweyr
 ---
 
-- Code: **EL**
+*Yet to be released.*

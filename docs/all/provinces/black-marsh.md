@@ -1,10 +1,9 @@
 ---
 id: black-marsh
-title: Black Marsh
-hoverText: "Code: BM"
+title: Black Marsh [BM]
+hoverText: "Code: BM. Native Skill: Storm Seer."
 tags:
   - Black Marsh
 ---
 
-- Code: **BM**
 - Native Skill: [Storm Seer](/docs/all/enemy-skills/native-skills/storm-seer)
