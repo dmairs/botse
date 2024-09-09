@@ -6,4 +6,4 @@ tags:
   - Quest Unit Skill
 ---
 
-When engaging an adjacent target, this units deals an additional 2 damage to its target.
+When engaging an [adjacent](/docs/all/other/adjacent) target, this units deals an additional 2 damage to its target.

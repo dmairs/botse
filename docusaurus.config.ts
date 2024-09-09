@@ -49,7 +49,7 @@ const config: Config = {
       docsDir: './docs/',
       glossaryFilepath: './docs/glossary.md',
     },],
-    require.resolve('docusaurus-lunr-search'),
+    require.resolve('docusaurus-lunr-search')
   ],
   themeConfig: {
     // Replace with your project's social card
@@ -65,6 +65,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
+          title: 'Contact',
+          items: [
+            {
+              label: 'Email',
+              to: 'mailto:dmairs@proton.me',
+            },
+          ],
+        },
+        {
           title: 'Official Chip Theory Games',
           items: [
             {
@@ -78,6 +87,7 @@ const config: Config = {
           ],
         },
       ],
+      
       copyright: `This site is a free community project not associated with Chip Theory Games in any way.`,
     },
     prism: {

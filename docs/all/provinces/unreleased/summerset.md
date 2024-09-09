@@ -1,9 +1,9 @@
 ---
 id: summerset
-title: Summerset
-hoverText: "Code: SU"
+title: Summerset [SU]
+hoverText: "Code: SU."
 tags:
   - Summerset
 ---
 
-- Code: **SU**
+*Yet to be released.*

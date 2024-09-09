@@ -25,7 +25,7 @@ title: Iconography Reference
 | <img src="/icons/weapon.svg" alt="Weapon Icon" /> | Weapon |
 
 
-### [Status Effects](/docs/category/status-effects/)
+### [Status Effects](/docs/all/status-effects/)
 | Icon | Name |
 |-----------|-------------|
 | <img src="/icons/bane.svg" alt="Bane Icon" /> | [Bane](/docs/all/status-effects/bane) |
@@ -51,17 +51,17 @@ title: Iconography Reference
 | <img src="/icons/daedra.svg" alt="Daedra Icon" /> | Daedra |
 | <img src="/icons/humanoid.svg" alt="Humanoid Icon" /> | Humanoid |
 
-### Skill Line Types
+### [Skill Line Types](/docs/all/skill-lines)
 | Icon | Name |
 |-----------|-------------|
-| <img src="/icons/mage.svg" alt="Mage Icon" /> | Mage |
-| <img src="/icons/thief.svg" alt="Thief Icon" /> | Thief |
-| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | Warrior |
+| <img src="/icons/mage.svg" alt="Mage Icon" /> | [Mage](/docs/category/mage-skills) |
+| <img src="/icons/thief.svg" alt="Thief Icon" /> | [Thief](/docs/category/thief-skills) |
+| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/category/warrior-skills) |
 
 ### Encounters
 | Icon | Name |
 |-----------|-------------|
-| <img src="/icons/conflict-outcome.svg" alt="Conflict Outcome Icon" /> | Conflict Outcome |
+| <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" /> | Conflict Outcome |
 | <img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" /> | Peaceful Outcome |
 | <img src="/icons/clash.svg" alt="Clash Icon" /> | Clash |
 | <img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon" /> | Unstable Clash |
@@ -73,16 +73,16 @@ title: Iconography Reference
 ### Map / Delve
 | Icon | Name |
 |-----------|-------------|
-| <img src="/icons/common-item.svg" alt="Common Item Icon" /> | Cache / Common Item |
+| <img src="/icons/common-item.svg" alt="Common Item Icon" /> | Common Item / Cache|
 | <img src="/icons/door.svg" alt="Door Icon" /> | Door Icon |
 | <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex |
 | <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" /> | Legendary Item |
-| <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> | Skyshard |
+| <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> | [Skyshard](/docs/all/other/skyshard) |
 
 ### Other
 | Icon | Name |
 |-----------|-------------|
-| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | Party Size |
+| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/all/other/party-size) |
 | <img src="/icons/tenacity.svg" alt="Tenacity Icon" /> | [Tenacity](/docs/all/other/tenacity) |
 | <img src="/icons/town.svg" alt="Town Icon" /> | Town |
 | <img src="/icons/xp.svg" alt="XP Icon" /> | [XP](/docs/all/other/xp.md) |
