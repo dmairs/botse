@@ -65,26 +65,8 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Contact',
-          items: [
-            {
-              label: 'Email',
-              to: 'mailto:dmairs@proton.me',
-            },
-          ],
-        },
-        {
-          title: 'Official Chip Theory Games',
-          items: [
-            {
-              label: 'Support',
-              to: 'https://chiptheorygames.com/support/',
-            },
-            {
-              label: 'Discord',
-              to: 'https://discord.com/invite/QcKpp9B',
-            },
-          ],
+          label: 'Feedback / Bugs / Suggestions',
+          to: 'mailto:dmairs@proton.me',
         },
       ],
       

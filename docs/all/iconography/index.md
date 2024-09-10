@@ -1,6 +1,6 @@
 ---
-id: icon-reference
-title: Iconography Reference
+id: iconograpy
+title: Iconography
 ---
 
 ### Resolving Skill Abilities
