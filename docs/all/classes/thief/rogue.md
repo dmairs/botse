@@ -16,7 +16,7 @@ hoverText: ""
 | 2             | Kickback        | Roll a number of enemy Combat dice equal to your [Stamina](/docs/all/stats/stamina) stat and [heal](/docs/all/glossary/healing) for 2 HP for each miss rolled.                                                                               |
 | 3 | Timely Escape | [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" class="icon-svg" />](/docs/all/battle-forms/light-weapon) or [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/all/battle-forms/heavy-weapon) **[Enduring](/docs/all/glossary/enduring):** Once per turn, you may reroll an enemy's engage that targets you. 
 | 3 | Caltrops | Move up to 3 hexes. Then, each non-quest enemy [adjacent](/docs/all/glossary/adjacent) to you rolls an engage against itself, ignoring its skills. |
-| 4 | Shadow Strike | Deal a targetable enemy damage equal to the number of [fatigue](/docs/all/glossary/fatigue) dice in your cooldown track. If this damage defeats that enemy, remove up to 2 light fatigue from your cooldown track. |
+| 4 | Shadow Strike | Deal a targetable enemy damage equal to the number of [fatigue](/docs/all/glossary/fatigue) dice in your [cooldown track](/docs/all/glossary/cooldown-track). If this damage defeats that enemy, remove up to 2 light fatigue from your cooldown track. |
 
 ## Master
 

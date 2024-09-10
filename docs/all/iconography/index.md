@@ -4,13 +4,13 @@ title: Iconography
 ---
 
 ### Resolving Skill Abilities
-| Icon                                                              | Name           |
-|-------------------------------------------------------------------|----------------|
-| <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | Active Slot    |
-| <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> | Cooldown Track |
-| <img src="/icons/drained.svg" alt="Drained Icon" />               | Drained        |
-| <img src="/icons/instant.svg" alt="Instant Icon" />               | Instant        |
-| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | Status Effect  |
+| Icon                                                              | Name                                                |
+|-------------------------------------------------------------------|-----------------------------------------------------|
+| <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Active Slot](/docs/all/glossary/active-slot)       |
+| <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> | [Cooldown Track](/docs/all/glossary/cooldown-track) |
+| <img src="/icons/drained.svg" alt="Drained Icon" />               | [Drained](/docs/all/glossary/drained)               |
+| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Instant](/docs/all/glossary/instant)               |
+| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Status Effect](/docs/all/glossary/status-effect)   |
 
 ### Item Types
 | Icon                                                            | Name          |
