@@ -11,19 +11,19 @@ When a defeated enemy is removed from the battle map, place it on top of the def
 
 
 ### Defeated Adventurers
-When a defeated [adventurer](/docs/all/glossary/adventurer) is removed from the battle map, place their chip on their race sheet. Any dice in the adventurer’s [active slots](/docs/all/glossary/active-slot) must be removed and exhausted. Dice in the defeated adventurer’s [cooldown track](/docs/all/glossary/cooldown-track) remain there. While defeated, an adventurer cannot take [turns](/docs/all/glossary/turn) or gain [fatigue](/docs/all/glossary/fatigue) or overfatigue (including during [fatigue rounds](/docs/all/glossary/fatigue-damage)).
+When a defeated [adventurer](/docs/all/glossary/adventurer) is removed from the battle map, place their chip on their race sheet. Any dice in the adventurer.s [active slots](/docs/all/glossary/active-slot) must be removed and exhausted. Dice in the defeated adventurer.s [cooldown track](/docs/all/glossary/cooldown-track) remain there. While defeated, an adventurer cannot take [turns](/docs/all/glossary/turn) or gain [fatigue](/docs/all/glossary/fatigue) or overfatigue (including during [fatigue rounds](/docs/all/glossary/fatigue-damage)).
 
-Item cards remain in the adventurer’s ready slots and pack but cannot be used while the adventurer is defeated.
+Item cards remain in the adventurer.s ready slots and pack but cannot be used while the adventurer is defeated.
 
-In battle, a defeated adventurer can be affected only by friendly abilities that specifically apply to a defeated adventurer. When that adventurer’s HP is raised above 0, they are revived and no longer defeated. If this happens in battle, the revived adventurer is deployed to an [unoccupied](/docs/all/glossary/occupied.) hex as described by the ability that revived them.
+In battle, a defeated adventurer can be affected only by friendly abilities that specifically apply to a defeated adventurer. When that adventurer.s HP is raised above 0, they are revived and no longer defeated. If this happens in battle, the revived adventurer is deployed to an [unoccupied](/docs/all/glossary/occupied.) hex as described by the ability that revived them.
 
 
 ### Full Party Defeat
 If your entire [party](/docs/all/glossary/party) is defeated, the encounter ends after the current [round](/docs/all/glossary/battle-round), unless the party triggers its [guild assist](/docs/all/glossary/guild-assist). Treat a full party defeat as a failed encounter and follow the steps below:
 
-1.  Place the party token in the [closest](/docs/all/glossary/closest) town to the party’s current location on the overland map.
+1.  Place the party token in the [closest](/docs/all/glossary/closest) town to the party.s current location on the overland map.
 2.  Resolve the [Reward Phase](/docs/all/day/reward-phase).
-3.  Resolve the [End of Day Phase’s](/docs/all/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/all/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/all/glossary/adventurer) [heal](/docs/all/glossary/healing) for 1 HP even if they do not [discard](/docs/all/glossary/discard) an item (but still must discard an item to [recover](/docs/all//glossary/recover) a die from their [cooldown track](/docs/all/glossary/cooldown-track)).
+3.  Resolve the [End of Day Phase.s](/docs/all/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/all/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/all/glossary/adventurer) [heal](/docs/all/glossary/healing) for 1 HP even if they do not [discard](/docs/all/glossary/discard) an item (but still must discard an item to [recover](/docs/all//glossary/recover) a die from their [cooldown track](/docs/all/glossary/cooldown-track)).
 
 
 ### Defeating Units
