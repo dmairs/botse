@@ -4,4 +4,4 @@ title: Decay
 hoverText: At the end of this unit's turn, it is dealt 1 true damage.
 ---
 
-At the end of this unit's turn, it is dealt 1 [true damage](/docs/all/other/true-damage).
+At the end of this unit's turn, it is dealt 1 [true damage](/docs/all/glossary/true-damage).

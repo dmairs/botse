@@ -11,5 +11,5 @@ hoverText: "Health: 4, Stamina: 2, Magicka: 2, Combat: 3, Cooldown: 2"
 | [Health](/docs/all/stats/health)    |   4   |
 | [Stamina](/docs/all/stats/stamina)   |   2   |
 | [Magicka](/docs/all/stats/magicka)   |   2   |
-| [Combat](/docs/all/stats/combat)    |    3  |
+| [Combat](/docs/all/skill-lines/combat)    |    3  |
 | [Cooldown](/docs/all/stats/cooldown)  |  2    |

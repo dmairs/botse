@@ -7,4 +7,4 @@ tags:
   - Valenwood
 ---
 
-When this unit is dealt damage by non-[adjacent](/docs/all/other/adjacent) units, its defense is increased by 1 for that engage.
+When this unit is dealt damage by non-[adjacent](/docs/all/glossary/adjacent) units, its defense is increased by 1 for that engage.
