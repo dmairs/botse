@@ -80,10 +80,11 @@ title: Iconography
 | <img src="/icons/skyshard.svg" alt="Skyshard Icon" />                         | [Skyshard](/docs/all/glossary/skyshard) |
 
 ### Miscellaneous
-| Icon                                                      | Name                                        |
-|-----------------------------------------------------------|---------------------------------------------|
-| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/all/glossary/party-size) |
-| <img src="/icons/tenacity.svg" alt="Tenacity Icon" />     | [Tenacity](/docs/all/glossary/tenacity)     |
-| <img src="/icons/town.svg" alt="Town Icon" />             | Town                                        |
-| <img src="/icons/xp.svg" alt="XP Icon" />                 | [XP](/docs/all/glossary/xp.md)              |
+| Icon                                                      | Name                                               |
+|-----------------------------------------------------------|----------------------------------------------------|
+| <img src="/icons/fatigue.svg" alt="Fatigue Round Icon" /> | [Fatigue Round](/docs/all/glossary/fatigue-damage) |
+| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/all/glossary/party-size)        |
+| <img src="/icons/tenacity.svg" alt="Tenacity Icon" />     | [Tenacity](/docs/all/glossary/tenacity)            |
+| <img src="/icons/town.svg" alt="Town Icon" />             | Town                                               |
+| <img src="/icons/xp.svg" alt="XP Icon" />                 | [XP](/docs/all/glossary/xp.md)                     |
 
