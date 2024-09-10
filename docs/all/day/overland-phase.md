@@ -37,7 +37,7 @@ These are triggered when the party moves into a hex with a landmark. In this cas
 #### Peaceful landmark <img src="/icons/peaceful.svg" alt="Peaceful Landmark Icon" class="icon-svg" />
 Draw a peaceful encounter card.
 
-After the party resolves a peaceful encounter card, set that card aside (regardless of whether the encounter was successful) until the end of the day so its icon can be referred to when activating the [provinces'](/docs/category/provinces) effect during the [End of Day Phase](/docs/all/day/end-of-day-phase). 
+After the party resolves a peaceful encounter card, set that card aside until the end of the day so its icon can be referred to when activating the [provinces'](/docs/category/provinces) effect during the [End of Day Phase](/docs/all/day/end-of-day-phase). 
 
 #### Conflict landmark <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" class="icon-svg" />
 Draw a conflict encounter card.
@@ -45,4 +45,4 @@ Draw a conflict encounter card.
 #### Unstable landmark <img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" class="icon-svg" />
 Roll the unstable die and draw the type of overland card matching the icon result. If the result is <img src="/icons/town.svg" alt="Town Icon" class="icon-svg" />, trigger a town encounter with a traveling caravan instead.
 
-If a choice icon on the back of the overland card is the “unstable” version of itself (<img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon"  class="icon-svg" /> / <img src="/icons/unstable-delve.svg" alt="Unstable Delve Icon" class="icon-svg" /> / <img src="/icons/unstable-peaceful.svg" alt="Unstable Peaceful Icon" class="icon-svg" />), it is an unstable choice. If the party is at an unstable landmark, they **must** resolve that choice (that choice is optional if not at an unstable landmark). After the party completes an encounter at an unstable landmark, each adventurer gains 2 [tenacity](/docs/all/glossary/tenacity) during the [Reward Phase](/docs/all/day/reward-phase).
+If a choice icon on the back of the overland card is the “unstable” version of itself (<img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon"  class="icon-svg" /> / <img src="/icons/unstable-delve.svg" alt="Unstable Delve Icon" class="icon-svg" /> / <img src="/icons/unstable-peaceful.svg" alt="Unstable Peaceful Icon" class="icon-svg" />), it is an unstable choice. If the party is at an unstable landmark, they **must** resolve that choice (that choice is optional if not at an unstable landmark). After the party completes an encounter at an unstable landmark (regardless of whether the encounter was successful), each adventurer gains 2 [tenacity](/docs/all/glossary/tenacity) during the [Reward Phase](/docs/all/day/reward-phase).
