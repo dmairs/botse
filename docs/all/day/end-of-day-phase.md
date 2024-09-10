@@ -19,7 +19,7 @@ To do so, follow the substeps below in order:
 
 
 ## 2. Adventurers Rest
-During this step, the adventurers heal, remove dice from their cooldown tracks, and exchange items with each other. 
+During this step, the adventurers [heal](/docs/all/other/healing), remove dice from their cooldown tracks, and exchange items with each other. 
 
 :::info
 On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a <img src="/icons/consumable.svg" alt="Consumable Item Icon" class="icon-svg" />, the adventurer may resolve that item's effects before discarding it (if applicable).

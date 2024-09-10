@@ -8,3 +8,7 @@ Some abilities cause an adventurer to gain bonus HP. These HP chips are not adde
 
 - Bonus HP is not counted when determining enemy targeting priority, such as the [strongest](/docs/all/other/strongest) or [weakest](/docs/all/other/weakest) unit.
 - Bonus HP remains until it is lost or the next time a battle ends. 
+
+:::info
+Non-adventurer units cannot gain bonus HP.
+:::

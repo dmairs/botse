@@ -6,7 +6,7 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Defeat a level 10/20 enemy or a quest unit while you have a [Stealth](/docs/all/status-effects/stealth.md) (<img src="/icons/stealth.svg" alt="Stealth Icon" class="icon-svg" />) status die in your cooldown track. 
+**Upgrade**: Defeat a level 10/20 enemy or a quest [unit](/docs/all/other/unit) while you have a [Stealth](/docs/all/status-effects/stealth.md) (<img src="/icons/stealth.svg" alt="Stealth Icon" class="icon-svg" />) status die in your cooldown track. 
 
 **Innate Ability**: When a [Stealth](/docs/all/status-effects/stealth.md) (<img src="/icons/stealth.svg" alt="Stealth Icon" class="icon-svg" />) status die in removed or recovered from your cooldown track, you may move up to 4 hexes. 
 
@@ -20,7 +20,7 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: When a [Stealth](/docs/all/status-effects/stealth.md) (<img src="/icons/stealth.svg" alt="Stealth Icon" class="icon-svg" />) status die in removed or recovered from your cooldown track, you may heal for 1 HP and place 
+**Innate Ability**: When a [Stealth](/docs/all/status-effects/stealth.md) (<img src="/icons/stealth.svg" alt="Stealth Icon" class="icon-svg" />) status die in removed or recovered from your cooldown track, you may [heal](/docs/all/other/healing) for 1 HP and place 
 yourself in an [unoccupied](/docs/all/other/occupied) hex up to 4 hexes away. 
 
 | Tenacity Cost | Name | Ability |
