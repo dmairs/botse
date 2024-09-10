@@ -1,10 +1,10 @@
 ---
 id: defensive
 title: Defensive
-hoverText: "No range. This form represents using the Combat skill to prevent damage instead of dealing it, or setting up other defensive skills such as Heavy Armor."
+hoverText: "Range: N/a. This form represents using the Combat skill to prevent damage instead of dealing it, or setting up other defensive skills such as Heavy Armor."
 ---
 
 <img src="/icons/defensive.svg" />
-Represents using the Combat skill to prevent damage instead of dealing it, or setting up other defensive skills such as Heavy Armor.
+**Range:** N/a.
 
-*No range*
+Represents using the [Combat](/docs/all/skill-lines/combat) skill to prevent damage instead of dealing it, or setting up other defensive skills such as [Heavy Armor](/docs/all/skill-lines/warrior/heavy-armor.md).
