@@ -1,7 +1,7 @@
 ---
 id: combat
 title: Combat
-hoverText: ""
+hoverText: "Combat has 1 type of skill die. Can be rolled in any battle form except Magic. Cannot be untrained."
 ---
 
 This special skill line represents an [adventurer's](/docs/all/glossary/adventurer) innate fighting ability. Combat is different from the other skill lines in that it has only 1 type of skill die. Combat dice are flexible enough to be rolled with any battle form except magic ([<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/all/battle-forms/magic)) and can be rolled in defensive battle form ([<img src="/icons/defensive.svg" alt="Defensive Icon" class="icon-svg" />](/docs/all/battle-forms/defensive)) to prevent damage. 
