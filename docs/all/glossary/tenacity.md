@@ -15,4 +15,4 @@ Some abilities cause additional dice to be rolled with <img src="/icons/tenacity
 
 Adventurers:
 - Only gain tenacity for dice results they rolled during an engage, regardless of whose turn it is.
-- Do not gain tenacity when they are instructed to exhaust dice or place dice in their cooldown track with a tenacity result faceup.
+- Do not gain tenacity when they are instructed to exhaust dice or place dice in their [cooldown track](/docs/all/glossary/cooldown-track) with a tenacity result faceup.

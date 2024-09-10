@@ -10,21 +10,21 @@ hoverText: ""
 
 **Innate Ability**: Once per turn, you may drain 1 available level 1 skill die to trigger the effect of any of its <img src="/icons/instant.svg" alt="Instant Icon" class="icon-svg" /> sides as if you are performing an engage.
 
-| Tenacity Cost | Name         | Ability                                                                                                                                 |
-|---------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| X             | Hero's Vigor | Recover 1 drained skill die. The [tenacity](/docs/all/glossary/tenacity) cost of this skill is equal to the level of the recovered die. |
+| Tenacity Cost | Name         | Ability                                                                                                                                                               |
+|---------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| X             | Hero's Vigor | Recover 1 [drained](/docs/all/glossary/drained) skill die. The [tenacity](/docs/all/glossary/tenacity) cost of this skill is equal to the level of the recovered die. |
 | 1 | Meticulous Disassembly | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/all/battle-forms/magic): Discard an item. Then, [heal](/docs/all/glossary/healing) for 3 HP. If you discarded a <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" /> also deal 3 damage to an [adjacent](/docs/all/glossary/adjacent) enemy.
 | 3 | Soul Reservoir | **[Interrupt](/docs/all/glossary/interrupt):** When you are dealt damage, prevent an amount of that damage equal to the number of enemies in the defeated stack. |
-| 3 | Reaving Blows | [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/all/battle-forms/heavy-weapon) or [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" class="icon-svg" />](/docs/all/battle-forms/light-weapon): |
+| 3 | Reaving Blows | [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/all/battle-forms/heavy-weapon) or [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" class="icon-svg" />](/docs/all/battle-forms/light-weapon): Drain an available [<img src="/icons/warrior.svg" alt="Warrior Icon" class="icon-svg" />](/docs/category/warrior-skills/) type skill die. Then, deal 2 [true damage](/docs/all/glossary/true-damage) to a targetable enemy and [heal](/docs/all/glossary/healing) for 2 HP. |
 | 5 | Strategic Reserve | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/all/battle-forms/magic): Refresh any adventurer's race ability. |
 
 ## Master
 
 **Innate Ability**: Once per turn, you may drain 1 level 1 skill die from anywhere on your adventurer mat to trigger the effect of any of its <img src="/icons/instant.svg" alt="Instant Icon" class="icon-svg" /> sides as if you are performing an engage.
 
-| Tenacity Cost | Name         | Ability                                                                                                                                 |
-|---------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| X             | Hero's Vigor | Recover 1 drained skill die. The [tenacity](/docs/all/glossary/tenacity) cost of this skill is equal to the level of the recovered die. |
+| Tenacity Cost | Name         | Ability                                                                                                                                                               |
+|---------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| X             | Hero's Vigor | Recover 1 [drained](/docs/all/glossary/drained) skill die. The [tenacity](/docs/all/glossary/tenacity) cost of this skill is equal to the level of the recovered die. |
 | 1 | Meticulous Disassembly | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/all/battle-forms/magic): Discard an item. Then, [heal](/docs/all/glossary/healing) for 5 HP and deal 3 damage to an [adjacent](/docs/all/glossary/adjacent) enemy.
 | 2 | Soul Reservoir | **[Interrupt](/docs/all/glossary/interrupt):** When you are dealt damage, prevent an amount of that damage equal to the number of enemies in the defeated stack. |
 | 3 | Eldritch Insight | **[Enduring](/docs/all/glossary/enduring):** You may use your innate ability on a skill die of any level. |
