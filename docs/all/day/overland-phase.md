@@ -37,7 +37,7 @@ These are triggered when the party moves into a hex with a landmark. In this cas
 #### Peaceful landmark <img src="/icons/peaceful.svg" alt="Peaceful Landmark Icon" class="icon-svg" />
 Draw a peaceful encounter card.
 
-After the party resolves a peaceful encounter card, set that card aside until the end of the day so its icon can be referred to when activating the [provinces'](/docs/category/provinces) effect during the [End of Day Phase](/docs/all/day/end-of-day-phase). 
+After the party resolves a peaceful encounter card, set that card aside (regardless of whether the encounter was successful) until the end of the day so its icon can be referred to when activating the [provinces'](/docs/category/provinces) effect during the [End of Day Phase](/docs/all/day/end-of-day-phase). 
 
 #### Conflict landmark <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" class="icon-svg" />
 Draw a conflict encounter card.
