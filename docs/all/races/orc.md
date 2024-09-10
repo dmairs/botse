@@ -4,7 +4,7 @@ title: Orc
 hoverText: "Health: 5, Stamina: 2, Magicka: 2, Combat: 1, Cooldown: 3"
 ---
 
-**Ability [Swift Warrior]**: Once per battle, after the end of your turn, gain 1 [overfatigue](/docs/all/other/fatigue) to take an extra turn.
+**Ability [Swift Warrior]**: Once per battle, after the end of your turn, gain 1 [overfatigue](/docs/all/glossary/fatigue) to take an extra turn.
 
 | Stat | Value |
 |-----------|-------|

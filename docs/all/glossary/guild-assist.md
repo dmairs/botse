@@ -9,7 +9,7 @@ hoverText: "Once per campaign, the party may trigger its guild assist, either du
 When this ability is triggered, each adventurer (including defeated adventurers) immediately:
 
 -  Heals to their full HP.
--  Removes all light [fatigue](/docs/all/other/fatigue), overfatigue, and status dice from their cooldown track.
+-  Removes all light [fatigue](/docs/all/glossary/fatigue), overfatigue, and status dice from their cooldown track.
 -  May recover any number of exhausted and drained skill dice. 
 -  Draws 1 <img src="/icons/legendary-item.svg" alt="Legandary Item Icon" class="icon-svg" /> and 1 <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />, gaining both (following normal inventory restrictions). 
 

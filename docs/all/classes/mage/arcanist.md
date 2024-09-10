@@ -15,10 +15,10 @@ tags:
 | Tenacity Cost | Name | Ability |
 |-----------|-------|-------|
 | 1 | The Imperfect Ring | Place 1 crux token on a targetable non-quest enemy. Damage from every Combat skill die applied to this enemy is increased by 1, even if 0 damage is rolled. |
-| 2 | Apocryphal Gate | Place 1 crux token in any hex on the overland map. Hexes with crux tokens in them are always considered [adjacent](/docs/all/other/adjacent) to the party token. After moving into a hex with a crux token, discard it. |
-| 3 | Tome-Bearer's Inspiration | **[Interrupt](/docs/all/other/interrupt):** When you would discard a <img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" /> or <img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" /> due to using its overtax effect, discard a crux token instead. |
+| 2 | Apocryphal Gate | Place 1 crux token in any hex on the overland map. Hexes with crux tokens in them are always considered [adjacent](/docs/all/glossary/adjacent) to the party token. After moving into a hex with a crux token, discard it. |
+| 3 | Tome-Bearer's Inspiration | **[Interrupt](/docs/all/glossary/interrupt):** When you would discard a <img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" /> or <img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" /> due to using its overtax effect, discard a crux token instead. |
 | 4 | Gibbering Shield | Place 1 crux token in an active slot. When you are dealt any amount of damage, discard this crux token to prevent all of the damage. |
-| 5 | Fatecarver | Discard all crux tokens from this sheet. For each crux token discarded, deal 3 [true damage](/docs/all/other/true-damage) to a targetable non-quest enemy. |
+| 5 | Fatecarver | Discard all crux tokens from this sheet. For each crux token discarded, deal 3 [true damage](/docs/all/glossary/true-damage) to a targetable non-quest enemy. |
 
 ## Master
 
@@ -28,8 +28,8 @@ tags:
  | Tenacity Cost | Name | Ability |
 |-----------|-------|-------|
 | 1 | The Imperfect Ring | Place 1 crux token on a targetable non-quest enemy. Damage from every Combat skill die applied to this enemy is increased by 1, even if 0 damage is rolled. |
-| 1 | Apocryphal Gate | Place 1 crux token in any hex on the overland map. Hexes with crux tokens in them are always considered [adjacent](/docs/all/other/adjacent) to the party token. After moving into a hex with a crux token, discard it. |
-| 2 | Runemend | Gain 1 [bonus HP](/docs/all/other/bonus-hp) for each crux token on this sheet.  |
-| 3 | Tome-Bearer's Inspiration | **[Interrupt](/docs/all/other/interrupt):** When you would discard a <img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" /> or <img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" /> due to using its overtax effect, discard a crux token instead. |
+| 1 | Apocryphal Gate | Place 1 crux token in any hex on the overland map. Hexes with crux tokens in them are always considered [adjacent](/docs/all/glossary/adjacent) to the party token. After moving into a hex with a crux token, discard it. |
+| 2 | Runemend | Gain 1 [bonus HP](/docs/all/glossary/bonus-hp) for each crux token on this sheet.  |
+| 3 | Tome-Bearer's Inspiration | **[Interrupt](/docs/all/glossary/interrupt):** When you would discard a <img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" /> or <img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" /> due to using its overtax effect, discard a crux token instead. |
 | 3 | Gibbering Shield | Place 1 crux token in an active slot. When you are dealt any amount of damage, discard this crux token to prevent all of the damage. |
-| 5 | Fatecarver | Discard all crux tokens from this sheet. For each crux token discarded, deal 3 [true damage](/docs/all/other/true-damage) to a targetable non-quest enemy. |
+| 5 | Fatecarver | Discard all crux tokens from this sheet. For each crux token discarded, deal 3 [true damage](/docs/all/glossary/true-damage) to a targetable non-quest enemy. |

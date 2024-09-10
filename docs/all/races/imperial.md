@@ -4,7 +4,7 @@ title: Imperial
 hoverText: "Health: 5, Stamina: 2, Magicka: 2, Combat: 2, Cooldown: 2"
 ---
 
-**Ability [Imperial Mettle]**: Once per battle, when you would be dealt 3 or fewer damage, prevent that damage and instead gain that much [tenacity](/docs/all/other/tenacity).
+**Ability [Imperial Mettle]**: Once per battle, when you would be dealt 3 or fewer damage, prevent that damage and instead gain that much [tenacity](/docs/all/glossary/tenacity).
 
 | Stat | Value |
 |-----------|-------|

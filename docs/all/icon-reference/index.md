@@ -77,13 +77,13 @@ title: Iconography Reference
 | <img src="/icons/door.svg" alt="Door Icon" /> | Door Icon |
 | <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex |
 | <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" /> | Legendary Item |
-| <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> | [Skyshard](/docs/all/other/skyshard) |
+| <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> | [Skyshard](/docs/all/glossary/skyshard) |
 
-### Other
+### Miscellaneous
 | Icon | Name |
 |-----------|-------------|
-| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/all/other/party-size) |
-| <img src="/icons/tenacity.svg" alt="Tenacity Icon" /> | [Tenacity](/docs/all/other/tenacity) |
+| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/all/glossary/party-size) |
+| <img src="/icons/tenacity.svg" alt="Tenacity Icon" /> | [Tenacity](/docs/all/glossary/tenacity) |
 | <img src="/icons/town.svg" alt="Town Icon" /> | Town |
-| <img src="/icons/xp.svg" alt="XP Icon" /> | [XP](/docs/all/other/xp.md) |
+| <img src="/icons/xp.svg" alt="XP Icon" /> | [XP](/docs/all/glossary/xp.md) |
 
