@@ -20,6 +20,6 @@ Some encounter rules or other abilities refer to defeated [units](/docs/all/glos
 
 These units follow the rules below:
 
--   The unit’s chip remains in its hex until it is removed as described by the effect. Until the chip is removed, its hex is considered [occupied](/docs/all/glossary/occupied).
--   While it is on the battle map, that defeated [unit](/docs/all/glossary/unit) cannot take turns and its chip is not a [targetable](/docs/all/glossary/targetable) unit for engage actions or other abilities (unless specifically instructed). The unit’s chip is treated as a defeated unit of its type for resolving abilities.
+-   The unit's chip remains in its hex until it is removed as described by the effect. Until the chip is removed, its hex is considered [occupied](/docs/all/glossary/occupied).
+-   While it is on the battle map, that defeated [unit](/docs/all/glossary/unit) cannot take turns and its chip is not a [targetable](/docs/all/glossary/targetable) unit for engage actions or other abilities (unless specifically instructed). The unit's chip is treated as a defeated unit of its type for resolving abilities.
 
