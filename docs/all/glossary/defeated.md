@@ -23,7 +23,7 @@ If your entire [party](/docs/all/glossary/party) is defeated, the encounter ends
 
 1.  Place the party token in the [closest](/docs/all/glossary/closest) town to the party.s current location on the overland map.
 2.  Resolve the [Reward Phase](/docs/all/day/reward-phase).
-3.  Resolve the [End of Day Phase.s](/docs/all/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/all/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/all/glossary/adventurer) [heal](/docs/all/glossary/healing) for 1 HP even if they do not [discard](/docs/all/glossary/discard) an item (but still must discard an item to [recover](/docs/all//glossary/recover) a die from their [cooldown track](/docs/all/glossary/cooldown-track)).
+3.  Resolve the [End of Day Phase.s](/docs/all/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/all/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/all/glossary/adventurer) [heal](/docs/all/glossary/healing) for 1 HP even if they do not [discard](/docs/all/glossary/discard) an item (but still must discard an item to [recover](/docs/all/glossary/recover) a die from their [cooldown track](/docs/all/glossary/cooldown-track)).
 
 
 ### Defeating Units

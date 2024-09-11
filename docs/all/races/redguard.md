@@ -4,7 +4,7 @@ title: Redguard
 hoverText: "Health: 4, Stamina: 3, Magicka: 2, Combat: 3, Cooldown: 1"
 ---
 
-**Ability [Adrenaline Rush]**: Once per battle, during your turn, remove up to 3 [overfatigue](/docs/all/glossary/fatigue) or status dice from your [cooldown track](/docs/all/glossary/cooldown-track) and [heal](/docs/all/glossary/healing) for 1 HP for each die removed. If the total HP recovered exceeds your [Health](/docs/all/stats/health) stat, it is gained as [bonus HP](/docs/all/glossary/bonus-hp).
+**Ability [Adrenaline Rush]**: Once per battle, during your turn, remove up to 3 [fatigue](/docs/all/glossary/fatigue) or status dice from your [cooldown track](/docs/all/glossary/cooldown-track) and [heal](/docs/all/glossary/healing) for 1 HP for each die removed. If the total HP recovered exceeds your [Health](/docs/all/stats/health) stat, it is gained as [bonus HP](/docs/all/glossary/bonus-hp).
 
 
 | Stat                                   | Value |

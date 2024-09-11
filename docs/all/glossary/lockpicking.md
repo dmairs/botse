@@ -4,9 +4,9 @@ title: Lockpicking
 hoverText: ""
 ---
 
-[Adventurers](/docs/all/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/all/glossary/cache) or disarm [traps](/docs/all/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism’s difficulty code. If they succeed, they pick the lock or disarm the trap, even if in the middle of an action. If they fail, that lock remains in place or the trap’s effect is tripped.
+[Adventurers](/docs/all/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/all/glossary/cache) or disarm [traps](/docs/all/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism's difficulty code. If they succeed, they pick the lock or disarm the trap, even if in the middle of an action. If they fail, that lock remains in place or the trap's effect is tripped.
 
-During a battle, a lockpick check can be made when an [adventurer](/docs/all/glossary/adventurer) moves into a hex with a [cache](/docs/all/glossary/cache) or [trap](/docs/all/glossary/trap), even if in the middle of an action. During a town or peaceful encounter, a lockpick check can be made only when the encounter’s text describes it.
+During a battle, a lockpick check can be made when an [adventurer](/docs/all/glossary/adventurer) moves into a hex with a [cache](/docs/all/glossary/cache) or [trap](/docs/all/glossary/trap), even if in the middle of an action. During a town or peaceful encounter, a lockpick check can be made only when the encounter's text describes it.
 
 ## Difficulty Codes
 A difficulty code has the following elements, shown on the backs of item cards and within the trap effect text of delve cards.
