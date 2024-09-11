@@ -1,7 +1,7 @@
 ---
 id: move-or-place
 title: Move/Place
-hoverText: "The route to that feature or token that consists of the fewest hexes between that feature and the component being measured to (or from)."
+hoverText: "Placing a unit is resolved by removing that unit from the map and placing it in a hex as described."
 ---
 
 Some abilities grant additional movement, which may occur outside of a typical move action. There are also abilities that place a unit, which is different than moving it. Placing a unit is resolved by removing that unit from the map (or from outside the map) and placing it in a hex as described.
