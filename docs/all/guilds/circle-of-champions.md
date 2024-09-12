@@ -1,7 +1,7 @@
 ---
 id: circle-of-champions
 title: Circle of Champions
-hoverText: "Guild Kiosk Town Action: Search the Common Item Deck and gain the first Weapon or Armor item. Then, shuffle the deck."
+hoverText: Guild Kiosk Town Action - Search the Common Item Deck and gain the first Weapon or Armor item. Then, shuffle the deck.
 ---
 
 Tamriel's premier professional fighting organization is renowned for running dangerous tournaments in battlegrounds across the land. The Circle of Champions is always in need of new gladiators.

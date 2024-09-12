@@ -1,7 +1,7 @@
 ---
 id: colossal
 title: Colossal
-hoverText: This unit deploys with additional HP equal to the total number of Combat skill dice trained by adventurers.
+hoverText: This [unit](/docs/all/glossary/unit) deploys with additional HP equal to the total number of [Combat](/docs/all/skill-lines/combat) skill dice trained by [adventurers](/docs/all/glossary/adventurer).
 ---
 
-This unit deploys with additional HP equal to the total number of Combat skill dice trained by adventurers.
+This [unit](/docs/all/glossary/unit) deploys with additional HP equal to the total number of [Combat](/docs/all/skill-lines/combat) skill dice trained by [adventurers](/docs/all/glossary/adventurer).

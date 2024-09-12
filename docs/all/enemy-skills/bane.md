@@ -1,7 +1,7 @@
 ---
 id: bane
 title: Bane
-hoverText: After the unit's engage, apply a Bane status die to this unit's target.
+hoverText: After this [unit's](/docs/all/glossary/unit) [engage](/docs/all/glossary/engage), apply a [Bane](/docs/all/status-effects/bane) status die to this unit's target.
 ---
 
-After the unit's engage, apply a Bane status die to this unit's target.
+After this [unit's](/docs/all/glossary/unit) [engage](/docs/all/glossary/engage), apply a [Bane](/docs/all/status-effects/bane) (<img src="/icons/bane.svg" alt="Bane Icon" class="icon-svg" />) status die to this unit's target.
