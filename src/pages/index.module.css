@@ -8,15 +8,14 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #1c1e21;
   color: #ffffff;
 
   background-size: cover;
   background-position: center;
-  border-top: 5px solid rgb(49, 49, 49);;
-  border-bottom: 5px solid rgb(49, 49, 49);
+  border-top: 5px solid rgb(26 26 26);
+  border-bottom: 5px solid rgb(26 26 26);
 }
-
 
 @media screen and (max-width: 996px) {
   .heroBanner {
