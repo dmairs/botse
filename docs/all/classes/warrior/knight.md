@@ -11,7 +11,7 @@ hoverText: ""
 **Innate Ability**: After the party gains a side quest, [heal](/docs/all/glossary/healing) to full HP or gain 3 [tenacity](/docs/all/glossary/tenacity).
 
 | Tenacity Cost | Name                | Ability                                                                                                                                                                                         |
-|---------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Honor Duel          | If there is only 1 enemy within 3 hexes of you, deal 3 damage to that enemy.                                                                                                                    |
 | 1             | Solemn Vow          | Remove a status die from your cooldown track and apply it to a non-quest enemy within 2 hexes of you.                                                                                           |
 | 2             | Order's Edict       | **[Interrupt](/docs/all/glossary/interrupt):** At the start of any unit's turn, choose any enemy in play. For the rest of the turn, each engage targeting this enemy deals 1 additional damage. |
@@ -23,7 +23,7 @@ hoverText: ""
 **Innate Ability**: After the party gains a side quest, [heal](/docs/all/glossary/healing) to full HP or gain 3 [tenacity](/docs/all/glossary/tenacity). After completing a side quest with your party, [heal](/docs/all/glossary/healing) to full HP and clear your cooldown track.
 
 | Tenacity Cost | Name                | Ability                                                                                                                                                                                                                                      |
-|---------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Honor Duel          | If there is only 1 enemy within 3 hexes of you, deal 3 damage to that enemy.                                                                                                                                                                 |
 | 1             | Solemn Vow          | Remove a status die from your cooldown track and apply it to a non-quest enemy within 2 hexes of you.                                                                                                                                        |
 | 2             | Order's Edict       | **[Interrupt](/docs/all/glossary/interrupt):** At the start of any unit's turn, choose any enemy in play. For the rest of the turn, each engage targeting this enemy deals 1 additional damage.                                              |

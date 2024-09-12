@@ -7,6 +7,6 @@ hoverText: "Range: Non-adjacent up to Stamina stat. This represents ranged engag
 <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" />
 **Range:** Non-adjacent, up to [Stamina](/docs/all/stats/stamina) stat.
 
-Represents ranged engages using skills such as Bow. [Adjacent](/docs/all/glossary/adjacent) [units](/docs/all/glossary/unit) cannot be targeted in this form, but [range](/docs/all/glossary/range) is counted as normal. 
+Represents ranged engages using skills such as Bow. [Adjacent](/docs/all/glossary/adjacent) [units](/docs/all/glossary/unit) cannot be targeted in this form, but [range](/docs/all/glossary/range) is counted as normal.
 
 For example, an adventurer in Ranged Weapon form with 3 [Stamina](/docs/all/stats/stamina) can target units 2 or 3 hexes away, but not adjacent units.

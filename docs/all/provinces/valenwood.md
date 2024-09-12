@@ -7,4 +7,3 @@ tags:
 ---
 
 - Native Skill: [Iron Bark](/docs/all/enemy-skills/native-skills/iron-bark)
-
