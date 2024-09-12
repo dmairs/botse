@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://botse.pages.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -35,10 +35,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/',
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: ['./src/css/custom.css', './src/css/tooltip.css'],	
         },
       } satisfies Preset.Options,
     ],
@@ -78,7 +79,7 @@ const config: Config = {
         autoCollapseCategories: false,
       },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           label: 'Feedback / Bugs / Suggestions',

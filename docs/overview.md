@@ -2,6 +2,7 @@
 id: overview
 title: Overview
 sidebar_position: 1
+slug: /
 ---
 
 Welcome to the BOTSE Helper!
