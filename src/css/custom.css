@@ -16,7 +16,7 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #61caff;
   --ifm-color-primary-dark: #3ebeff;
   --ifm-color-primary-darker: #2cb8ff;
@@ -31,8 +31,15 @@
   display: none !important;
 }
 
+h1 img {
+  vertical-align: bottom;
+}
+
 .icon-svg {
   width: 1.5em;
-  height: 1.5em;
   vertical-align: bottom;
+}
+
+.table-of-contents .icon-svg {
+  display: none;
 }

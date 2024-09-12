@@ -1,0 +1,8 @@
+{
+  "label": "Native Skills",
+  "link": {
+    "type": "generated-index",
+    "slug": "/enemy-skills/native-skills/",
+    "description": "This unit has the skill specific to the current province."
+  }
+}

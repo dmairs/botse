@@ -1,29 +1,28 @@
 .rc-tooltip {
-    background-color: #fff !important;
-    font-size: 1rem !important;
+  background-color: #fff !important;
+  font-size: 1rem !important;
 }
 
 .rc-tooltip .rc-tooltip-inner .mytooltip.white p {
-    margin: 0;
-    font-size: 0.85rem !important;
+  margin: 0;
+  font-size: 0.85rem !important;
 }
 
 .mytooltip {
-    border-radius: 0px !important;
-    border: none !important;
+  border-radius: 0px !important;
+  border: none !important;
 }
 
 .rc-tooltip-inner {
-    border-radius:0px !important;
-    border: 1px solid #7f7f7f !important;
+  border-radius: 0px !important;
+  border: 1px solid #7f7f7f !important;
 }
 
-
-html[data-theme='dark'] .mytooltip {
-    background-color: #333;
-    color: #fff;
+html[data-theme="dark"] .mytooltip {
+  background-color: #242526;
+  color: #fff;
 }
 
-html[data-theme='dark'] .mytooltip h4 {
-    color: #fff;
+html[data-theme="dark"] .mytooltip h4 {
+  color: #fff;
 }

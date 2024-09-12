@@ -1,30 +1,28 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
-import Link from '@docusaurus/Link';
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
 
 type FeatureItem = {
   url?: string;
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    url: '/docs/overview',
-    title: 'Go to References & Guides',
-    Svg: require('@site/static/img/books.svg').default,
-    description: (
-      <>      </>
-    ),
-  }
+    url: "/docs/",
+    title: "Go to References & Guides",
+    Svg: require("@site/static/img/books.svg").default,
+    description: <> </>,
+  },
 ];
 
 function Feature({ url, title, Svg, description }: FeatureItem) {
   return (
-    <div className={clsx('col col--12')}>
-      <Link to={url} style={{ textDecoration: 'none' }}>
+    <div className={clsx("col col--12")}>
+      <Link to={url} style={{ textDecoration: "none" }}>
         <div className="text--center">
           <Svg className={styles.featureSvg} role="img" />
         </div>
