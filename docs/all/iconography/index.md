@@ -94,4 +94,4 @@ title: Iconography
 | <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/all/glossary/party-size)        |
 | <img src="/icons/tenacity.svg" alt="Tenacity Icon" />     | [Tenacity](/docs/all/glossary/tenacity)            |
 | <img src="/icons/town.svg" alt="Town Icon" />             | Town                                               |
-| <img src="/icons/xp.svg" alt="XP Icon" />                 | [XP](/docs/all/glossary/xp.md)                     |
+| <img src="/icons/xp.svg" alt="XP Icon" />                 | [XP](/docs/all/glossary/xp)                        |

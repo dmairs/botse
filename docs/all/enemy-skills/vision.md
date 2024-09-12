@@ -1,9 +1,9 @@
 ---
 id: vision
 title: Vision
-hoverText: This unit ignores sight restrictions.
+hoverText: This [unit](/docs/all/glossary/unit) ignores [sight](/docs/all/glossary/sight) restrictions.
 tags:
   - Quest Unit Skill
 ---
 
-This unit ignores sight restrictions.
+This [unit](/docs/all/glossary/unit) ignores [sight](/docs/all/glossary/sight) restrictions.
