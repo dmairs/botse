@@ -52,7 +52,19 @@ const config: Config = {
     require.resolve('docusaurus-lunr-search')
   ],
   themeConfig: {
-    // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
+    announcementBar: {
+      id: 'announcement',
+      content:
+        'All content on this website is currently WIP and may be incomplete or incorrect. If you notice any errors, please <a href="mailto:dmairs@proton.me">report them</a>.',
+      backgroundColor: '#fafbfc',
+      textColor: '#091E42',
+      isCloseable: true,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'BOTSE Helper',
@@ -61,6 +73,10 @@ const config: Config = {
         src: 'img/logo.svg',
       },
     },
+    sidebar: {
+        hideable: true,
+        autoCollapseCategories: false,
+      },
     footer: {
       style: 'dark',
       links: [
@@ -69,12 +85,11 @@ const config: Config = {
           to: 'mailto:dmairs@proton.me',
         },
       ],
-      
       copyright: `This site is a free community project not associated with Chip Theory Games in any way.`,
     },
-    prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 4,
     },
   } satisfies Preset.ThemeConfig,
 };
