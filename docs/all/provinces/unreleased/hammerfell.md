@@ -6,4 +6,4 @@ tags:
   - Hammerfell
 ---
 
-*Yet to be released.*
+_Yet to be released._

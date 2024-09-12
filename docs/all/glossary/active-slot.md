@@ -11,15 +11,16 @@ To free up space, you may remove an active die from one of your slots at any tim
 Active dice **must** be removed at the end of battle or if your [adventurer](/docs/all/glossary/adventurer) is [defeated](/docs/all/glossary/defeated). Dice removed in this way must be exhausted.
 
 ### Fatigue dice in Active Slots
+
 Some abilities can place a [fatigue](/docs/all/glossary/fatigue) die in an active slot. While that die is filling an active slot, it is treated like a skill die and remains there until it is removed, after which it is placed in the cooldown track. As with active skill dice, this happens when:
 
--   the skill's ability describes
--   when you choose to remove that die without resolving an ability
--   when you are [defeated](/docs/all/glossary/defeated)
--   when the battle ends.
-
+- the skill's ability describes
+- when you choose to remove that die without resolving an ability
+- when you are [defeated](/docs/all/glossary/defeated)
+- when the battle ends.
 
 ### Active Slot on Skill Abilities
+
 <img src="/icons/active-slot.svg" alt="Active Slot Icon" />
 
 This skill die must be placed in 1 of your active slots (or, if specified by the skill, the active slot of another [adventurer](/docs/all/glossary/adventurer)). The die's ability is resolved as described in its entry, typically by reducing the die's value or removing it from its slot. When a die is removed from an active slot, it is exhausted unless its ability specifies otherwise.

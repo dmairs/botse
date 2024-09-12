@@ -4,5 +4,5 @@ title: Legerdemain
 tags:
   - Valenwood
 ---
-import SkillLine from '@site/src/components/SkillLines';
 
+import SkillLine from '@site/src/components/SkillLines';

@@ -6,4 +6,4 @@ tags:
   - Summerset
 ---
 
-*Yet to be released.*
+_Yet to be released._

@@ -6,11 +6,11 @@ hoverText: "Units fall under 2 categories: party and enemy. These 2 categories, 
 
 A unit is defined as any chip in the game with the following characteristics:
 
--   A unit has stats, abilities, or both.
--   A unit either takes its own turn on the battle map or is controlled during another unit's turn.
+- A unit has stats, abilities, or both.
+- A unit either takes its own turn on the battle map or is controlled during another unit's turn.
 
 :::info
-Chips used for tracking purposes that do not have these characteristics are not units. 
+Chips used for tracking purposes that do not have these characteristics are not units.
 :::
 
 All units fall under 2 categories: [party](/docs/all/glossary/party) and [enemy](/docs/all/glossary/enemy).

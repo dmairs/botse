@@ -11,7 +11,7 @@ hoverText: ""
 **Innate Ability**: All trainers in town populate 1 additional skill line.
 
 | Tenacity Cost | Name           | Ability                                                                                                                                                                                                                                                    |
-|---------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Gilded Fingers | Discard 1 <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />. Then, draw 1 <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />.                                                                         |
 | 1             | Exploiter      | Drain an available skill die. Then, [heal](/docs/all/glossary/healing) yourself for HP equal to the die's level +1.                                                                                                                                        |
 | 2             | Diplomat       | **[Interrupt](/docs/all/glossary/interrupt):** During a town encounter, if the current town has an inn, 1 adventurer may take an inn town action for free.                                                                                                 |
@@ -20,10 +20,10 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: Gain 2 tenacity whenever you train a non-Combat skill die. 
+**Innate Ability**: Gain 2 tenacity whenever you train a non-Combat skill die.
 
 | Tenacity Cost | Name           | Ability                                                                                                                                                                                                                                                                      |
-|---------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Gilded Fingers | Discard 1 <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" /> or <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" />. Then, draw 1 <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />.     |
 | 1             | Exploiter      | Drain an available skill die. Then, [heal](/docs/all/glossary/healing) yourself for HP equal to the die's level +1.                                                                                                                                                          |
 | 2             | Diplomat       | **[Interrupt](/docs/all/glossary/interrupt):** During a town encounter, 1 adventurer may take an additional available town action for free.                                                                                                                                  |

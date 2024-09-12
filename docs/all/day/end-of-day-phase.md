@@ -9,7 +9,8 @@ hoverText: Activation of any province effect on the overland map is resolved. Th
 This phase is divided into 2 parts. First, the activation of any province effect on the overland map is resolved. Then, the party rests and may trade items.
 
 ## 1. Activate Province Effect
-[Provinces](/docs/category/provinces/) have province effects that are resolved during the End of Day Phase. You can learn more about each individual province's effect by checking for this information in the related gazetteer. If the effect is tracked using tokens on the map's hexes or a gauge along its edge, check whether those tokens activate. 
+
+[Provinces](/docs/category/provinces/) have province effects that are resolved during the End of Day Phase. You can learn more about each individual province's effect by checking for this information in the related gazetteer. If the effect is tracked using tokens on the map's hexes or a gauge along its edge, check whether those tokens activate.
 
 To do so, follow the substeps below in order:
 
@@ -17,21 +18,23 @@ To do so, follow the substeps below in order:
 
 - Discard or cycle the current overland card(s). If the party resolved a card's encounter during the [Encounter Phase](/docs/all/day/encounter-phase), discard it. If the party drew a separate peaceful overland card for this phase (to resolve its overland icon), cycle it to the bottom of the deck.
 
-
 ## 2. Adventurers Rest
-During this step, the adventurers [heal](/docs/all/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other. 
+
+During this step, the adventurers [heal](/docs/all/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other.
 
 :::info
 On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a <img src="/icons/consumable.svg" alt="Consumable Item Icon" class="icon-svg" />, the adventurer may resolve that item's effects before discarding it (if applicable).
 :::
 
 - Each adventurer heals for a number of HP based on the game's difficulty—including defeated adventurers, who are revived when their HP is raised above 0.
-    - **Apprentice**: Heal for 2 HP
-    - **Adept and Expert**: Heal for 1 HP
+
+  - **Apprentice**: Heal for 2 HP
+  - **Adept and Expert**: Heal for 1 HP
 
 - Each adventurer chooses and removes a number of dice from their cooldown track based on the game's difficulty. The dice can be of any type and in any position in their cooldown track, so this is not a Recovery step and is not impacted by their [Cooldown](/docs/all/stats/cooldown) stat.
-    - **Apprentice**: Remove 2 dice.
-    - **Adept and Expert**: Remove 1 die.
+
+  - **Apprentice**: Remove 2 dice.
+  - **Adept and Expert**: Remove 1 die.
 
 - Each adventurer may trade any number of item cards with other adventurers, move items freely between their ready slots and pack, and discard items.
 
