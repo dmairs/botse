@@ -43,3 +43,7 @@ h1 img {
 .table-of-contents .icon-svg {
   display: none;
 }
+
+input[type="search"] {
+  font-size: 16px;
+}
