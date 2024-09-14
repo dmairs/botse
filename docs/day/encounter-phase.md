@@ -52,7 +52,7 @@ Most towns have a shop feature and a trainer feature, each of which has componen
 
 ##### Shop
 
-Draw a number of common item (<img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />) and legendary item (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" />) cards equal to the shop's values for each type and place those cards faceup. Items not taken from the shop are discarded at the end of the town encounter.
+Draw a number of common item (<img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />) and legendary item (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" />) cards equal to the shop's values for each type and place those cards faceup. Items not taken from the shop are [discarded](/docs/glossary/discard) at the end of the town encounter.
 
 ##### Trainer
 

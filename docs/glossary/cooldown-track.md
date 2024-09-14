@@ -1,14 +1,14 @@
 ---
 id: cooldown-track
 title: Cooldown Track
-hoverText: "Dice are placed here as the adventurer exhausts their skill dice or gains fatigue and status effect dice."
+hoverText: Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
 ---
 
 # <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> Cooldown Track
 
-Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/stats/cooldown) determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
+Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
 
-- Dice added to the track are placed one at a time in the track.s leftmost available spot (to the right of all remaining dice). While a skill die is in the cooldown track, it is not available.
+- Dice added to the track are placed one at a time in the track's leftmost available spot (to the right of all remaining dice). While a skill die is in the cooldown track, it is not available.
   - If multiple dice must be placed in the cooldown track at the same time, you can place those dice in the order you choose (including exhausted skill dice).
 - Any time a die is removed from the cooldown track, slide all remaining dice leftwards to remove any gaps.
 - The cooldown track can fit up to 13 dice. If the track is full and a die must be placed in it, that die must either be [drained](/docs/glossary/drained) (if a skill die) or returned to the supply (if a [fatigue](/docs/glossary/fatigue) or [status](/docs/status-effects/) die). Then, replace the rightmost non-overfatigue die in the track with an overfatigue die. The replaced die must also either be [drained](/docs/glossary/drained) or returned to the supply depending on its type.

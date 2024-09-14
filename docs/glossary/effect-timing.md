@@ -1,7 +1,7 @@
 ---
 id: effect-timing
 title: Effect Timing
-hoverText: "Effects must be resolved one at a time. Each effect must be completely resolved before resolving the next effect."
+hoverText: Effects must be resolved one at a time. Each effect must be completely resolved before resolving the next effect.
 ---
 
 Some abilities have effects that depend on others for timing or have multiple effects. These abilities are resolved following the rules below:

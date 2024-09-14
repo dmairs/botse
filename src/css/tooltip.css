@@ -1,6 +1,7 @@
 .rc-tooltip {
   background-color: #fff !important;
   font-size: 1rem !important;
+  max-width: 700px;
 }
 
 .rc-tooltip .rc-tooltip-inner .mytooltip.white p {

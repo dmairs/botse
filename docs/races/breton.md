@@ -4,7 +4,7 @@ title: Breton
 hoverText: "Health: 5, Stamina: 2, Magicka: 3, Combat: 1, Cooldown: 2"
 ---
 
-**Ability [Opportunist]**: Once per battle, when you overtax a <img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" /> or <img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" />, return that item to your pack instead of discarding it. You may then move a different item in your pack to a ready slot.
+**Ability [Opportunist]**: Once per battle, when you [overtax](/docs/items/overtax) a [<img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" />](/docs/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" />](/docs/items/types/armor), return that item to your pack instead of discarding it. You may then move a different item in your pack to a ready slot.
 
 | Stat                               | Value |
 | ---------------------------------- | ----- |
