@@ -1,7 +1,7 @@
 ---
 id: bonus-hp
 title: Bonus HP
-hoverText: "Bonus HP chips are not added to the stack beneath the adventurer's chip, but instead are placed near their battle form tracker on the adventurer mat."
+hoverText: Bonus HP chips are not added to the stack beneath the [adventurer's](/docs/glossary/adventurer) chip, but instead are placed near their battle form tracker on the adventurer mat.
 ---
 
 Some abilities cause an [adventurer](/docs/glossary/adventurer) to gain bonus HP. These HP chips are not added to the stack beneath the adventurer's chip, but instead are placed near their battle form tracker on the adventurer mat. When an adventurer with bonus HP takes damage, the bonus HP chips must be removed first, before removing HP chips from under the adventurer chip. However, if the adventurer takes [true damage](/docs/glossary/true-damage), their regular HP must be removed instead of bonus HP.

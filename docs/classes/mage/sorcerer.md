@@ -6,7 +6,7 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" class="icon-svg" />](/docs/glossary/party-size)+2 enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" class="icon-svg" />) active at the same time.
+**Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" class="icon-svg" />](/docs/glossary/party-size)+2 [enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" class="icon-svg" />)](/docs/items/types/enchantment) active at the same time.
 
 **Innate Ability**: If you start your in [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
 

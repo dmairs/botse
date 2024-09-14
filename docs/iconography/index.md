@@ -15,16 +15,16 @@ title: Iconography
 
 ### Item Types
 
-| Icon                                                            | Name          |
-| --------------------------------------------------------------- | ------------- |
-| <img src="/icons/armor.svg" alt="Armor Icon" />                 | Armor         |
-| <img src="/icons/consumable.svg" alt="Consumable Icon" />       | Consumable    |
-| <img src="/icons/clothing.svg" alt="Clothing Icon" />           | Clothing      |
-| <img src="/icons/enchantment.svg" alt="Enchantment Icon" />     | Enchantment   |
-| <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> | Miscellaneous |
-| <img src="/icons/pet.svg" alt="Pet Icon" />                     | Pet           |
-| <img src="/icons/potion.svg" alt="Potion Icon" />               | Potion        |
-| <img src="/icons/weapon.svg" alt="Weapon Icon" />               | Weapon        |
+| Icon                                                            | Name                                             |
+| --------------------------------------------------------------- | ------------------------------------------------ |
+| <img src="/icons/armor.svg" alt="Armor Icon" />                 | [Armor](/docs/items/types/armor)                 |
+| <img src="/icons/consumable.svg" alt="Consumable Icon" />       | [Consumable](/docs/items/types/consumable)       |
+| <img src="/icons/clothing.svg" alt="Clothing Icon" />           | [Clothing](/docs/items/types/clothing)           |
+| <img src="/icons/enchantment.svg" alt="Enchantment Icon" />     | [Enchantment](/docs/items/types/enchantment)     |
+| <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> | [Miscellaneous](/docs/items/types/miscellaneous) |
+| <img src="/icons/pet.svg" alt="Pet Icon" />                     | [Pet](/docs/items/types/pet)                     |
+| <img src="/icons/potion.svg" alt="Potion Icon" />               | [Potion](/docs/items/types/potion)               |
+| <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Weapon](/docs/items/types/weapon)               |
 
 ### [Status Effects](/docs/status-effects/)
 

@@ -16,14 +16,14 @@ To do so, follow the substeps below in order:
 
 - Refer to the overland icon on the current **peaceful** overland card. If the party drew a peaceful encounter card during the [Overland Phase](/docs/day/overland-phase), refer to that card's icon. If the party did not draw a peaceful overland card, draw 1 now. Then, compare the overland icon to the key in the front of the gazetteer to determine if the province effect activates. If it does, follow the province's rules to resolve the activation. Some cards have no icon, and the effect of this is also explained in the province's rules. If the card has multiple icons, resolve each icon in the order they appear from left to right.
 
-- Discard or cycle the current overland card(s). If the party resolved a card's encounter during the [Encounter Phase](/docs/day/encounter-phase), discard it. If the party drew a separate peaceful overland card for this phase (to resolve its overland icon), cycle it to the bottom of the deck.
+- [Discard](/docs/glossary/discard) or cycle the current overland card(s). If the party resolved a card's encounter during the [Encounter Phase](/docs/day/encounter-phase), discard it. If the party drew a separate peaceful overland card for this phase (to resolve its overland icon), cycle it to the bottom of the deck.
 
 ## 2. Adventurers Rest
 
 During this step, the adventurers [heal](/docs/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other.
 
 :::info
-On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a <img src="/icons/consumable.svg" alt="Consumable Item Icon" class="icon-svg" />, the adventurer may resolve that item's effects before discarding it (if applicable).
+On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a [<img src="/icons/consumable.svg" alt="Consumable Icon" class="icon-svg" />](/docs/items/types/consumable), the adventurer may resolve that item's effects before discarding it (if applicable).
 :::
 
 - Each adventurer heals for a number of HP based on the game's difficulty—including defeated adventurers, who are revived when their HP is raised above 0.

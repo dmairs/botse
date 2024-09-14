@@ -1,5 +1,5 @@
 ---
 id: engage
 title: Engage
-hoverText: ""
+hoverText:
 ---

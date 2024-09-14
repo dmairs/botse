@@ -1,7 +1,7 @@
 ---
 id: active-slot
 title: Active Slot
-hoverText: "Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the end of battle."
+hoverText: Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the end of battle.
 ---
 
 # <img src="/icons/active-slot.svg" alt="Active Slot Icon" /> Active Slot

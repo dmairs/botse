@@ -1,14 +1,14 @@
 ---
 id: free
 title: Free
-hoverText: "Range (or distance) from one hex to another is measured by counting the number of hexes between those hexes, including the destination hex, regardless of whether those hexes are occupied."
+hoverText: Some abilities allow [units](/docs/glossary/unit) to perform an additional [engage](/docs/glossary/engage), roll additional dice during an engage, or move additional hexes. When clarification is needed, these abilities sometimes use the term 'free'.
 ---
 
-Some abilities allow [units](/docs/glossary/unit) to perform an additional engage, roll additional dice during an engage, or move additional hexes.When clarification is needed, these abilities sometimes use the term **"free"**. These abilities follow the rules below.
+Some abilities allow [units](/docs/glossary/unit) to perform an additional [engage](/docs/glossary/engage), roll additional dice during an engage, or move additional hexes. When clarification is needed, these abilities sometimes use the term **"free"**. These abilities follow the rules below.
 
 ### Actions
 
-An additional engage or other action granted by an ability does not count against an [adventurer's](/docs/glossary/adventurer) action limits if resolved during their [turn](/docs/glossary/turn), or against the limits of the active adventurer if resolved during another's turn. An additional engage action does not require an adventurer to gain a [fatigue](/docs/glossary/fatigue) unless that ability specifies otherwise, even if that additional engage is not the first performed by that adventurer during their turn.
+An additional [engage](/docs/glossary/engage) or other action granted by an ability does not count against an [adventurer's](/docs/glossary/adventurer) action limits if resolved during their [turn](/docs/glossary/turn), or against the limits of the active adventurer if resolved during another's turn. An additional engage action does not require an adventurer to gain a [fatigue](/docs/glossary/fatigue) unless that ability specifies otherwise, even if that additional engage is not the first performed by that adventurer during their turn.
 
 ### Dice
 

@@ -22,7 +22,7 @@ tags:
 
 ## Master
 
-**Innate Ability**: The party's base overland movement is increased by 1. Each adventurer may remove 1 additional die during the Adventurers Rest step.
+**Innate Ability**: The party's base overland movement is increased by 1. Each adventurer may remove 1 additional die during the [Adventurers Rest](/docs/day/end-of-day-phase/#2-adventurers-rest) step.
 
 | Tenacity Cost | Name               | Ability                                                                                                                                                                                                                                                                                                         |
 | ------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

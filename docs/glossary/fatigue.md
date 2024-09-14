@@ -1,10 +1,10 @@
 ---
 id: fatigue
 title: Fatigue
-hoverText: "These dice are placed in your adventurers cooldown track when they gain fatigue. There are 2 types of fatigue (light fatigue and overfatigue)."
+hoverText: These dice are placed in your [adventurer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track) when they gain fatigue. There are 2 types of fatigue (light fatigue and overfatigue).
 ---
 
-These dice are placed in your adventurers [cooldown track](/docs/glossary/cooldown-track) when they gain fatigue. There are 2 types of fatigue. If a game effect refers to fatigue without specifying its type, that effect can apply to either type.
+These dice are placed in your [adventurer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track) when they gain fatigue. There are 2 types of fatigue. If a game effect refers to fatigue without specifying its type, that effect can apply to either type.
 
 ### Light Fatigue
 
