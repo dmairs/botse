@@ -22,7 +22,7 @@ To do so, follow the substeps below in order:
 
 During this step, the adventurers [heal](/docs/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other.
 
-:::info
+:::info[Expert Difficulty]
 On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a [<img src="/icons/consumable.svg" alt="Consumable Icon" class="icon-svg" />](/docs/items/types/consumable), the adventurer may resolve that item's effects before discarding it (if applicable).
 :::
 

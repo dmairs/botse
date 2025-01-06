@@ -18,6 +18,10 @@ Defined by their current battle form. Some battle forms (such as [<img src="/ico
 
 Equal to its range stat.
 
-### Does range apply to all skills?
+:::tip[FAQ]
+
+### Does Range apply to all skills?
 
 No, range is taken into consideration only for skills that apply to targets, [targetable](/docs/glossary/targetable) enemies, or enemies within range. Take for example, [Destruction Staff's](/docs/skill-lines/mage/destruction-staff) Destructive Touch. This says "[Defeat](/docs/glossary/defeated) a level 1 [enemy](/docs/glossary/enemy)." This enemy can be anywhere in play. It does not need to be in range or even in [sight](/docs/glossary/sight).
+
+:::

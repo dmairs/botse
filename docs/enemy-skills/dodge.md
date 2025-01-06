@@ -6,6 +6,10 @@ hoverText: When this [unit](/docs/glossary/unit) is [engaged](/docs/glossary/eng
 
 When this [unit](/docs/glossary/unit) is [engaged](/docs/glossary/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.
 
-:::info
-A skill die is considered to deal damage if it rolls a side that says it deals damage, **regardless of whether the result is actually used and the damage is actually dealt**. Since dice are resolved one at a time, Dodge looks at the results of your dice roll, not how they are actually applied, since they may not all be applied at the time you need to assess whether or not the unit with Dodge is [defeated](/docs/glossary/defeated).
+:::tip[FAQ]
+Dice that deal damage must deal damage to a unit in the engage in which it was rolled. Damage is prevented for each die that does not deal damage that engage. The damage does not need to be resolved against the enemy with dodge - as long as the die deals damage to any unit within that engage, it counts as dealing damage.
+
+Since Dodge looks at the results of your full dice roll, resolving this skill requires you to decide what you are doing with all of the damage-dealing dice you roll that engage.
+
+A die that deals damage after the engage (even if later that same turn), or adds a [status effect](/docs/glossary/status-effect) that deals damage, or gives [tenacity](/docs/glossary/tenacity) that is used to deal damage, is not considered to deal damage.
 :::
