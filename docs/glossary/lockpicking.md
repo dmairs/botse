@@ -12,8 +12,6 @@ During a battle, a lockpick check can be made when an [adventurer](/docs/glossar
 
 A difficulty code has the following elements, shown on the backs of item cards and within the trap effect text of delve cards.
 
--
-
 ### Attempts
 
 The number of times an [adventurer](/docs/glossary/adventurer) may roll the lockpick dice (3 D6) during a lockpick check while trying to match the required results.

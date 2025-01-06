@@ -7,3 +7,9 @@ tags:
 ---
 
 - Native Skill: [Freeze](/docs/enemy-skills/native-skills/freeze)
+
+:::tip[FAQ]
+
+Chips on the Icy Buildup card should be cleared after each delve (unless instructed not to clear it).
+
+:::
