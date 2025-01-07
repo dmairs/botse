@@ -1,10 +1,10 @@
 ---
 id: dodge
 title: Dodge
-hoverText: When this [unit](/docs/glossary/unit) is [engaged](/docs/glossary/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.
+hoverText: When this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.
 ---
 
-When this [unit](/docs/glossary/unit) is [engaged](/docs/glossary/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.
+When this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.
 
 :::tip[FAQ]
 Dice that deal damage must deal damage to a unit in the engage in which it was rolled. Damage is prevented for each die that does not deal damage that engage. The damage does not need to be resolved against the enemy with dodge - as long as the die deals damage to any unit within that engage, it counts as dealing damage.

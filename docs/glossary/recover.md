@@ -1,7 +1,7 @@
 ---
 id: recover
 title: Recover
-hoverText: "An adventurer may only recover a die from their cooldown track. A drained die can only be recovered by an ability that specifically affects drained dice."
+hoverText: An adventurer may only recover a die from their cooldown track. A drained die can only be recovered by an ability that specifically affects drained dice.
 ---
 
 When an exhausted skill die is removed from the [cooldown track](/docs/glossary/cooldown-track) by your Recovery step or another effect, you recover that die. Place it in the correct slot in your attribute rows. That die is immediately available to use. When a status effect die is removed from the cooldown track, return it to the supply.

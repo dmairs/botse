@@ -1,7 +1,7 @@
 ---
 id: targetable
 title: Targetable
-hoverText: "A unit is targetable by another unit if it is in range and sight of the unit that would target it and does not have an effect that prevents it from being targeted."
+hoverText: A unit is targetable by another unit if it is in range and sight of the unit that would target it and does not have an effect that prevents it from being targeted.
 ---
 
 A unit is targetable by another unit if it is in [range](/docs/glossary/range) and [sight](/docs/glossary/sight) of the unit that would target it and does not have an effect that prevents it from being targeted. An adventurer's range

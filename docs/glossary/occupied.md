@@ -1,7 +1,7 @@
 ---
 id: occupied
 title: Occupied/Unoccupied
-hoverText: "A hex is occupied when it contains a unit (or overland token) and unoccupied when it does not."
+hoverText: A hex is occupied when it contains a unit (or overland token) and unoccupied when it does not.
 ---
 
 A hex is occupied when it contains a unit (or overland token) and unoccupied when it does not.

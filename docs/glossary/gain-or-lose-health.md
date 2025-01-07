@@ -12,4 +12,4 @@ When an effect increases a [unit's](/docs/glossary/unit) [Health](/docs/stats/he
 
 ### Gaining or Losing HP
 
-When an effect adds HP chips in excess of a unit's Health stat—but does not change the stat itself—those chips remain until the next End of Battle Cleanup step. Note that a unit can only gain HP in excess of its Health stat if the effect specifically allows for it.
+When an effect adds HP chips in excess of a unit's Health stat—but does not change the stat itself—those chips remain until the next [end of battle](/docs/battles/end-of-battle) cleanup step. Note that a unit can only gain HP in excess of its Health stat if the effect specifically allows for it.

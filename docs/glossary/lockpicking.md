@@ -1,7 +1,8 @@
 ---
 id: lockpicking
 title: Lockpicking
-hoverText: ""
+hoverText: >
+  [Adventurers](/docs/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/glossary/cache) or disarm [traps](/docs/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism's difficulty code.
 ---
 
 [Adventurers](/docs/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/glossary/cache) or disarm [traps](/docs/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism's difficulty code. If they succeed, they pick the lock or disarm the trap, even if in the middle of an action. If they fail, that lock remains in place or the trap's effect is tripped.

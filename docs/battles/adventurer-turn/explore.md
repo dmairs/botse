@@ -2,6 +2,8 @@
 id: explore
 title: Explore
 hoverText: This action is only available during delves. When you perform this action, you count the distance to an explorable hex in [sight](/docs/glossary/sight). If it is equal to or less than your [Stamina](/docs/stats/stamina), you trigger an exploration on that hex.
+tags:
+  - Delve
 ---
 
 This action is only available during delves. When you perform this action, you count the distance to an explorable hex in [sight](/docs/glossary/sight). If it is equal to or less than your [Stamina](/docs/stats/stamina), you trigger an exploration on that hex.

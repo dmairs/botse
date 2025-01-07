@@ -20,7 +20,7 @@ In battle, a defeated adventurer can be affected only by friendly abilities that
 
 ### Full Party Defeat
 
-If your entire [party](/docs/glossary/party) is defeated, the encounter ends after the current [round](/docs/glossary/battle-round), unless the party triggers its [guild assist](/docs/glossary/guild-assist). Treat a full party defeat as a failed encounter and follow the steps below:
+If your entire [party](/docs/glossary/party) is defeated, the encounter ends after the current [round](/docs/battles/battle-round), unless the party triggers its [guild assist](/docs/glossary/guild-assist). Treat a full party defeat as a failed encounter and follow the steps below:
 
 1.  Place the party token in the [closest](/docs/glossary/closest) town to the party's current location on the overland map.
 2.  Resolve the [Reward Phase](/docs/day/reward-phase).
@@ -33,9 +33,9 @@ Some abilities refer to units defeating other units, either as part of an effect
 These abilities follow the definitions below:
 
 - An [adventurer](/docs/glossary/adventurer) (or [companion](/docs/glossary/companion)) defeats an [enemy](/docs/glossary/enemy) when either of the following occurs:
-  - That enemy loses its last HP chip because of an [engage](/docs/glossary/engage) or ability resolved by the adventurer.
+  - That enemy loses its last HP chip because of an [engage](/docs/battles/adventurer-turn/engage) or ability resolved by the adventurer.
   - The adventurer resolves an ability that indicates that enemy is defeated.
-- An [enemy](/docs/glossary/enemy) defeats a [unit](/docs/glossary/unit) when that unit loses its last HP chip, either because of an [engage](/docs/glossary/engage) or ability resolved by that enemy.
+- An [enemy](/docs/glossary/enemy) defeats a [unit](/docs/glossary/unit) when that unit loses its last HP chip, either because of an [engage](/docs/battles/adventurer-turn/engage) or ability resolved by that enemy.
 - If a [unit](/docs/glossary/unit) is defeated by a [status effect](/docs/status-effects/) die, such as [Bane (<img src="/icons/bane.svg" alt="Bane Icon" class="icon-svg" />)](/docs/status-effects/bane), it is considered defeated but does not trigger any effect that requires the unit to have been defeated by a specific other unit.
 
 ### Defeated Units on Tiles
@@ -45,4 +45,4 @@ Some encounter rules or other abilities refer to defeated [units](/docs/glossary
 These units follow the rules below:
 
 - The unit's chip remains in its hex until it is removed as described by the effect. Until the chip is removed, its hex is considered [occupied](/docs/glossary/occupied).
-- While it is on the battle map, that defeated [unit](/docs/glossary/unit) cannot take turns and its chip is not a [targetable](/docs/glossary/targetable) unit for [engage](/docs/glossary/engage) actions or other abilities (unless specifically instructed). The unit's chip is treated as a defeated unit of its type for resolving abilities.
+- While it is on the battle map, that defeated [unit](/docs/glossary/unit) cannot take turns and its chip is not a [targetable](/docs/glossary/targetable) unit for [engage](/docs/battles/adventurer-turn/engage) actions or other abilities (unless specifically instructed). The unit's chip is treated as a defeated unit of its type for resolving abilities.
