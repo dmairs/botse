@@ -2,6 +2,8 @@
 id: status-effect
 title: Status Effect
 hoverText: "This skill die is placed in a unique manner (for example, on an enemy or in a hex), and its ability is resolved as described in its entry. When a status effect skill die is removed from its current position, that die is exhausted unless its ability specifies otherwise."
+tags:
+  - Status Effects
 ---
 
 # <img src="/icons/status-effect.svg" alt="Status Effect Icon" /> Status Effect
