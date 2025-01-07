@@ -1,10 +1,12 @@
 ---
 id: adventurer-turn
 title: Adventurer Turn
-hoverText:
+hoverText: During your turn, you can take a number of actions, including moving, engaging, resolving class abilities, or exploring at a distance.
 ---
 
 During your turn, you can take a number of actions, including moving, engaging, resolving class abilities, or exploring at a distance. When it is your adventurer's turn to act, follow the steps below:
+
+## Turn Sequence
 
 1. **Start of Turn:** Trigger any abilities with this timing.
 2. **Recovery:** Remove a number of dice from your [cooldown track](/docs/glossary/cooldown-track) equal to your [Cooldown](/docs/stats/cooldown) stat, starting with the die furthest to the left in the track. As you remove dice, slide remaining dice in the track toward the left side to close any empty slots. Each type of die is handled as described below:

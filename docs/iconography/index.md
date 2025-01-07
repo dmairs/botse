@@ -3,7 +3,7 @@ id: iconograpy
 title: Iconography
 ---
 
-### Resolving Skill Abilities
+### Skill Abilities
 
 | Icon                                                              | Name                                            |
 | ----------------------------------------------------------------- | ----------------------------------------------- |
