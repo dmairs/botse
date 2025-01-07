@@ -1,7 +1,9 @@
 ---
 id: skyshard
 title: Skyshard
-hoverText: "A delve is fully explored when all of its skyshards have been revealed and gained. Unless the encounter specifies otherwise, 3 skyshards are required."
+hoverText: A delve is fully explored when all of its skyshards have been revealed and gained. Unless the encounter specifies otherwise, 3 skyshards are required.
+tags:
+  - Delve
 ---
 
 # <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> Skyshard

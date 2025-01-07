@@ -4,7 +4,7 @@ title: Battle Round
 hoverText: During a round, each [adventurer](/docs/glossary/adventurer) takes a [turn](/docs/glossary/turn). After your [party](/docs/glossary/party) has finished its turns, each [enemy](/docs/glossary/enemy) takes its own turn. After all [units](/docs/glossary/unit) have completed a single turn, the round ends
 ---
 
-Battles are divided into rounds. During a round, each [adventurer](/docs/glossary/adventurer) takes a [turn](/docs/glossary/turn). After your [party](/docs/glossary/party) has finished its turns, each [enemy](/docs/glossary/enemy) takes its own turn. After all [units](/docs/glossary/unit) have completed a single turn, the round ends. Rounds continue until your party has achieved its objective, [retreated](/docs/glossary/retreat), or been [defeated](/docs/glossary/defeated).
+Battles are divided into rounds. During a round, each [adventurer](/docs/glossary/adventurer) takes a [turn](/docs/glossary/turn). After your [party](/docs/glossary/party) has finished its turns, each [enemy](/docs/glossary/enemy) takes its own turn. After all [units](/docs/glossary/unit) have completed a single turn, the round ends. Rounds continue until your party has achieved its objective, [retreated](/docs/battles/retreat), or been [defeated](/docs/glossary/defeated).
 
 ## Round Sequence
 
@@ -18,4 +18,4 @@ Battles are divided into rounds. During a round, each [adventurer](/docs/glossar
 4.  **Enemy Turns**: Each [enemy](/docs/glossary/enemy) on the battle map takes a [turn](/docs/glossary/turn), starting with the highest-level enemy and working downwards in level until all enemies have taken a turn. If multiple enemies have the same level, the party decides in which order those enemies take their turns..
 5.  **End of Round:** Trigger any effects that occur with this timing.
     - Determine whether the encounter is complete; if it is, the battle ends.
-    - The party may [retreat](/docs/glossary/retreat) and end the encounter at this time.
+    - The party may [retreat](/docs/battles/retreat) and end the encounter at this time.

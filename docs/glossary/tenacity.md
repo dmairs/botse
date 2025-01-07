@@ -1,7 +1,7 @@
 ---
 id: tenacity
 title: Tenacity
-hoverText: "The route to that feature or token that consists of the most hexes between that feature and the component being measured to (or from)."
+hoverText: The route to that feature or token that consists of the most hexes between that feature and the component being measured to (or from).
 ---
 
 # <img src="/icons/tenacity.svg" alt="Tenacity Icon" /> Tenacity

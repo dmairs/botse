@@ -1,16 +1,16 @@
 ---
 id: active-slot
 title: Active Slot
-hoverText: Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the end of battle.
+hoverText: Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the [end of battle](/docs/battles/end-of-battle).
 ---
 
 # <img src="/icons/active-slot.svg" alt="Active Slot Icon" /> Active Slot
 
-Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the end of battle. You can have no more than 4 dice in your active slots at a time.
+Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the [end of battle](/docs/battles/end-of-battle). You can have no more than 4 dice in your active slots at a time.
 
 To free up space, you may remove an active die from one of your slots at any time during your turn without resolving that die's ability. Certain effects can also cause you to remove a die from its slot. When an active skill die is removed from its slot without resolving its ability, that die is exhausted and placed in the [cooldown track](/docs/glossary/cooldown-track) of the [adventurer](/docs/glossary/adventurer) who placed it.
 
-Active dice **must** be removed at the end of battle or if your [adventurer](/docs/glossary/adventurer) is [defeated](/docs/glossary/defeated). Dice removed in this way must be exhausted.
+Active dice **must** be removed at the [end of battle](/docs/battles/end-of-battle) or if your [adventurer](/docs/glossary/adventurer) is [defeated](/docs/glossary/defeated). Dice removed in this way must be exhausted.
 
 ### Fatigue dice in Active Slots
 

@@ -1,12 +1,12 @@
 ---
 id: ranged-weapon
 title: Ranged Weapon
-hoverText: "Range: Non-adjacent up to Stamina stat. This represents ranged engages using skills such as Bow. Adjacent units cannot be targeted in this form, but range is counted as normal."
+hoverText: "[Range](/docs/glossary/range): Non-adjacent up to Stamina stat. This represents ranged engages using skills such as Bow. Adjacent units cannot be targeted in this form, but range is counted as normal."
 ---
 
 # <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> Ranged Weapon
 
-**Range:** Non-adjacent, up to [Stamina](/docs/stats/stamina) stat.
+**[Range](/docs/glossary/range):** Non-adjacent, up to [Stamina](/docs/stats/stamina) stat.
 
 Represents ranged engages using skills such as Bow. [Adjacent](/docs/glossary/adjacent) [units](/docs/glossary/unit) cannot be targeted in this form, but [range](/docs/glossary/range) is counted as normal.
 

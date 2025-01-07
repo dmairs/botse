@@ -1,10 +1,10 @@
 ---
 id: guild-assist
 title: Guild Assist
-hoverText: Once per campaign, the party may trigger its guild assist, either during a battle at the end of a round or during the End of Day Phase's Adventurers Rest step. A guild assist can be triggered only during Sessions 1 or 2 and cannot be triggered during the Session 3 endgame quest.
+hoverText: Once per campaign, the party may trigger its guild assist, either during a battle at the end of a [round](/docs/battles/battle-round) or during the End of Day Phase's Adventurers Rest step. A guild assist can be triggered only during Sessions 1 or 2 and cannot be triggered during the Session 3 endgame quest.
 ---
 
-**Once per campaign**, the party may trigger its guild assist, either during a battle at the end of a round or during the [End of Day Phase's Adventurers Rest step](/docs/day/end-of-day-phase). A guild assist can be triggered only during Sessions 1 or 2 and cannot be triggered during the Session 3 endgame quest.
+**Once per campaign**, the party may trigger its guild assist, either during a battle at the end of a [round](/docs/battles/battle-round) or during the [End of Day Phase's Adventurers Rest step](/docs/day/end-of-day-phase). A guild assist can be triggered only during Sessions 1 or 2 and cannot be triggered during the Session 3 endgame quest.
 
 When this ability is triggered, each adventurer (including [defeated](/docs/glossary/defeated) [adventurers](/docs/glossary/adventurer)) immediately:
 

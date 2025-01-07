@@ -1,7 +1,7 @@
 ---
 id: party-size
 title: Party Size
-hoverText: "Party size is a variable that represents a number equal to the number of adventurers in the party (whether defeated or not)"
+hoverText: Party size is a variable that represents a number equal to the number of adventurers in the party (whether defeated or not)
 ---
 
 # <img src="/icons/party-size.svg" alt="Party Size Icon" /> Party Size

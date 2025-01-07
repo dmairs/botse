@@ -1,7 +1,7 @@
 ---
 id: party
 title: Party
-hoverText: "The party can include both adventurer and companion units."
+hoverText: The party can include both adventurer and companion units.
 ---
 
 The party can include both adventurer and companion units.

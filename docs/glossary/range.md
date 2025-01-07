@@ -1,7 +1,7 @@
 ---
 id: range
 title: Range
-hoverText: "Range (or distance) from one hex to another is measured by counting the number of hexes between those hexes, including the destination hex, regardless of whether those hexes are occupied."
+hoverText: Range (or distance) from one hex to another is measured by counting the number of hexes between those hexes, including the destination hex, regardless of whether those hexes are occupied.
 ---
 
 Range (or distance) from one hex to another is measured by counting the number of hexes between those hexes, including the destination hex, regardless of whether those hexes are [occupied](/docs/glossary/occupied).
