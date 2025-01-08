@@ -14,9 +14,9 @@ This phase is divided into 2 parts. First, the activation of any province effect
 
 To do so, follow the substeps below in order:
 
-- Refer to the overland icon on the current **peaceful** overland card. If the party drew a peaceful encounter card during the [Overland Phase](/docs/day/overland-phase), refer to that card's icon. If the party did not draw a peaceful overland card, draw 1 now. Then, compare the overland icon to the key in the front of the gazetteer to determine if the province effect activates. If it does, follow the province's rules to resolve the activation. Some cards have no icon, and the effect of this is also explained in the province's rules. If the card has multiple icons, resolve each icon in the order they appear from left to right.
+- Refer to the overland icon on the current **peaceful** overland card. If the party drew a peaceful encounter card during the [Overland Phase](/docs/campaign/day/overland-phase), refer to that card's icon. If the party did not draw a peaceful overland card, draw 1 now. Then, compare the overland icon to the key in the front of the gazetteer to determine if the province effect activates. If it does, follow the province's rules to resolve the activation. Some cards have no icon, and the effect of this is also explained in the province's rules. If the card has multiple icons, resolve each icon in the order they appear from left to right.
 
-- [Discard](/docs/glossary/discard) or cycle the current overland card(s). If the party resolved a card's encounter during the [Encounter Phase](/docs/day/encounter-phase), discard it. If the party drew a separate peaceful overland card for this phase (to resolve its overland icon), cycle it to the bottom of the deck.
+- [Discard](/docs/glossary/discard) or cycle the current overland card(s). If the party resolved a card's encounter during the [Encounter Phase](/docs/campaign/day/encounter-phase), discard it. If the party drew a separate peaceful overland card for this phase (to resolve its overland icon), cycle it to the bottom of the deck.
 
 ## 2. Adventurers Rest
 
@@ -40,4 +40,4 @@ On **Expert** difficulty, an adventurer must discard an item to resolve this ste
 
 - Trigger any effects with "end of day" timing, such as the party's guild assist ability.
 
-This completes the day, start over at the [New Day Phase](/docs/day/new-day-phase).
+This completes the day, start over at the [New Day Phase](/docs/campaign/day/new-day-phase).

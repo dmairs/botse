@@ -8,7 +8,7 @@ hoverText: The party resolves the encounter it triggered during the previous pha
 
 The party resolves the encounter it triggered during the previous phase. Town encounters are resolved by taking actions in that town. Other encounters are resolved as described by their text, either in the gazetteer or on the overland card.
 
-After resolving the encounter, determine its success before proceeding to the [Rewards Phase](/docs/day/reward-phase).
+After resolving the encounter, determine its success before proceeding to the [Rewards Phase](/docs/campaign/day/reward-phase).
 
 If the party triggered no encounter, it **skips** this phase.
 

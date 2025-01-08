@@ -8,4 +8,4 @@ This stat is tracked by blue square tokens and represents the [adventurer's](/do
 
 Magicka limits an adventurer's engage action [range](/docs/glossary/range) and number of dice they can roll while in magic battle form [(<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />)](docs/battles/battle-forms/magic).
 
-The Magicka stat and the blue square tokens can be untrained in the [Reward Phase](/docs/day/reward-phase).
+The Magicka stat and the blue square tokens can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).

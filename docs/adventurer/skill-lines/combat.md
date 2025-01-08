@@ -8,7 +8,7 @@ This special skill line represents an [adventurer's](/docs/glossary/adventurer) 
 
 If an ability adds [free](/docs/glossary/free) Combat dice, enemy Combat dice are used instead of Combat skill dice. These dice do not count against your [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat but are treated as Combat dice for other effects—such as [<img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" />](/docs/adventurer/items/types/weapon) items.
 
-The Combat skill line cannot be untrained. Combat dice can be untrained in the [Reward Phase](/docs/day/reward-phase).
+The Combat skill line cannot be untrained. Combat dice can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).
 
 :::info
 Although Combat is shown among a [race's](/docs/adventurer/races) starting attributes, it is a [skill line](/docs/adventurer/skill-lines/) and not a [stat](/docs/adventurer/stats).

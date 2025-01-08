@@ -10,4 +10,4 @@ This stat's attribute token has a base value that is added to its red square tok
 - [Bonus HP](/docs/glossary/bonus-hp) is separate from your HP and can exceed your Health stat.
 - When HP chips are lost, they are removed one at a time starting with the bottom-most chip in your stack.
 
-The Health stat cannot be untrained. Health red square tokens can be untrained in the [Reward Phase](/docs/day/reward-phase).
+The Health stat cannot be untrained. Health red square tokens can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).

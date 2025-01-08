@@ -4,7 +4,7 @@ title: Advancements
 hoverText: When an adventurer improves their stats or skills, it is an advancement.
 ---
 
-When an adventurer improves their stats or skills, it is an advancement. Some of these advancements require spending [XP](/docs/glossary/xp) during the [Reward Phase's](/docs/day/reward-phase) Gain Advancements step. Some game effects also trigger an advancement opportunity.
+When an adventurer improves their stats or skills, it is an advancement. Some of these advancements require spending [XP](/docs/glossary/xp) during the [Reward Phase's](/docs/campaign/day/reward-phase) Gain Advancements step. Some game effects also trigger an advancement opportunity.
 
 ## Increase an Attribute
 
@@ -16,11 +16,11 @@ To add a skill die, you must have trained that [skill line](/docs/adventurer/ski
 
 ## Increase Cooldown Stat
 
-You can increase your [Cooldown](/docs/adventurer/stats/cooldown) stat by moving your peg to the next open slot along your [cooldown track](/docs/glossary/cooldown-track). To do so, you must spend a number of [XP](/docs/glossary/xp) equal to your new Cooldown stat value, which is printed above the next slot. For example, to increase your Cooldown stat to 3, you must spend 3 XP. You must increase your Cooldown stat one slot at a time, but you may increase it multiple times during the same [Reward Phase](/docs/day/reward-phase) if you have enough XP.
+You can increase your [Cooldown](/docs/adventurer/stats/cooldown) stat by moving your peg to the next open slot along your [cooldown track](/docs/glossary/cooldown-track). To do so, you must spend a number of [XP](/docs/glossary/xp) equal to your new Cooldown stat value, which is printed above the next slot. For example, to increase your Cooldown stat to 3, you must spend 3 XP. You must increase your Cooldown stat one slot at a time, but you may increase it multiple times during the same [Reward Phase](/docs/campaign/day/reward-phase) if you have enough XP.
 
 ## Increase Tenacity
 
-You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you must spend 1 [XP](/docs/glossary/xp). Note: This increases tenacity available to spend and is not a permanent increase. If your unspent XP exceeds 3 at the end of the [Reward Phase's](/docs/day/reward-phase) Gain Advancements step, that excess XP must be spent to increase tenacity (if able) or it is lost.
+You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you must spend 1 [XP](/docs/glossary/xp). Note: This increases tenacity available to spend and is not a permanent increase. If your unspent XP exceeds 3 at the end of the [Reward Phase's](/docs/campaign/day/reward-phase) Gain Advancements step, that excess XP must be spent to increase tenacity (if able) or it is lost.
 
 ## Promote your Class
 
