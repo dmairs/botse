@@ -14,7 +14,7 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
 
 ## Setup
 
-1. **Set Up the Battle Map:** Separate the delve tiles by shape into separate stacks, keeping them facedown. Then, place the entrance tile in the play area (leaving plenty of room to expand the map). Some [provinces](/docs/provinces/) use additional setup rules for delves. Refer to the province's Delve Feature section at the front of the gazetteer for these rules.
+1. **Set Up the Battle Map:** Separate the delve tiles by shape into separate stacks, keeping them facedown. Then, place the entrance tile in the play area (leaving plenty of room to expand the map). Some [provinces](/docs/campaign/provinces/) use additional setup rules for delves. Refer to the province's Delve Feature section at the front of the gazetteer for these rules.
 2. **Place Cache Chips:** No cache chips are placed.
 3. **Deploy Enemies:** No enemy chips are deployed. These are deployed as additional tiles are explored.
 4. **Deploy Adventurers:** Deploy each [adventurer](/docs/glossary/adventurer) to the entrance tile. Start by choosing an adventurer to take the first player token and deploy their chip so that they occupy any single hex. Then, proceed to deploy each other adventurer in clockwise order around the table. This becomes the permanent turn order for the rest of the battle. Each adventurer may set their [battle form](docs/battles/battle-forms/) when deployed and choose which [item](/docs/adventurer/items) cards to place in their ready slots.

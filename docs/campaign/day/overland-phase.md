@@ -14,7 +14,7 @@ Trigger any effects with this timing.
 
 ## 2. Move party
 
-Your party has a base overland movement of 3, which means the party can move its token up to 3 [adjacent](/docs/glossary/adjacent) hexes. Note that some [provinces'](/docs/provinces/) effects—such as [Black Marsh](/docs/provinces/black-marsh)'s—can modify the party's base overland movement.
+Your party has a base overland movement of 3, which means the party can move its token up to 3 [adjacent](/docs/glossary/adjacent) hexes. Note that some [provinces'](/docs/campaign/provinces/) effects—such as [Black Marsh](/docs/campaign/provinces/black-marsh)'s—can modify the party's base overland movement.
 
 - **Day 1**: If this is the first day of your session, the party must remain in its starting location and resolve a town encounter. This does not apply during an endgame session.
 - **Fatigue Movement**: After using its base overland movement, the party may continue to move by gaining [fatigue](/docs/glossary/fatigue) for each additional hex of movement. For each additional hex of movement, each adventurer must gain 1 light fatigue. If no light fatigue dice are available, they gain 1 overfatigue instead. The number of additional hexes moved cannot exceed the party's base movement rate. The party must stop if 1 or more adventurers' cooldown tracks are full.
@@ -43,7 +43,7 @@ These are triggered when the party moves into a hex with a landmark. In this cas
 
 Draw a peaceful encounter card.
 
-After the party resolves a peaceful encounter card, set that card aside until the end of the day so its icon can be referred to when activating the [provinces'](/docs/provinces/) effect during the [End of Day Phase](/docs/campaign/day/end-of-day-phase).
+After the party resolves a peaceful encounter card, set that card aside until the end of the day so its icon can be referred to when activating the [provinces'](/docs/campaign/provinces/) effect during the [End of Day Phase](/docs/campaign/day/end-of-day-phase).
 
 #### Conflict landmark <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" class="icon-svg" />
 
