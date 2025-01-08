@@ -10,7 +10,7 @@ Delve battles represent adventurers navigating an uncharted, labyrinthine space.
 
 ## Enemy Pool
 
-Unlike in the other battle modes it is not calculated once at the beginning of the battle, but for each individual tile as that tile is explored. Each delve card has a challenge scale, which shows the maximum number of enemies that can be drawn for a revealed tile and their maximum levels. The number of enemies that are actually deployed depends on the EP available, the drawn card’s challenge scale, and the number of hexes on the revealed tile. The procedure for deploying enemies in a delve is described under Delve Exploration.
+Unlike in the other battle modes it is not calculated once at the beginning of the battle, but for each individual tile as that tile is explored. Each delve card has a challenge scale, which shows the maximum number of enemies that can be drawn for a revealed tile and their maximum levels. The number of enemies that are actually deployed depends on the EP available, the drawn card's challenge scale, and the number of hexes on the revealed tile. The procedure for deploying enemies in a delve is described under Delve Exploration.
 
 ## Setup
 
