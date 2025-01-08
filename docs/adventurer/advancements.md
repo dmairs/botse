@@ -24,7 +24,7 @@ You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you
 
 ## Promote your Class
 
-You can flip your [class](/docs/adventurer/classes) sheet to its master side; this advancement is called a promotion. To do so, you must meet the requirement on the sheet's novice side, which is often an achievement that happens during a battle. When this happens, you immediately gain that advancement and can flip your class sheet.
+You can flip your [class](/docs/adventurer/classes/) sheet to its master side; this advancement is called a promotion. To do so, you must meet the requirement on the sheet's novice side, which is often an achievement that happens during a battle. When this happens, you immediately gain that advancement and can flip your class sheet.
 
 ## Add a Skill Line
 
