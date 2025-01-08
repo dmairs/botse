@@ -1,12 +1,12 @@
 ---
 id: skyrim
 title: Skyrim [SK]
-hoverText: "Code: SK. Native Skill: Freeze."
+hoverText: Native Skill - [Freeze](/docs/enemy-skills/native-skills/freeze)
 tags:
   - Skyrim
 ---
 
-- Native Skill: [Freeze](/docs/enemy-skills/native-skills/freeze)
+**Native Skill:** [Freeze](/docs/enemy-skills/native-skills/freeze)
 
 :::tip[FAQ]
 
