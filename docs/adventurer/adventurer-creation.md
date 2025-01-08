@@ -1,7 +1,7 @@
 ---
 id: adventurer-creation
 title: Adventurer Creation
-hoverText:
+hoverText: Each player creates a unique adventurer at the outset of the first session of a campaign.
 ---
 
 Each player creates a unique adventurer at the outset of the first session of a campaign. To create an adventurer, follow the steps below.
