@@ -39,13 +39,13 @@ title: Iconography
 
 ### [Battle Forms](/docs/battle-forms)
 
-| Icon                                                            | Name                                              |
-| --------------------------------------------------------------- | ------------------------------------------------- |
-| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Defensive](/docs/battle-forms/defensive)         |
-| <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Heavy Weapon](/docs/battle-forms/heavy-weapon)   |
-| <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Light Weapon](/docs/battle-forms/light-weapon)   |
-| <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Magic](/docs/battle-forms/magic)                 |
-| <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> | [Ranged Weapon](/docs/battle-forms/ranged-weapon) |
+| Icon                                                            | Name                                                     |
+| --------------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Defensive](docs/battles/battle-forms/defensive)         |
+| <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Heavy Weapon](docs/battles/battle-forms/heavy-weapon)   |
+| <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Light Weapon](docs/battles/battle-forms/light-weapon)   |
+| <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Magic](docs/battles/battle-forms/magic)                 |
+| <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> | [Ranged Weapon](docs/battles/battle-forms/ranged-weapon) |
 
 ### Enemy Types
 

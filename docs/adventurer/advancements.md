@@ -4,11 +4,11 @@ title: Advancements
 hoverText: When an adventurer improves their stats or skills, it is an advancement.
 ---
 
-When an adventurer improves their stats or skills, it is an advancement. Some of these advancements require spending [XP](/docs/glossary/xp) during the [Reward Phase’s](/docs/day/reward-phase) Gain Advancements step. Some game effects also trigger an advancement opportunity.
+When an adventurer improves their stats or skills, it is an advancement. Some of these advancements require spending [XP](/docs/glossary/xp) during the [Reward Phase's](/docs/day/reward-phase) Gain Advancements step. Some game effects also trigger an advancement opportunity.
 
 ## Increase an Attribute
 
-You can increase an attribute by spending the required [XP](/docs/glossary/xp) cost to add a stat token or skill die to an open square slot in that attribute’s row. Each additional token or die must be added to the open square slot that is closest to the side of the row with that attribute’s circular token. The attribute cost for an open slot is shown at the top of that slot’s column. When increasing an attribute from the left side of the row, use the attribute cost in the white box. When increasing an attribute from the right side, use the attribute cost in the black box. If any of that skill line’s dice are in the [cooldown track](/docs/glossary/cooldown-track) (or [drained](//docs/glossary/drained)), the cost is equal to that of the rightmost (or leftmost) open slot the new die would be placed in if all of that line’s dice were available.
+You can increase an attribute by spending the required [XP](/docs/glossary/xp) cost to add a stat token or skill die to an open square slot in that attribute's row. Each additional token or die must be added to the open square slot that is closest to the side of the row with that attribute's circular token. The attribute cost for an open slot is shown at the top of that slot's column. When increasing an attribute from the left side of the row, use the attribute cost in the white box. When increasing an attribute from the right side, use the attribute cost in the black box. If any of that skill line's dice are in the [cooldown track](/docs/glossary/cooldown-track) (or [drained](//docs/glossary/drained)), the cost is equal to that of the rightmost (or leftmost) open slot the new die would be placed in if all of that line's dice were available.
 
 ### Add a Skill Die
 
@@ -20,11 +20,11 @@ You can increase your [Cooldown](/docs/stats/cooldown) stat by moving your peg t
 
 ## Increase Tenacity
 
-You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you must spend 1 [XP](/docs/glossary/xp). Note: This increases tenacity available to spend and is not a permanent increase. If your unspent XP exceeds 3 at the end of the [Reward Phase’s](/docs/day/reward-phase) Gain Advancements step, that excess XP must be spent to increase tenacity (if able) or it is lost.
+You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you must spend 1 [XP](/docs/glossary/xp). Note: This increases tenacity available to spend and is not a permanent increase. If your unspent XP exceeds 3 at the end of the [Reward Phase's](/docs/day/reward-phase) Gain Advancements step, that excess XP must be spent to increase tenacity (if able) or it is lost.
 
 ## Promote your Class
 
-You can flip your [class](/docs/classes/) sheet to its master side; this advancement is called a promotion. To do so, you must meet the requirement on the sheet’s novice side, which is often an achievement that happens during a battle. When this happens, you immediately gain that advancement and can flip your class sheet.
+You can flip your [class](/docs/classes/) sheet to its master side; this advancement is called a promotion. To do so, you must meet the requirement on the sheet's novice side, which is often an achievement that happens during a battle. When this happens, you immediately gain that advancement and can flip your class sheet.
 
 ## Add a Skill Line
 
