@@ -27,6 +27,6 @@ After a battle ends (whether successfully or not), follow the steps below and th
 3. Disassemble the battle map.
    - Place [enemy](/docs/glossary/enemy) chips back into their correct draw bags and place [cache](/docs/glossary/cache) chips back in the supply.
    - Sort the map tiles by shape. If [delve](/docs/battles/types/delve) tiles were used, shuffle each shape facedown. Then place the tiles back in their area.
-   - Gather the delve cards, setting aside any cards marked with "SP" or otherwise required by the Delve Feature section at the front of your province’s gazetteer. Then, shuffle the Delve Deck and place it back in its area.
+   - Gather the delve cards, setting aside any cards marked with "SP" or otherwise required by the Delve Feature section at the front of your province's gazetteer. Then, shuffle the Delve Deck and place it back in its area.
 
 This cleanup procedure only occurs after a battle, not after a peaceful encounter.

@@ -4,7 +4,7 @@ title: Clash
 hoverText:
 ---
 
-In a clash battle, the map is composed of 2 or more tiles placed during setup (some clashes also use additional tiles as [obstacles](/docs/glossary/obstacle)). Unlike other map tiles, the clash tile is not marked with icons. Instead, these icons are provided in the clash encounter’s setup diagram, which appears in quest steps or on overland cards. The clash mat is double-sided, and either side can be used according to whichever feels more thematic to your current location.
+In a clash battle, the map is composed of 2 or more tiles placed during setup (some clashes also use additional tiles as [obstacles](/docs/glossary/obstacle)). Unlike other map tiles, the clash tile is not marked with icons. Instead, these icons are provided in the clash encounter's setup diagram, which appears in quest steps or on overland cards. The clash mat is double-sided, and either side can be used according to whichever feels more thematic to your current location.
 
 ## Enemy Pool
 
