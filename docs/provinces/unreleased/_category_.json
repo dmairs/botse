@@ -1,9 +1,4 @@
 {
   "label": "Unreleased",
-  "link": {
-    "type": "generated-index",
-    "slug": "/provinces/unreleased/",
-    "description": "These provinces are planned, but have not yet been released."
-  },
   "position": 1
 }

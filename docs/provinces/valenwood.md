@@ -1,9 +1,9 @@
 ---
 id: valenwood
 title: Valenwood [VW]
-hoverText: "Code: VW. Native Skill: Iron Bark."
+hoverText: Native Skill - [Iron Bark](/docs/enemy-skills/native-skills/iron-bark)
 tags:
   - Valenwood
 ---
 
-- Native Skill: [Iron Bark](/docs/enemy-skills/native-skills/iron-bark)
+**Native Skill:** [Iron Bark](/docs/enemy-skills/native-skills/iron-bark)
