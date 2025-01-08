@@ -67,6 +67,14 @@ const config: Config = {
         alt: "Logo for BOTSE Helper",
         src: "img/logo.svg",
       },
+      items: [
+        {
+          href: "https://github.com/dmairs/botse",
+          label: "GitHub",
+          position: "right",
+          target: "_blank",
+        },
+      ],
     },
     sidebar: {
       hideable: true,
@@ -78,6 +86,10 @@ const config: Config = {
         {
           label: "Feedback / Bugs / Suggestions",
           to: "mailto:dmairs@proton.me",
+        },
+        {
+          label: "GitHub",
+          to: "https://github.com/dmairs/botse",
         },
       ],
       copyright: `This site is a free community project not associated with Chip Theory Games in any way.`,
