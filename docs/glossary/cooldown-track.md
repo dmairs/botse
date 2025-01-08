@@ -1,12 +1,12 @@
 ---
 id: cooldown-track
 title: Cooldown Track
-hoverText: Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
+hoverText: Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/adventurer/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
 ---
 
 # <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> Cooldown Track
 
-Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
+Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/status-effects/) dice. The [Cooldown](/docs/adventurer/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
 
 - Dice added to the track are placed one at a time in the track's leftmost available spot (to the right of all remaining dice). While a skill die is in the cooldown track, it is not available.
   - If multiple dice must be placed in the cooldown track at the same time, you can place those dice in the order you choose (including exhausted skill dice).

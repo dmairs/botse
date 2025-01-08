@@ -16,7 +16,7 @@ To add a skill die, you must have trained that [skill line](/docs/adventurer/ski
 
 ## Increase Cooldown Stat
 
-You can increase your [Cooldown](/docs/stats/cooldown) stat by moving your peg to the next open slot along your [cooldown track](/docs/glossary/cooldown-track). To do so, you must spend a number of [XP](/docs/glossary/xp) equal to your new Cooldown stat value, which is printed above the next slot. For example, to increase your Cooldown stat to 3, you must spend 3 XP. You must increase your Cooldown stat one slot at a time, but you may increase it multiple times during the same [Reward Phase](/docs/day/reward-phase) if you have enough XP.
+You can increase your [Cooldown](/docs/adventurer/stats/cooldown) stat by moving your peg to the next open slot along your [cooldown track](/docs/glossary/cooldown-track). To do so, you must spend a number of [XP](/docs/glossary/xp) equal to your new Cooldown stat value, which is printed above the next slot. For example, to increase your Cooldown stat to 3, you must spend 3 XP. You must increase your Cooldown stat one slot at a time, but you may increase it multiple times during the same [Reward Phase](/docs/day/reward-phase) if you have enough XP.
 
 ## Increase Tenacity
 
@@ -32,4 +32,4 @@ You can add a new skill line to an open circular slot at the side of one of your
 
 ## Add Magicka Stat
 
-Unlike your other circular stat tokens, you may untrain your [Magicka](/docs/stats/magicka) stat. If you have untrained your Magicka stat, you can also add it again as if it were a skill line by visiting any trainer.
+Unlike your other circular stat tokens, you may untrain your [Magicka](/docs/adventurer/stats/magicka) stat. If you have untrained your Magicka stat, you can also add it again as if it were a skill line by visiting any trainer.

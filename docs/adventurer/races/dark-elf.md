@@ -8,8 +8,8 @@ hoverText: "Health: 4, Stamina: 2, Magicka: 3, Combat: 2, Cooldown: 2"
 
 | Stat                                          | Value |
 | --------------------------------------------- | ----- |
-| [Health](/docs/stats/health)                  | 4     |
-| [Stamina](/docs/stats/stamina)                | 2     |
-| [Magicka](/docs/stats/magicka)                | 3     |
+| [Health](/docs/adventurer/stats/health)       | 4     |
+| [Stamina](/docs/adventurer/stats/stamina)     | 2     |
+| [Magicka](/docs/adventurer/stats/magicka)     | 3     |
 | [Combat](/docs/adventurer/skill-lines/combat) | 2     |
-| [Cooldown](/docs/stats/cooldown)              | 2     |
+| [Cooldown](/docs/adventurer/stats/cooldown)   | 2     |

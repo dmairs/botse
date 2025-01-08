@@ -32,7 +32,7 @@ Each adventurer may untrain and remove (at no [XP](/docs/glossary/xp) cost) any 
 
 - If skill dice are untrained, slide the remaining dice along the row toward the skill line token to fill any gaps between that line's dice, so that the farthest slots along that line are empty and there are no gaps between that line's dice.
 
-- The [Health](/docs/stats/health) and [Stamina](/docs/stats/stamina) stats, as well as the Combat skill line, cannot be untrained, but their square tokens or dice can be. The [Magicka](/docs/stats/magicka) stat can be untrained.
+- The [Health](/docs/adventurer/stats/health) and [Stamina](/docs/adventurer/stats/stamina) stats, as well as the Combat skill line, cannot be untrained, but their square tokens or dice can be. The [Magicka](/docs/adventurer/stats/magicka) stat can be untrained.
 
 ## 3. Gain Advancements
 

@@ -31,7 +31,7 @@ On **Expert** difficulty, an adventurer must discard an item to resolve this ste
   - **Apprentice**: Heal for 2 HP
   - **Adept and Expert**: Heal for 1 HP
 
-- Each adventurer chooses and removes a number of dice from their cooldown track based on the game's difficulty. The dice can be of any type and in any position in their cooldown track, so this is not a Recovery step and is not impacted by their [Cooldown](/docs/stats/cooldown) stat.
+- Each adventurer chooses and removes a number of dice from their cooldown track based on the game's difficulty. The dice can be of any type and in any position in their cooldown track, so this is not a Recovery step and is not impacted by their [Cooldown](/docs/adventurer/stats/cooldown) stat.
 
   - **Apprentice**: Remove 2 dice.
   - **Adept and Expert**: Remove 1 die.
