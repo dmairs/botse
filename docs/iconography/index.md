@@ -55,13 +55,13 @@ title: Iconography
 | <img src="/icons/daedra.svg" alt="Daedra Icon" />     | Daedra   |
 | <img src="/icons/humanoid.svg" alt="Humanoid Icon" /> | Humanoid |
 
-### [Skill Line Types](/docs/skill-lines)
+### [Skill Line Types](/docs/adventurer/skill-lines)
 
-| Icon                                                | Name                                 |
-| --------------------------------------------------- | ------------------------------------ |
-| <img src="/icons/mage.svg" alt="Mage Icon" />       | [Mage](/docs/skill-lines/mage)       |
-| <img src="/icons/thief.svg" alt="Thief Icon" />     | [Thief](/docs/skill-lines/thief)     |
-| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/skill-lines/warrior) |
+| Icon                                                | Name                                            |
+| --------------------------------------------------- | ----------------------------------------------- |
+| <img src="/icons/mage.svg" alt="Mage Icon" />       | [Mage](/docs/adventurer/skill-lines/mage)       |
+| <img src="/icons/thief.svg" alt="Thief Icon" />     | [Thief](/docs/adventurer/skill-lines/thief)     |
+| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/adventurer/skill-lines/warrior) |
 
 ### Encounters
 

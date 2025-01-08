@@ -6,7 +6,7 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Trigger Master Ritualist, the level 4 [Restoring Light](/docs/skill-lines/mage/restoring-light) skill die, from your [active slots](/docs/glossary/active-slot).
+**Upgrade**: Trigger Master Ritualist, the level 4 [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light) skill die, from your [active slots](/docs/glossary/active-slot).
 
 **Innate Ability**: At the start of your turn, you may gain 1 light [fatigue](/docs/glossary/fatigue) to [heal](/docs/glossary/healing) yourself or an [adjacent](/docs/glossary/adjacent) party member for 1 HP.
 

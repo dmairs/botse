@@ -8,4 +8,4 @@ hoverText: "[Range](/docs/glossary/range): Adjacent only. This form represents m
 
 **[Range](/docs/glossary/range):** Adjacent only.
 
-Represents melee engages using single-handed skills, such as [One Hand and Shield](/docs/skill-lines/warrior/one-hand-and-shield).
+Represents melee engages using single-handed skills, such as [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield).

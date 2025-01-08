@@ -16,24 +16,24 @@ Many skill lines are associated with a specific [battle form](docs/battles/battl
 
 Additional skill lines and skill dice can both be added to an adventurer's mat as advancements.
 
-## <img src="/icons/mage.svg" alt="Mage Icon" class="icon-svg" /> [Mage](/docs/skill-lines/mage)
+## <img src="/icons/mage.svg" alt="Mage Icon" class="icon-svg" /> [Mage](/docs/adventurer/skill-lines/mage)
 
-- [Daedric Summoning](/docs/skill-lines/mage/daedric-summoning)
-- [Destruction Staff](/docs/skill-lines/mage/destruction-staff)
-- [Illusion](/docs/skill-lines/mage/illusion)
-- [Light Armor](/docs/skill-lines/mage/light-armor)
-- [Restoring Light](/docs/skill-lines/mage/restoring-light)
+- [Daedric Summoning](/docs/adventurer/skill-lines/mage/daedric-summoning)
+- [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff)
+- [Illusion](/docs/adventurer/skill-lines/mage/illusion)
+- [Light Armor](/docs/adventurer/skill-lines/mage/light-armor)
+- [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light)
 
-## <img src="/icons/thief.svg" alt="Thief Icon" class="icon-svg" /> [Thief](/docs/skill-lines/thief)
+## <img src="/icons/thief.svg" alt="Thief Icon" class="icon-svg" /> [Thief](/docs/adventurer/skill-lines/thief)
 
-- [Acrobatics](/docs/skill-lines/thief/acrobatics)
-- [Legerdemain](/docs/skill-lines/thief/legerdemain)
-- [Shadow](/docs/skill-lines/thief/shadow)
-- [Speech](/docs/skill-lines/thief/speech)
+- [Acrobatics](/docs/adventurer/skill-lines/thief/acrobatics)
+- [Legerdemain](/docs/adventurer/skill-lines/thief/legerdemain)
+- [Shadow](/docs/adventurer/skill-lines/thief/shadow)
+- [Speech](/docs/adventurer/skill-lines/thief/speech)
 
-## <img src="/icons/warrior.svg" alt="Warrior Icon" class="icon-svg" /> [Warrior](/docs/skill-lines/warrior)
+## <img src="/icons/warrior.svg" alt="Warrior Icon" class="icon-svg" /> [Warrior](/docs/adventurer/skill-lines/warrior)
 
-- [Bow](/docs/skill-lines/warrior/bow)
-- [Heavy Armor](/docs/skill-lines/warrior/heavy-armor)
-- [One Hand and Shield](/docs/skill-lines/warrior/one-hand-and-shield)
-- [Two Handed](/docs/skill-lines/warrior/two-handed)
+- [Bow](/docs/adventurer/skill-lines/warrior/bow)
+- [Heavy Armor](/docs/adventurer/skill-lines/warrior/heavy-armor)
+- [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield)
+- [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed)

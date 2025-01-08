@@ -8,4 +8,4 @@ hoverText: "[Range](/docs/glossary/range): Adjacent only. This form represents m
 
 **[Range](/docs/glossary/range):** Adjacent only.
 
-Represents melee engages using double-handed skills, such as [Two Handed](/docs/skill-lines/warrior/two-handed).
+Represents melee engages using double-handed skills, such as [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed).
