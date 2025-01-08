@@ -8,4 +8,4 @@ hoverText: "[Range](/docs/glossary/range): Up to Magicka stat. This represents e
 
 **[Range](/docs/glossary/range):** Up to [Magicka](/docs/stats/magicka) stat.
 
-Represents engages using Magicka, such as [Destruction Staff](/docs/stats/magicka). [Combat](/docs/skill-lines/combat) dice cannot be gathered to roll with this form.
+Represents engages using Magicka, such as [Destruction Staff](/docs/skill-lines/mage/destruction-staff). [Combat](/docs/skill-lines/combat) dice cannot be gathered to roll with this form.
