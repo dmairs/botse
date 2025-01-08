@@ -25,7 +25,7 @@ During its turn, a companion typically moves, resolves its skills, and [engages]
 
 The player controlling a companion makes the decisions for that unit during each step below. Moving and engaging are optional.
 
-1.  **Start of Turn:** Trigger any abilities with this timing, such as [status effects](/docs/status-effects/) or skill dice on the companion.
+1.  **Start of Turn:** Trigger any abilities with this timing, such as [status effects](/docs/battles/status-effects/) or skill dice on the companion.
 2.  **Move:** You may move the companion up to 2 hexes. The companion can be moved as chosen and does not follow normal enemy movement priorities.
 3.  **Engage:** The companion may [engage](/docs/battles/adventurer-turn/engage) opposing [units](/docs/glossary/unit), if able, following these substeps in the order below.
     - **Determine Target(s):** Refer to the companion's range and target icons, and choose which unit(s) the companion targets. Only [targetable](/docs/glossary/targetable) units in [sight](/docs/glossary/sight) and in [range](/docs/glossary/range) can be chosen. A companion's targeting priority icon is ignored.

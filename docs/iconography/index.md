@@ -26,16 +26,16 @@ title: Iconography
 | <img src="/icons/potion.svg" alt="Potion Icon" />               | [Potion](/docs/adventurer/items/types/potion)               |
 | <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Weapon](/docs/adventurer/items/types/weapon)               |
 
-### [Status Effects](/docs/status-effects/)
+### [Status Effects](/docs/battles/status-effects/)
 
-| Icon                                                | Name                                    |
-| --------------------------------------------------- | --------------------------------------- |
-| <img src="/icons/bane.svg" alt="Bane Icon" />       | [Bane](/docs/status-effects/bane)       |
-| <img src="/icons/blind.svg" alt="Blind Icon" />     | [Blind](/docs/status-effects/blind)     |
-| <img src="/icons/daze.svg" alt="Daze Icon" />       | [Daze](/docs/status-effects/daze)       |
-| <img src="/icons/fear.svg" alt="Fear Icon" />       | [Fear](/docs/status-effects/fear)       |
-| <img src="/icons/maim.svg" alt="Maim Icon" />       | [Maim](/docs/status-effects/maim)       |
-| <img src="/icons/stealth.svg" alt="Stealth Icon" /> | [Stealth](/docs/status-effects/stealth) |
+| Icon                                                | Name                                            |
+| --------------------------------------------------- | ----------------------------------------------- |
+| <img src="/icons/bane.svg" alt="Bane Icon" />       | [Bane](/docs/battles/status-effects/bane)       |
+| <img src="/icons/blind.svg" alt="Blind Icon" />     | [Blind](/docs/battles/status-effects/blind)     |
+| <img src="/icons/daze.svg" alt="Daze Icon" />       | [Daze](/docs/battles/status-effects/daze)       |
+| <img src="/icons/fear.svg" alt="Fear Icon" />       | [Fear](/docs/battles/status-effects/fear)       |
+| <img src="/icons/maim.svg" alt="Maim Icon" />       | [Maim](/docs/battles/status-effects/maim)       |
+| <img src="/icons/stealth.svg" alt="Stealth Icon" /> | [Stealth](/docs/battles/status-effects/stealth) |
 
 ### [Battle Forms](/docs/battle-forms)
 

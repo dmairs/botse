@@ -8,7 +8,7 @@ tags:
 
 # <img src="/icons/status-effect.svg" alt="Status Effect Icon" /> Status Effect
 
-See also: [Status Effects](/docs/status-effects/).
+See also: [Status Effects](/docs/battles/status-effects/).
 
 This skill die is placed in a unique manner (for example, on an enemy or in a hex), and its ability is resolved as described in its entry. When a status effect skill die is removed from its current position, that die is exhausted unless its ability specifies otherwise.
 
