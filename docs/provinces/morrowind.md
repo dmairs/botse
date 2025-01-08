@@ -1,9 +1,9 @@
 ---
 id: morrowind
 title: Morrowind [MW]
-hoverText: Native Skill - [Fumes](/docs/enemy-skills/native-skills/fumes)
+hoverText: Native Skill - [Fumes](/docs/battles/enemy-skills/native-skills/fumes)
 tags:
   - Morrowind
 ---
 
-**Native Skill:** [Fumes](/docs/enemy-skills/native-skills/fumes)
+**Native Skill:** [Fumes](/docs/battles/enemy-skills/native-skills/fumes)
