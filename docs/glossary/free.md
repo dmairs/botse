@@ -12,8 +12,8 @@ An additional [engage](/docs/battles/adventurer-turn/engage) or other action gra
 
 ### Dice
 
-Additional dice do not count against an [adventurer's](/docs/glossary/adventurer) [Stamina](/docs/stats/stamina) or [Magicka](/docs/stats/magicka) stat, or against a non-adventurer unit's [Combat](/docs/skill-lines/combat) stat. Additional dice can be added to an adventurer's roll even if they are not trained in that skill line or skill die. After additional dice are resolved, they are [discarded](/docs/glossary/discard) back to the supply instead of being exhausted to that adventurer's [cooldown track](/docs/glossary/cooldown-track). Enemy Combat dice added as additional dice cannot be added to an adventurer's [active slots](/docs/glossary/active-slot) or resolved to gain [tenacity](/docs/glossary/tenacity).
+Additional dice do not count against an [adventurer's](/docs/glossary/adventurer) [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, or against a non-adventurer unit's [Combat](/docs/adventurer/skill-lines/combat) stat. Additional dice can be added to an adventurer's roll even if they are not trained in that skill line or skill die. After additional dice are resolved, they are [discarded](/docs/glossary/discard) back to the supply instead of being exhausted to that adventurer's [cooldown track](/docs/glossary/cooldown-track). Enemy Combat dice added as additional dice cannot be added to an adventurer's [active slots](/docs/glossary/active-slot) or resolved to gain [tenacity](/docs/glossary/tenacity).
 
 ### Movement
 
-Additional hexes of movement do not count against an [adventurer's](/docs/glossary/adventurer) [Stamina](/docs/stats/stamina) or against a non-adventurer unit's movement stat.
+Additional hexes of movement do not count against an [adventurer's](/docs/glossary/adventurer) [Stamina](/docs/adventurer/stats/stamina) or against a non-adventurer unit's movement stat.

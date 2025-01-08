@@ -23,8 +23,8 @@ In battle, a defeated adventurer can be affected only by friendly abilities that
 If your entire [party](/docs/glossary/party) is defeated, the encounter ends after the current [round](/docs/battles/battle-round), unless the party triggers its [guild assist](/docs/glossary/guild-assist). Treat a full party defeat as a failed encounter and follow the steps below:
 
 1.  Place the party token in the [closest](/docs/glossary/closest) town to the party's current location on the overland map.
-2.  Resolve the [Reward Phase](/docs/day/reward-phase).
-3.  Resolve the [End of Day Phase.s](/docs/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/glossary/adventurer) [heal](/docs/glossary/healing) for 1 HP even if they do not [discard](/docs/glossary/discard) an item (but still must discard an item to [recover](/docs/glossary/recover) a die from their [cooldown track](/docs/glossary/cooldown-track)).
+2.  Resolve the [Reward Phase](/docs/campaign/day/reward-phase).
+3.  Resolve the [End of Day Phase.s](/docs/campaign/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/campaign/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/glossary/adventurer) [heal](/docs/glossary/healing) for 1 HP even if they do not [discard](/docs/glossary/discard) an item (but still must discard an item to [recover](/docs/glossary/recover) a die from their [cooldown track](/docs/glossary/cooldown-track)).
 
 ### Defeating Units
 
@@ -36,7 +36,7 @@ These abilities follow the definitions below:
   - That enemy loses its last HP chip because of an [engage](/docs/battles/adventurer-turn/engage) or ability resolved by the adventurer.
   - The adventurer resolves an ability that indicates that enemy is defeated.
 - An [enemy](/docs/glossary/enemy) defeats a [unit](/docs/glossary/unit) when that unit loses its last HP chip, either because of an [engage](/docs/battles/adventurer-turn/engage) or ability resolved by that enemy.
-- If a [unit](/docs/glossary/unit) is defeated by a [status effect](/docs/status-effects/) die, such as [Bane (<img src="/icons/bane.svg" alt="Bane Icon" class="icon-svg" />)](/docs/status-effects/bane), it is considered defeated but does not trigger any effect that requires the unit to have been defeated by a specific other unit.
+- If a [unit](/docs/glossary/unit) is defeated by a [status effect](/docs/battles/status-effects/) die, such as [Bane (<img src="/icons/bane.svg" alt="Bane Icon" class="icon-svg" />)](/docs/battles/status-effects/bane), it is considered defeated but does not trigger any effect that requires the unit to have been defeated by a specific other unit.
 
 ### Defeated Units on Tiles
 

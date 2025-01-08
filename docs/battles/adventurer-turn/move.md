@@ -1,10 +1,10 @@
 ---
 id: move
 title: Move
-hoverText: Move a number of hexes up to the value of their [Stamina](/docs/stats/stamina). An ability that gives additional hexes of free movement to an adventurer outside of their move action is not treated as a move action.
+hoverText: Move a number of hexes up to the value of their [Stamina](/docs/adventurer/stats/stamina). An ability that gives additional hexes of free movement to an adventurer outside of their move action is not treated as a move action.
 ---
 
-When your [adventurer](/docs/glossary/adventurer) performs a move action, they move a number of hexes up to the value of their [Stamina](/docs/stats/stamina). An ability that gives additional hexes of free movement to an adventurer outside of their move action is not treated as a move action.
+When your [adventurer](/docs/glossary/adventurer) performs a move action, they move a number of hexes up to the value of their [Stamina](/docs/adventurer/stats/stamina). An ability that gives additional hexes of free movement to an adventurer outside of their move action is not treated as a move action.
 
 For each hex of movement your adventurer is allowed, you may move to 1 [unoccupied](/docs/glossary/occupied), [adjacent](/docs/glossary/adjacent) hex.
 

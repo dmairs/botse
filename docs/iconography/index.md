@@ -15,37 +15,37 @@ title: Iconography
 
 ### Item Types
 
-| Icon                                                            | Name                                             |
-| --------------------------------------------------------------- | ------------------------------------------------ |
-| <img src="/icons/armor.svg" alt="Armor Icon" />                 | [Armor](/docs/items/types/armor)                 |
-| <img src="/icons/consumable.svg" alt="Consumable Icon" />       | [Consumable](/docs/items/types/consumable)       |
-| <img src="/icons/clothing.svg" alt="Clothing Icon" />           | [Clothing](/docs/items/types/clothing)           |
-| <img src="/icons/enchantment.svg" alt="Enchantment Icon" />     | [Enchantment](/docs/items/types/enchantment)     |
-| <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> | [Miscellaneous](/docs/items/types/miscellaneous) |
-| <img src="/icons/pet.svg" alt="Pet Icon" />                     | [Pet](/docs/items/types/pet)                     |
-| <img src="/icons/potion.svg" alt="Potion Icon" />               | [Potion](/docs/items/types/potion)               |
-| <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Weapon](/docs/items/types/weapon)               |
+| Icon                                                            | Name                                                        |
+| --------------------------------------------------------------- | ----------------------------------------------------------- |
+| <img src="/icons/armor.svg" alt="Armor Icon" />                 | [Armor](/docs/adventurer/items/types/armor)                 |
+| <img src="/icons/consumable.svg" alt="Consumable Icon" />       | [Consumable](/docs/adventurer/items/types/consumable)       |
+| <img src="/icons/clothing.svg" alt="Clothing Icon" />           | [Clothing](/docs/adventurer/items/types/clothing)           |
+| <img src="/icons/enchantment.svg" alt="Enchantment Icon" />     | [Enchantment](/docs/adventurer/items/types/enchantment)     |
+| <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> | [Miscellaneous](/docs/adventurer/items/types/miscellaneous) |
+| <img src="/icons/pet.svg" alt="Pet Icon" />                     | [Pet](/docs/adventurer/items/types/pet)                     |
+| <img src="/icons/potion.svg" alt="Potion Icon" />               | [Potion](/docs/adventurer/items/types/potion)               |
+| <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Weapon](/docs/adventurer/items/types/weapon)               |
 
-### [Status Effects](/docs/status-effects/)
+### [Status Effects](/docs/battles/status-effects/)
 
-| Icon                                                | Name                                    |
-| --------------------------------------------------- | --------------------------------------- |
-| <img src="/icons/bane.svg" alt="Bane Icon" />       | [Bane](/docs/status-effects/bane)       |
-| <img src="/icons/blind.svg" alt="Blind Icon" />     | [Blind](/docs/status-effects/blind)     |
-| <img src="/icons/daze.svg" alt="Daze Icon" />       | [Daze](/docs/status-effects/daze)       |
-| <img src="/icons/fear.svg" alt="Fear Icon" />       | [Fear](/docs/status-effects/fear)       |
-| <img src="/icons/maim.svg" alt="Maim Icon" />       | [Maim](/docs/status-effects/maim)       |
-| <img src="/icons/stealth.svg" alt="Stealth Icon" /> | [Stealth](/docs/status-effects/stealth) |
+| Icon                                                | Name                                            |
+| --------------------------------------------------- | ----------------------------------------------- |
+| <img src="/icons/bane.svg" alt="Bane Icon" />       | [Bane](/docs/battles/status-effects/bane)       |
+| <img src="/icons/blind.svg" alt="Blind Icon" />     | [Blind](/docs/battles/status-effects/blind)     |
+| <img src="/icons/daze.svg" alt="Daze Icon" />       | [Daze](/docs/battles/status-effects/daze)       |
+| <img src="/icons/fear.svg" alt="Fear Icon" />       | [Fear](/docs/battles/status-effects/fear)       |
+| <img src="/icons/maim.svg" alt="Maim Icon" />       | [Maim](/docs/battles/status-effects/maim)       |
+| <img src="/icons/stealth.svg" alt="Stealth Icon" /> | [Stealth](/docs/battles/status-effects/stealth) |
 
 ### [Battle Forms](/docs/battle-forms)
 
-| Icon                                                            | Name                                              |
-| --------------------------------------------------------------- | ------------------------------------------------- |
-| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Defensive](/docs/battle-forms/defensive)         |
-| <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Heavy Weapon](/docs/battle-forms/heavy-weapon)   |
-| <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Light Weapon](/docs/battle-forms/light-weapon)   |
-| <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Magic](/docs/battle-forms/magic)                 |
-| <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> | [Ranged Weapon](/docs/battle-forms/ranged-weapon) |
+| Icon                                                            | Name                                                     |
+| --------------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Defensive](docs/battles/battle-forms/defensive)         |
+| <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Heavy Weapon](docs/battles/battle-forms/heavy-weapon)   |
+| <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Light Weapon](docs/battles/battle-forms/light-weapon)   |
+| <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Magic](docs/battles/battle-forms/magic)                 |
+| <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> | [Ranged Weapon](docs/battles/battle-forms/ranged-weapon) |
 
 ### Enemy Types
 
@@ -55,13 +55,13 @@ title: Iconography
 | <img src="/icons/daedra.svg" alt="Daedra Icon" />     | Daedra   |
 | <img src="/icons/humanoid.svg" alt="Humanoid Icon" /> | Humanoid |
 
-### [Skill Line Types](/docs/skill-lines)
+### [Skill Line Types](/docs/adventurer/skill-lines)
 
-| Icon                                                | Name                                 |
-| --------------------------------------------------- | ------------------------------------ |
-| <img src="/icons/mage.svg" alt="Mage Icon" />       | [Mage](/docs/skill-lines/mage)       |
-| <img src="/icons/thief.svg" alt="Thief Icon" />     | [Thief](/docs/skill-lines/thief)     |
-| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/skill-lines/warrior) |
+| Icon                                                | Name                                            |
+| --------------------------------------------------- | ----------------------------------------------- |
+| <img src="/icons/mage.svg" alt="Mage Icon" />       | [Mage](/docs/adventurer/skill-lines/mage)       |
+| <img src="/icons/thief.svg" alt="Thief Icon" />     | [Thief](/docs/adventurer/skill-lines/thief)     |
+| <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/adventurer/skill-lines/warrior) |
 
 ### Encounters
 
