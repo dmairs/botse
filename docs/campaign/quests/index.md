@@ -29,3 +29,11 @@ The party fails its quest step if it fails that step's quest encounter unless th
 ### Linked Steps
 
 Some quest steps are directly linked to the previous step and must be completed during the same day. If a step is linked in this way, its instructions will indicate that its encounter must be triggered immediately after completing the current step and explain how this affects the current day's phases (such as delaying the [Reward Phase](/docs/campaign/day/reward-phase)).
+
+## Ending the Session
+
+A game session ends after the party either succeeds or fails at its guild quest. If you succeed, complete that day's [Reward Phase](/docs/campaign/day/reward-phase) but skip the [End of Day Phase](/docs/campaign/day/end-of-day-phase). Instead, follow the steps under [Successfully Completing a Session](/docs/campaign/) to save your game for the next session in the campaign.
+
+If you succeed at your second session's guild quest, you can proceed to the [endgame](/docs/campaign/endgame) at the start of your next session. You must succeed at that session's quest to win the campaign.
+
+If you fail any of your guild quest's steps or have not succeeded at your guild quest by the end of the session's 12-day limit, you fail that quest. This ends the game session and the campaign.
