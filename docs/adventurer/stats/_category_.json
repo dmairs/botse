@@ -2,7 +2,7 @@
   "label": "Stats",
   "link": {
     "type": "generated-index",
-    "slug": "/stats/",
+    "slug": "/adventurer/stats/",
     "description": "Stats are your adventurer's core capabilities. Each stat's total is the base value of its circular token (if any) plus the number of square tokens of its color in its attribute row. This total is the stat's max value. Each stat is described below."
   }
 }

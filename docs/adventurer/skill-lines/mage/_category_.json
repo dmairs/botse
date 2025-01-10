@@ -1,8 +1,7 @@
 {
-    "label": "Mage",
-    "link": {
-      "type": "generated-index",
-      "slug": "skill-lines/mage/"
-    }
+  "label": "Mage",
+  "link": {
+    "type": "generated-index",
+    "slug": "/adventurer/skill-lines/mage/"
+  }
 }
-  
