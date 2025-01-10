@@ -16,7 +16,7 @@ Gain all XP or other rewards for succeeding at the encounter. If you failed, do 
 
 - Some encounters refer to gaining [bonus XP](/docs/glossary/bonus-xp). This XP is not added to the party's XP Dial, but must instead be tracked by individual adventurers. It is otherwise spent and treated like standard XP.
 
-- [Skyshard](/docs/glossary/skyshard) XP rewards in delves are gained after an encounter with an Uncover objective even if the encounter was failed, so long as the party was not defeated.
+- [Skyshard](/docs/battles/types/delve/skyshard) XP rewards in delves are gained after an encounter with an Uncover objective even if the encounter was failed, so long as the party was not defeated.
 
 - If other rewards are gained, such as item cards or advancements; do as the encounter instructs. If an advancement is gained, add it to each affected adventurer's mat during this step.
 
