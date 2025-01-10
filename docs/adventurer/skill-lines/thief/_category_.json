@@ -1,8 +1,7 @@
 {
-    "label": "Thief",
-    "link": {
-      "type": "generated-index",
-      "slug": "skill-lines/thief/"
-    }
+  "label": "Thief",
+  "link": {
+    "type": "generated-index",
+    "slug": "/adventurer/skill-lines/thief/"
+  }
 }
-  
