@@ -78,13 +78,13 @@ title: Iconography
 
 ### Map / Delve
 
-| Icon                                                                          | Name                                |
-| ----------------------------------------------------------------------------- | ----------------------------------- |
-| <img src="/icons/common-item.svg" alt="Common Item Icon" />                   | Common Item / Cache                 |
-| <img src="/icons/door.svg" alt="Door Icon" />                                 | Door Icon                           |
-| <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex                |
-| <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" />             | Legendary Item                      |
-| <img src="/icons/skyshard.svg" alt="Skyshard Icon" />                         | [Skyshard](/docs/glossary/skyshard) |
+| Icon                                                                          | Name                                           |
+| ----------------------------------------------------------------------------- | ---------------------------------------------- |
+| <img src="/icons/common-item.svg" alt="Common Item Icon" />                   | Common Item / Cache                            |
+| <img src="/icons/door.svg" alt="Door Icon" />                                 | Door Icon                                      |
+| <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex                           |
+| <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" />             | Legendary Item                                 |
+| <img src="/icons/skyshard.svg" alt="Skyshard Icon" />                         | [Skyshard](/docs/battles/types/delve/skyshard) |
 
 ### Miscellaneous
 

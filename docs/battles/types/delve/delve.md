@@ -6,7 +6,7 @@ tags:
   - Delve
 ---
 
-Delve battles represent adventurers navigating an uncharted, labyrinthine space. In a delve battle, the map is composed of multiple tiles marked with icons. These icons interact with delve cards and are used as reference points when additional tiles are revealed. The adventurers move through the delve, exploring new rooms, unlocking [caches](/docs/glossary/cache), and gaining [skyshards](/docs/glossary/skyshard)—pieces of crystalized Magicka that are used to track the party's progress.
+Delve battles represent adventurers navigating an uncharted, labyrinthine space. In a delve battle, the map is composed of multiple tiles marked with icons. These icons interact with delve cards and are used as reference points when additional tiles are revealed. The adventurers move through the delve, exploring new rooms, unlocking [caches](/docs/glossary/cache), and gaining [skyshards](/docs/battles/types/delve/skyshard)—pieces of crystalized Magicka that are used to track the party's progress.
 
 ## Enemy Pool
 
