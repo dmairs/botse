@@ -38,6 +38,7 @@ h1 img {
 .icon-svg {
   width: 1.5em;
   vertical-align: bottom;
+  margin: 1px;
 }
 
 .skill-icon {
