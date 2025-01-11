@@ -12,7 +12,7 @@ You can increase an attribute by spending the required [XP](/docs/glossary/xp) c
 
 ### Add a Skill Die
 
-To add a skill die, you must have trained that [skill line](/docs/adventurer/skill-lines/), either when creating your adventurer or by visiting a trainer as a town action. To add a skill die of levels 2–4, you must also have at least 1 other skill die in the same line that is either the same level as, or 1 level below, the new skill die. For example, to add a level 3 Bow skill die, you must also have at least one level 2 or level 3 Bow skill die currently added to your adventurer mat. If you have added a skill die to your attribute rows, that die is referred to as trained.
+To add a skill die, you must have trained that [skill line](/docs/adventurer/skill-lines/), either when creating your adventurer or by visiting a trainer as a [town](/docs/campaign/day/encounter-phase/town) action. To add a skill die of levels 2–4, you must also have at least 1 other skill die in the same line that is either the same level as, or 1 level below, the new skill die. For example, to add a level 3 Bow skill die, you must also have at least one level 2 or level 3 Bow skill die currently added to your adventurer mat. If you have added a skill die to your attribute rows, that die is referred to as trained.
 
 ## Increase Cooldown Stat
 
@@ -28,7 +28,7 @@ You can flip your [class](/docs/adventurer/classes/) sheet to its master side; t
 
 ## Add a Skill Line
 
-You can add a new skill line to an open circular slot at the side of one of your attribute rows. To do so, you must visit a trainer during a town encounter and choose a faceup skill line token there. The new skill line must be placed in an open circular slot at the left or right end of a row.
+You can add a new skill line to an open circular slot at the side of one of your attribute rows. To do so, you must visit a trainer during a [town](/docs/campaign/day/encounter-phase/town) encounter and choose a faceup skill line token there. The new skill line must be placed in an open circular slot at the left or right end of a row.
 
 ## Add Magicka Stat
 
