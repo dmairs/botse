@@ -8,4 +8,4 @@ Tamriel's premier professional fighting organization is renowned for running dan
 
 ### Guild Kiosk Town Action
 
-**Battlemaster:** Search the <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" /> Deck and gain the first [<img src="/icons/weapon.svg" alt="Weapon Icon" class="icon-svg" />](/docs/adventurer/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" />](/docs/adventurer/items/types/armor) item. Then, shuffle the deck.
+**Battlemaster:** Search the <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> Deck and gain the first [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) item. Then, shuffle the deck.

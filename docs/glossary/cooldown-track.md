@@ -19,4 +19,4 @@ Dice still in an [adventurer's](/docs/glossary/adventurer) cooldown track at the
 
 ### Cooldown Track on Skill Abilities
 
-This skill die is exhausted. The die's ability is resolved as described in its entry and is typically ongoing until it is removed from the cooldown track. If for any reason you decide not to resolve a <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" class="icon-svg" /> result, place it in your cooldown track with the [<img src="/icons/tenacity.svg" alt="Tenacity Icon" class="icon-svg"/>](/docs/glossary/tenacity) result face up (without gaining [tenacity](/docs/glossary/tenacity)).
+This skill die is exhausted. The die's ability is resolved as described in its entry and is typically ongoing until it is removed from the cooldown track. If for any reason you decide not to resolve a <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" /> result, place it in your cooldown track with the [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result face up (without gaining [tenacity](/docs/glossary/tenacity)).

@@ -40,6 +40,10 @@ h1 img {
   vertical-align: bottom;
 }
 
+html[data-theme="dark"] .skill-icon {
+  filter: invert(1);
+}
+
 .table-of-contents .icon-svg {
   display: none;
 }

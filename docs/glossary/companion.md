@@ -8,7 +8,7 @@ A companion is a [unit](/docs/glossary/unit) that is under the ongoing control o
 
 While a companion unit is part of the party, it follows these rules:
 
-- The companion is a [party member](/docs/glossary/party) but not an [adventurer](/docs/glossary/adventurer). It is not affected by abilities that apply to adventurers, and is not counted toward the party's total number of adventurers for purposes of [party size (<img src="/icons/party-size.svg" alt="Party Size Icon" class="icon-svg" />)](/docs/glossary/party-size).
+- The companion is a [party member](/docs/glossary/party) but not an [adventurer](/docs/glossary/adventurer). It is not affected by abilities that apply to adventurers, and is not counted toward the party's total number of adventurers for purposes of [party size (<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />)](/docs/glossary/party-size).
 - The companion unit begins each battle at its maximum HP unless otherwise stated.
 - If a companion is defeated, it is removed from the party permanently. Otherwise, a companion remains with the [adventurer](/docs/glossary/adventurer) or [party](/docs/glossary/party) unless it is removed by another effect.
 - A defeated companion's chip is placed with other undeployed chips of its type. For example, an enemy chip that has become a companion is placed back in the correct enemy bag when defeated.

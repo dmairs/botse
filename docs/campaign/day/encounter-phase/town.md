@@ -1,10 +1,10 @@
 ---
 id: town
 title: Town
-hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" class="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
+hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
 ---
 
-These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" class="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
+These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
 
 Some towns can become closed as a result of encounters or quests. When this happens, the party must note it in the campaign journal. While a town is closed, the party cannot move into that town's hex.
 
@@ -24,7 +24,7 @@ Most towns have a shop feature and a trainer feature, each of which has componen
 
 ### Shop
 
-Draw a number of common item (<img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />) and legendary item (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" />) cards equal to the shop's values for each type and place those cards faceup. Items not taken from the shop are [discarded](/docs/glossary/discard) at the end of the town encounter.
+Draw a number of common item (<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />) and legendary item (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />) cards equal to the shop's values for each type and place those cards faceup. Items not taken from the shop are [discarded](/docs/glossary/discard) at the end of the town encounter.
 
 ### Trainer
 

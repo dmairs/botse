@@ -20,11 +20,11 @@ Encounters have 2 outcome types: peaceful or battle. When an encounter appears o
 
 ### Peaceful
 
-A peaceful (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" class="icon-svg" />) outcome resolves the encounter without the players taking part in a battle. A peaceful encounter is automatically successful unless otherwise noted. If the party does not fulfill a peaceful encounter's requirements, the encounter is failed.
+A peaceful (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" className="icon-svg" />) outcome resolves the encounter without the players taking part in a battle. A peaceful encounter is automatically successful unless otherwise noted. If the party does not fulfill a peaceful encounter's requirements, the encounter is failed.
 
 ### Battle
 
-A battle outcome is resolved on the battle map. There are 3 modes of battle: [clashes](/docs/battles/types/clash) (<img src="/icons/clash.svg" alt="Clash Icon" class="icon-svg" />), [delves](/docs/battles/types/delve/) (<img src="/icons/delve.svg" alt="Delve Icon" class="icon-svg" />), and [dungeons](/docs/battles/types/dungeon) (which do not appear on overland cards and have no icon).
+A battle outcome is resolved on the battle map. There are 3 modes of battle: [clashes](/docs/battles/types/clash) (<img src="/icons/clash.svg" alt="Clash Icon" className="icon-svg" />), [delves](/docs/battles/types/delve/) (<img src="/icons/delve.svg" alt="Delve Icon" className="icon-svg" />), and [dungeons](/docs/battles/types/dungeon) (which do not appear on overland cards and have no icon).
 
 Quest encounters are described either in their [province's](/docs/campaign/provinces/) gazetteer or on a [side quest](/docs/campaign/quests/side-quests) card and are triggered and resolved as their text specifies.
 

@@ -8,7 +8,7 @@ Some encounters give the party the opportunity to resolve a social check to acce
 
 ## Difficulty Value
 
-A social check can be made only during an encounter that specifically offers the choice to perform one and includes its difficulty value in parentheses within that choice's text. A difficulty value is typically based on a fixed value that is either added to or multiplied by the number of adventurers ([<img src="/icons/party-size.svg" alt="Party Size Icon" class="icon-svg" />](/docs/glossary/party-size)).
+A social check can be made only during an encounter that specifically offers the choice to perform one and includes its difficulty value in parentheses within that choice's text. A difficulty value is typically based on a fixed value that is either added to or multiplied by the number of adventurers ([<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)).
 
 ## Social Check Sequence
 
