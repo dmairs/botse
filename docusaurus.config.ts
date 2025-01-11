@@ -67,14 +67,6 @@ const config: Config = {
         alt: "Logo for BOTSE Helper",
         src: "img/logo.svg",
       },
-      items: [
-        {
-          href: "https://github.com/dmairs/botse",
-          label: "GitHub",
-          position: "right",
-          target: "_blank",
-        },
-      ],
     },
     sidebar: {
       hideable: true,
