@@ -20,7 +20,7 @@ Gain all XP or other rewards for succeeding at the encounter. If you failed, do 
 
 - If other rewards are gained, such as item cards or advancements; do as the encounter instructs. If an advancement is gained, add it to each affected adventurer's mat during this step.
 
-- If the party's overland token is at an unstable landmark (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" class="icon-svg" />) and it completes a peaceful or conflict overland encounter, or traveling caravan town encounter, each adventurer gains 2 [tenacity](/docs/glossary/tenacity), regardless of whether the encounter was successful.
+- If the party's overland token is at an unstable landmark (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" class="icon-svg" />) and it completes a peaceful or conflict overland encounter, or [traveling caravan](/docs/campaign/day/encounter-phase/traveling-caravan) town encounter, each adventurer gains 2 [tenacity](/docs/glossary/tenacity), regardless of whether the encounter was successful.
 
 - If the party gains a special achievement, such as a quest keyword or access to a closed town—record it in the campaign journal.
 

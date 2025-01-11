@@ -7,7 +7,7 @@ hoverText: >
 
 [Adventurers](/docs/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/glossary/cache) or disarm [traps](/docs/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism's difficulty code. If they succeed, they pick the lock or disarm the trap, even if in the middle of an action. If they fail, that lock remains in place or the trap's effect is tripped.
 
-During a battle, a lockpick check can be made when an [adventurer](/docs/glossary/adventurer) moves into a hex with a [cache](/docs/glossary/cache) or [trap](/docs/glossary/trap), even if in the middle of an action. During a town or peaceful encounter, a lockpick check can be made only when the encounter's text describes it.
+During a battle, a lockpick check can be made when an [adventurer](/docs/glossary/adventurer) moves into a hex with a [cache](/docs/glossary/cache) or [trap](/docs/glossary/trap), even if in the middle of an action. During a [town](/docs/campaign/day/encounter-phase/town) or peaceful encounter, a lockpick check can be made only when the encounter's text describes it.
 
 ## Difficulty Codes
 

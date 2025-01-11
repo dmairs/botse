@@ -22,7 +22,7 @@ In battle, a defeated adventurer can be affected only by friendly abilities that
 
 If your entire [party](/docs/glossary/party) is defeated, the encounter ends after the current [round](/docs/battles/battle-round), unless the party triggers its [guild assist](/docs/glossary/guild-assist). Treat a full party defeat as a failed encounter and follow the steps below:
 
-1.  Place the party token in the [closest](/docs/glossary/closest) town to the party's current location on the overland map.
+1.  Place the party token in the [closest](/docs/glossary/closest) [town](/docs/campaign/day/encounter-phase/town) (<img src="/icons/town.svg" alt="Town Icon" class="icon-svg" />) to the party's current location on the overland map.
 2.  Resolve the [Reward Phase](/docs/campaign/day/reward-phase).
 3.  Resolve the [End of Day Phase.s](/docs/campaign/day/end-of-day-phase) Adventurers Rest step as normal. If playing on [Expert](/docs/campaign/difficulty-levels/expert) and the full party is defeated, [adventurers](/docs/glossary/adventurer) [heal](/docs/glossary/healing) for 1 HP even if they do not [discard](/docs/glossary/discard) an item (but still must discard an item to [recover](/docs/glossary/recover) a die from their [cooldown track](/docs/glossary/cooldown-track)).
 
