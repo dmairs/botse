@@ -40,7 +40,7 @@ Each skill die ability has at least 1 of the following codes that determines how
 | <img src="/icons/instant.svg" alt="Instant Icon" />               | [Instant](/docs/glossary/instant)               |
 | <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Status Effect](/docs/glossary/status-effect)   |
 
-## Rolling Skill Dice outside of battle
+## Rolling Skill Dice Outside of Battle
 
 Some skill die abilities allow skill dice to be rolled during non-battle encounters or even outside of the [Encounter Phase](/docs/campaign/day/encounter-phase). If 1 or more skill dice can be rolled this way, follow the engage action sequence above to resolve that roll, with the following exceptions:
 
