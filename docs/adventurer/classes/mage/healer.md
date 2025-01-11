@@ -28,4 +28,4 @@ hoverText: ""
 | 2 | Snakeblood | **[Interrupt](/docs/glossary/interrupt):** After [healing](/docs/glossary/healing) an adventurer, immediately deal a [targetable](/docs/glossary/targetable) [enemy](/docs/glossary/enemy) damage equal to the HP healed. | — |
 | 2 | Liquid Efficiency | Move up to 4 [fatigue](/docs/glossary/fatigue) from any adventurers' cooldown tracks to your [active slots](/docs/glossary/active-slot). Heal yourself for 1 HP for each fatigue moved this way (these fatigue dice are treated as active skill dice until removed). | Allows [overfatigue](/docs/glossary/fatigue) dice moving |
 | 3 | Hope Infusion | Any [adventurer](/docs/glossary/adventurer) in play gains 3 [bonus HP](/docs/glossary/bonus-hp). | — |
-| 4 | From the Brink | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](docs/battles/battle-forms/magic) **[Interrupt](/docs/glossary/interrupt):** | New |
+| 4 | From the Brink | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic) **[Interrupt](/docs/glossary/interrupt):** | New |
