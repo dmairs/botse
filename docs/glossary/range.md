@@ -12,7 +12,7 @@ A unit is always within range of itself.
 
 ### Adventurer's Range
 
-Defined by their current battle form. Some battle forms (such as [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](docs/battles/battle-forms/ranged-weapon) or [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](docs/battles/battle-forms/magic)) have a range equal to an adventurer's [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, while others allow only [adjacent](/docs/glossary/adjacent) units to be within range.
+Defined by their current battle form. Some battle forms (such as [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) or [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic)) have a range equal to an adventurer's [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, while others allow only [adjacent](/docs/glossary/adjacent) units to be within range.
 
 ### Enemy's Range
 

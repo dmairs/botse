@@ -11,4 +11,6 @@ Some abilities cause an [adventurer](/docs/glossary/adventurer) to gain bonus HP
 
 :::info
 Non-adventurer [units](/docs/glossary/unit) cannot gain bonus HP.
+
+Gaining Bonus HP is not considered [healing](/docs/glossary/).
 :::
