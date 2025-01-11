@@ -1,10 +1,10 @@
 ---
 id: enemy-turn
 title: Enemy Turn
-hoverText: After all [adventurer turns](/docs/battles/adventurer-turn/) (and any companion turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value.
+hoverText: After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value.
 ---
 
-After all [adventurer turns](/docs/battles/adventurer-turn/) (and any companion turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value. [Quest units](/docs/glossary/quest-unit) are treated as having the highest level in any encounter. If multiple enemies have the same level, the party decides which order those enemies act in each round.
+After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value. [Quest units](/docs/glossary/quest-unit) are treated as having the highest level in any encounter. If multiple enemies have the same level, the party decides which order those enemies act in each round.
 
 ## Turn Sequence
 
@@ -12,7 +12,7 @@ After all [adventurer turns](/docs/battles/adventurer-turn/) (and any companion 
 2. **Move:** Move the enemy up to 2 hexes. The enemy moves only if there are no [targetable](/docs/glossary/targetable) units in its [range](/docs/glossary/range). If the enemy must move, it moves toward the [closest](/docs/glossary/closest) hex where at least 1 targetable unit would be within its range and in [sight](/docs/glossary/sight).
 3. **Engage:** The enemy engages opposing units, if able, following these substeps in the order below.
    - **a. Determine Target(s):** The enemy targets a number of opposing units up to its target value that are within its [range](/docs/glossary/range) and in [sight](/docs/glossary/sight), in the order its priority icon dictates. If multiple units have the same priority, the party chooses the target.
-   - **b. Gather and Roll Dice:** Roll all of the enemy's Combat dice. If the enemy can engage multiple targets in range, it rolls its Combat dice once and resolves the roll for each target during the next step. Units that are being targeted during the enemy's engage are being engaged by that enemy. If the enemy gathers no dice during this step (for example, if it has a Combat value of 0), this step is still completed for the purpose of triggering other abilities.
+   - **b. Gather and Roll Dice:** Roll all of the enemy's Combat dice. If the enemy can engage multiple targets in range, it rolls its Combat dice once and resolves the roll for each target during the next step. Units that are being targeted during the enemy's engage are being engaged by that enemy. <u>If the enemy gathers no dice during this step (for example, if it has a Combat value of 0), this step is still completed for the purpose of triggering other abilities.</u>
    - **c. Resolve the Roll:** Resolve the total rolled Combat dice value against the target to deal the rolled amount of damage. If there are multiple targets, resolve the roll against each, starting with the enemy's highest priority unit and continuing in descending order (for example the strongest unit, then next strongest). If target units have the same HP value, the party decides which to resolve the roll against first.
    - **d. Units React:** Adventurers, companions, or enemies may resolve abilities that are triggered after this engage. Enemies must resolve these abilities, if able.
 4. **End of Turn**: Trigger any abilities with this timing. Then, the next enemy in level order takes its turn.
