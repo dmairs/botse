@@ -40,6 +40,10 @@ h1 img {
   vertical-align: bottom;
 }
 
+.skill-icon {
+  min-width: 4em;
+}
+
 html[data-theme="dark"] .skill-icon {
   filter: invert(1);
 }
