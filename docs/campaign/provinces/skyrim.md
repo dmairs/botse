@@ -1,12 +1,12 @@
 ---
 id: skyrim
 title: Skyrim [SK]
-hoverText: Native Skill - [Freeze](/docs/battles/enemy-skills/native-skills/freeze)
+hoverText: Native Skill - [Freeze](/docs/battles/enemy-skills/freeze)
 tags:
   - Skyrim
 ---
 
-**Native Skill:** [Freeze](/docs/battles/enemy-skills/native-skills/freeze)
+**Native Skill:** [Freeze](/docs/battles/enemy-skills/freeze)
 
 :::tip[FAQ]
 
