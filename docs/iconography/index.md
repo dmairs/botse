@@ -39,13 +39,13 @@ title: Iconography
 
 ### [Battle Forms](/docs/battle-forms)
 
-| Icon                                                            | Name                                                     |
-| --------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Defensive](docs/battles/battle-forms/defensive)         |
-| <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Heavy Weapon](docs/battles/battle-forms/heavy-weapon)   |
-| <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Light Weapon](docs/battles/battle-forms/light-weapon)   |
-| <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Magic](docs/battles/battle-forms/magic)                 |
-| <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> | [Ranged Weapon](docs/battles/battle-forms/ranged-weapon) |
+| Icon                                                            | Name                                                      |
+| --------------------------------------------------------------- | --------------------------------------------------------- |
+| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Defensive](/docs/battles/battle-forms/defensive)         |
+| <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Heavy Weapon](/docs/battles/battle-forms/heavy-weapon)   |
+| <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Light Weapon](/docs/battles/battle-forms/light-weapon)   |
+| <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Magic](/docs/battles/battle-forms/magic)                 |
+| <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> | [Ranged Weapon](/docs/battles/battle-forms/ranged-weapon) |
 
 ### Enemy Types
 
@@ -78,13 +78,13 @@ title: Iconography
 
 ### Map / Delve
 
-| Icon                                                                          | Name                                |
-| ----------------------------------------------------------------------------- | ----------------------------------- |
-| <img src="/icons/common-item.svg" alt="Common Item Icon" />                   | Common Item / Cache                 |
-| <img src="/icons/door.svg" alt="Door Icon" />                                 | Door Icon                           |
-| <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex                |
-| <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" />             | Legendary Item                      |
-| <img src="/icons/skyshard.svg" alt="Skyshard Icon" />                         | [Skyshard](/docs/glossary/skyshard) |
+| Icon                                                                          | Name                                           |
+| ----------------------------------------------------------------------------- | ---------------------------------------------- |
+| <img src="/icons/common-item.svg" alt="Common Item Icon" />                   | Common Item / Cache                            |
+| <img src="/icons/door.svg" alt="Door Icon" />                                 | Door Icon                                      |
+| <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex                           |
+| <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" />             | Legendary Item                                 |
+| <img src="/icons/skyshard.svg" alt="Skyshard Icon" />                         | [Skyshard](/docs/battles/types/delve/skyshard) |
 
 ### Miscellaneous
 

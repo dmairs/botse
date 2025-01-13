@@ -8,11 +8,11 @@ When an adventurer improves their stats or skills, it is an advancement. Some of
 
 ## Increase an Attribute
 
-You can increase an attribute by spending the required [XP](/docs/glossary/xp) cost to add a stat token or skill die to an open square slot in that attribute's row. Each additional token or die must be added to the open square slot that is closest to the side of the row with that attribute's circular token. The attribute cost for an open slot is shown at the top of that slot's column. When increasing an attribute from the left side of the row, use the attribute cost in the white box. When increasing an attribute from the right side, use the attribute cost in the black box. If any of that skill line's dice are in the [cooldown track](/docs/glossary/cooldown-track) (or [drained](//docs/glossary/drained)), the cost is equal to that of the rightmost (or leftmost) open slot the new die would be placed in if all of that line's dice were available.
+You can increase an attribute by spending the required [XP](/docs/glossary/xp) cost to add a stat token or skill die to an open square slot in that attribute's row. Each additional token or die must be added to the open square slot that is closest to the side of the row with that attribute's circular token. The attribute cost for an open slot is shown at the top of that slot's column. When increasing an attribute from the left side of the row, use the attribute cost in the white box. When increasing an attribute from the right side, use the attribute cost in the black box. If any of that skill line's dice are in the [cooldown track](/docs/glossary/cooldown-track) (or [drained](/docs/glossary/drained)), the cost is equal to that of the rightmost (or leftmost) open slot the new die would be placed in if all of that line's dice were available.
 
 ### Add a Skill Die
 
-To add a skill die, you must have trained that [skill line](/docs/adventurer/skill-lines/), either when creating your adventurer or by visiting a trainer as a town action. To add a skill die of levels 2–4, you must also have at least 1 other skill die in the same line that is either the same level as, or 1 level below, the new skill die. For example, to add a level 3 Bow skill die, you must also have at least one level 2 or level 3 Bow skill die currently added to your adventurer mat. If you have added a skill die to your attribute rows, that die is referred to as trained.
+To add a skill die, you must have trained that [skill line](/docs/adventurer/skill-lines/), either when creating your adventurer or by visiting a trainer as a [town](/docs/campaign/day/encounter-phase/town) action. To add a skill die of levels 2–4, you must also have at least 1 other skill die in the same line that is either the same level as, or 1 level below, the new skill die. For example, to add a level 3 Bow skill die, you must also have at least one level 2 or level 3 Bow skill die currently added to your adventurer mat. If you have added a skill die to your attribute rows, that die is referred to as trained.
 
 ## Increase Cooldown Stat
 
@@ -28,7 +28,7 @@ You can flip your [class](/docs/adventurer/classes/) sheet to its master side; t
 
 ## Add a Skill Line
 
-You can add a new skill line to an open circular slot at the side of one of your attribute rows. To do so, you must visit a trainer during a town encounter and choose a faceup skill line token there. The new skill line must be placed in an open circular slot at the left or right end of a row.
+You can add a new skill line to an open circular slot at the side of one of your attribute rows. To do so, you must visit a trainer during a [town](/docs/campaign/day/encounter-phase/town) encounter and choose a faceup skill line token there. The new skill line must be placed in an open circular slot at the left or right end of a row.
 
 ## Add Magicka Stat
 
