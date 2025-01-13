@@ -17,7 +17,7 @@
   "dependencies": {
     "@docusaurus/core": "^3.7.0",
     "@docusaurus/preset-classic": "^3.7.0",
-    "@grnet/docusaurus-terminology": "^2.0.0-rc.1",
+    "@grnet/docusaurus-terminology": "^2.0.0-rc.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.4.0",

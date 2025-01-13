@@ -22,7 +22,7 @@ export default function DocLinkList(props: Props): JSX.Element {
   const filteredItems = filterDocCardListItems(items);
 
   return (
-    <ul className={className}>
+    <ul className={styles.unstyled}>
       {filteredItems.map((item) => {
         if (item.type === "link") {
           return <DocLink key={item.docId} item={item} />;
