@@ -20,12 +20,12 @@
     "@grnet/docusaurus-terminology": "^2.0.0-rc.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
-    "docusaurus-lunr-search": "^3.4.0",
+    "docusaurus-lunr-search": "^3.6.0",
     "prettier": "^3.3.3",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-markdown": "^9.0.1"
+    "react-markdown": "^9.0.3"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
