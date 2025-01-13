@@ -15,7 +15,7 @@ This skill die is placed in a unique manner (for example, on an enemy or in a he
 Note that [quest units](/docs/glossary/quest-unit) cannot gain status effects from [adventurer](/docs/glossary/adventurer) abilities.
 
 :::tip[FAQ]
-Status effects are not removed from [adventurers](/docs/glossary/adventurer) automatically after battle. They remain in the [cooldown track](/doc /glossary/cooldown-track) until/unless they are removed.
+Status effects are not removed from [adventurers](/docs/glossary/adventurer) automatically after battle. They remain in the [cooldown track](/docs/glossary/cooldown-track) until/unless they are removed.
 
 Status effects are removed from all other [units](/docs/glossary/unit), including [enemies](/docs/glossary/enemy) and [companions](/docs/glossary/companion), at the [end of battle](/docs/battles/end-of-battle).
 :::
