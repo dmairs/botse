@@ -3,7 +3,7 @@ id: speech
 title: Speech
 ---
 
-Speech dice all have numbbers which indicate the strength of their effects. When multiple dice of the same skill are rolled together, their numbers are combined, increasing an effect's strength.
+Speech dice all have numbers which indicate the strength of their effects. When multiple dice of the same skill are rolled together, their numbers are combined, increasing an effect's strength.
 
 ## Level 1
 
