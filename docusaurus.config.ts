@@ -76,7 +76,7 @@ const config: Config = {
       style: "light",
       links: [
         {
-          label: "Feedback / Bugs / Suggestions",
+          label: "Feedback / Suggestions",
           to: "mailto:dmairs@proton.me",
         },
         {
