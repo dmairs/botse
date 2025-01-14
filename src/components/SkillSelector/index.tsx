@@ -42,7 +42,7 @@ const SkillSelector: React.FC = () => {
         <AccordionDetails>
           <Grid container spacing={2}>
             {enemySkills.map((skill, index) => (
-              <Grid size={{ xs: 4, sm: 3, md: 2, xl: 1 }} key={index}>
+              <Grid size={{ xs: 6, sm: 3, md: 2, xl: 1 }} key={index}>
                 <FormGroup>
                   <FormControlLabel
                     control={
