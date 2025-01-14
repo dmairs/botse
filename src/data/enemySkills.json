@@ -1,0 +1,394 @@
+[
+  {
+    "id": "aggressive",
+    "title": "Aggressive",
+    "hoverText": "After rolling enemy [Combat](/docs/adventurer/skill-lines/combat) dice, this unit rerolls all misses 1 time before dealing damage to its target.",
+    "filePath": "docs/battles/enemy-skills/aggressive",
+    "contentAfterFrontMatter": "After rolling enemy [Combat](/docs/adventurer/skill-lines/combat) dice, this unit rerolls all misses 1 time before dealing damage to its target."
+  },
+  {
+    "id": "arcane",
+    "title": "Arcane",
+    "hoverText": "The damage dealt by this unit is [true damage](/docs/glossary/true-damage).",
+    "filePath": "docs/battles/enemy-skills/arcane",
+    "contentAfterFrontMatter": "The damage dealt by this unit is [true damage](/docs/glossary/true-damage)."
+  },
+  {
+    "id": "bane",
+    "title": "Bane",
+    "hoverText": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Bane](/docs/battles/status-effects/bane) status die to this unit's target.",
+    "filePath": "docs/battles/enemy-skills/bane",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Bane](/docs/battles/status-effects/bane) (<img src=\"/icons/bane.svg\" alt=\"Bane Icon\" class=\"icon-svg\" />) status die to this unit's target."
+  },
+  {
+    "id": "bide",
+    "title": "Bide",
+    "hoverText": "If this [unit](/docs/glossary/unit) does not move on its [turn](/docs/glossary/turn), it [heals](/docs/glossary/healing) for 2 HP at the end of its [turn](/docs/glossary/turn).",
+    "filePath": "docs/battles/enemy-skills/bide",
+    "contentAfterFrontMatter": "If this [unit](/docs/glossary/unit) does not move on its [turn](/docs/glossary/turn), it [heals](/docs/glossary/healing) for 2 HP at the end of its [turn](/docs/glossary/turn)."
+  },
+  {
+    "id": "bladed",
+    "title": "Bladed",
+    "hoverText": "When [engaging](/docs/battles/adventurer-turn/engage) an [adjacent](/docs/glossary/adjacent) target, this [unit](/docs/glossary/unit) deals an additional 2 damage to its target.",
+    "filePath": "docs/battles/enemy-skills/bladed",
+    "contentAfterFrontMatter": "When [engaging](/docs/battles/adventurer-turn/engage) an [adjacent](/docs/glossary/adjacent) target, this [unit](/docs/glossary/unit) deals an additional 2 damage to its target."
+  },
+  {
+    "id": "blind",
+    "title": "Blind",
+    "hoverText": "After this [unit's](/docs/glossary/unit) engage, apply a [Blind](/docs/battles/status-effects/blind) status die to this unit's target.",
+    "filePath": "docs/battles/enemy-skills/blind",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) engage, apply a [Blind](/docs/battles/status-effects/blind) (<img src=\"/icons/blind.svg\" alt=\"Blind Icon\" class=\"icon-svg\" />) status die to this unit's target."
+  },
+  {
+    "id": "burn",
+    "title": "Burn",
+    "hoverText": "After this unit determines its target, the target must choose to lose 1 [tenacity](/docs/glossary/tenacity), discard 1 [item](/docs/adventurer/items), or deal itself 1 [true damage](/docs/glossary/true-damage).",
+    "filePath": "docs/battles/enemy-skills/burn",
+    "contentAfterFrontMatter": "After this unit determines its target, the target must choose to either:\r\n\r\n- lose 1 [tenacity](/docs/glossary/tenacity)\r\n- discard 1 [item](/docs/adventurer/items)\r\n- deal itself 1 [true damage](/docs/glossary/true-damage)."
+  },
+  {
+    "id": "chilblain",
+    "title": "Chilblain",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not using a [Weapon](/docs/adventurer/items/types/weapon) type item, that adventurer gains light [fatigue](/docs/glossary/fatigue) equal to [party size](/docs/glossary/party-size).",
+    "filePath": "docs/battles/enemy-skills/chilblain",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not using a [<img src=\"/icons/weapon.svg\" alt=\"Weapon Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/weapon), that adventurer gains light [fatigue](/docs/glossary/fatigue) equal to [<img src=\"/icons/party-size.svg\" alt=\"Party Size Icon\" class=\"icon-svg\" />](/docs/glossary/party-size)."
+  },
+  {
+    "id": "colossal",
+    "title": "Colossal",
+    "hoverText": "This [unit](/docs/glossary/unit) deploys with additional HP equal to the total number of [Combat](/docs/adventurer/skill-lines/combat) skill dice trained by [adventurers](/docs/glossary/adventurer).",
+    "filePath": "docs/battles/enemy-skills/colossal",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) deploys with additional HP equal to the total number of [Combat](/docs/adventurer/skill-lines/combat) skill dice trained by [adventurers](/docs/glossary/adventurer)."
+  },
+  {
+    "id": "cornered",
+    "title": "Cornered",
+    "hoverText": "This [unit](/docs/glossary/unit) deploys with an additional 2 HP for each [undefeated](/docs/glossary/defeated) [adventurer](/docs/glossary/adventurer).",
+    "filePath": "docs/battles/enemy-skills/cornered",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) deploys with an additional 2 HP for each [undefeated](/docs/glossary/defeated) [adventurer](/docs/glossary/adventurer)."
+  },
+  {
+    "id": "daze",
+    "title": "Daze",
+    "hoverText": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Daze](/docs/battles/status-effects/daze) status die to this unit's target.",
+    "filePath": "docs/battles/enemy-skills/daze",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Daze](/docs/battles/status-effects/daze) (<img src=\"/icons/daze.svg\" alt=\"Daze Icon\" class=\"icon-svg\" />) status die to this unit's target."
+  },
+  {
+    "id": "decay",
+    "title": "Decay",
+    "hoverText": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it is dealt 1 [true damage](/docs/glossary/true-damage).",
+    "filePath": "docs/battles/enemy-skills/decay",
+    "contentAfterFrontMatter": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it is dealt 1 [true damage](/docs/glossary/true-damage)."
+  },
+  {
+    "id": "detain",
+    "title": "Detain",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must exhuast an available skill die. If the Empire Remnant is dominant, the skill die is [drained](/docs/glossary/drained) instead.",
+    "filePath": "docs/battles/enemy-skills/detain",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must exhuast an available skill die. If the Empire Remnant is dominant, the skill die is [drained](/docs/glossary/drained) instead."
+  },
+  {
+    "id": "detection",
+    "title": "Detection",
+    "hoverText": "This [unit](/docs/glossary/unit) ignores [Stealth](/docs/battles/status-effects/stealth) status dice when targeting.",
+    "filePath": "docs/battles/enemy-skills/detection",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) ignores [Stealth](/docs/battles/status-effects/stealth) (<img src=\"/icons/stealth.svg\" alt=\"Stealth Icon\" class=\"icon-svg\" />) status dice when targeting."
+  },
+  {
+    "id": "dispel",
+    "title": "Dispel",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) in [Magic battle form](/docs/battles/battle-forms/magic) or by a Daedra unit, this unit deals [party size](/docs/glossary/party-size) [true damage](/docs/glossary/true-damage) to the engaging unit, even if [defeated](/docs/glossary/defeated).",
+    "filePath": "docs/battles/enemy-skills/dispel",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) in [<img src=\"/icons/magic.svg\" alt=\"Magic Icon\" class=\"icon-svg\" />](/docs/battles/battle-forms/magic) or by a <img src=\"/icons/daedra.svg\" alt=\"Daedra Icon\" class=\"icon-svg\" /> unit, this unit deals [<img src=\"/icons/party-size.svg\" alt=\"Party Size Icon\" class=\"icon-svg\" />](/docs/glossary/party-size) [true damage](/docs/glossary/true-damage) to the engaging unit, even if [defeated](/docs/glossary/defeated)."
+  },
+  {
+    "id": "disrupt",
+    "title": "Disrupt",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must exhaust 1 die from its [active slots](/docs/glossary/active-slot), if possible.",
+    "filePath": "docs/battles/enemy-skills/disrupt",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must exhaust 1 die from its [active slots](/docs/glossary/active-slot), if possible."
+  },
+  {
+    "id": "divert",
+    "title": "Divert",
+    "hoverText": "This [unit](/docs/glossary/unit) cannot lose its last HP unless it is already at 1 HP prior to taking damage.",
+    "filePath": "docs/battles/enemy-skills/divert",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) cannot lose its last HP unless it is already at 1 HP prior to taking damage."
+  },
+  {
+    "id": "dodge",
+    "title": "Dodge",
+    "hoverText": "When this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.",
+    "filePath": "docs/battles/enemy-skills/dodge",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, prevent damage dealt to this unit equal to the number of rolled skill dice that do not deal damage.\r\n\r\n:::tip[FAQ]\r\nDice that deal damage must deal damage to a unit in the engage in which it was rolled. Damage is prevented for each die that does not deal damage that engage. The damage does not need to be resolved against the enemy with dodge - as long as the die deals damage to any unit within that engage, it counts as dealing damage.\r\n\r\nSince Dodge looks at the results of your full dice roll, resolving this skill requires you to decide what you are doing with all of the damage-dealing dice you roll that engage.\r\n\r\nA die that deals damage after the engage (even if later that same turn), or adds a [status effect](/docs/glossary/status-effect) that deals damage, or gives [tenacity](/docs/glossary/tenacity) that is used to deal damage, is not considered to deal damage.\r\n:::"
+  },
+  {
+    "id": "elusive",
+    "title": "Elusive",
+    "hoverText": "This [unit](/docs/glossary/unit) prevents all damage (including [true damage](/docs/glossary/true-damage)) dealt by units that were not [adjacent](/docs/glossary/adjacent) to it at the start of the current [turn](/docs/glossary/turn).",
+    "filePath": "docs/battles/enemy-skills/elusive",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) prevents all damage (including [true damage](/docs/glossary/true-damage)) dealt by units that were not [adjacent](/docs/glossary/adjacent) to it at the start of the current [turn](/docs/glossary/turn)."
+  },
+  {
+    "id": "enfeeble",
+    "title": "Enfeeble #",
+    "hoverText": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target gains \\# light [fatigue](/docs/glossary/fatigue).",
+    "filePath": "docs/battles/enemy-skills/enfeeble",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target gains # light [fatigue](/docs/glossary/fatigue)."
+  },
+  {
+    "id": "ethereal",
+    "title": "Ethereal",
+    "hoverText": "When this [unit](/docs/glossary/unit) is dealt damage by an [adventurer](/docs/glossary/adventurer) not in [Magic battle form](/docs/battles/battle-forms/magic), this unit prevents [party size](/docs/glossary/party-size) damage.",
+    "filePath": "docs/battles/enemy-skills/ethereal",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) is dealt damage by an [adventurer](/docs/glossary/adventurer) not in [<img src=\"/icons/magic.svg\" alt=\"Magic Icon\" class=\"icon-svg\" />](/docs/battles/battle-forms/magic), this unit prevents [<img src=\"/icons/party-size.svg\" alt=\"Party Size Icon\" class=\"icon-svg\" />](/docs/glossary/party-size) damage."
+  },
+  {
+    "id": "freeze",
+    "title": "Freeze",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege town, the target must move all items to their pack.",
+    "filePath": "docs/battles/enemy-skills/freeze",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege [town](/docs/campaign/day/encounter-phase/town), the target must move all items to their pack."
+  },
+  {
+    "id": "fumes",
+    "title": "Fumes",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, apply a [Blind](/docs/battles/status-effects/blind) status die to the opposing unit.",
+    "filePath": "docs/battles/enemy-skills/fumes",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, apply a [Blind](/docs/battles/status-effects/blind) (<img src=\"/icons/blind.svg\" alt=\"Blind Icon\" class=\"icon-svg\" />) status die to the opposing unit."
+  },
+  {
+    "id": "incite",
+    "title": "Incite",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), all allied units [heal](/docs/glossary/healing) for HP equal to the current unrest.",
+    "filePath": "docs/battles/enemy-skills/incite",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), all allied units [heal](/docs/glossary/healing) for HP equal to the current unrest."
+  },
+  {
+    "id": "instigate",
+    "title": "Instigate",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) immediately draws a random level 1 enemy and deploys it to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to them.",
+    "filePath": "docs/battles/enemy-skills/instigate",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) immediately draws a random level 1 enemy and deploys it to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to them."
+  },
+  {
+    "id": "intimidate",
+    "title": "Intimidate",
+    "hoverText": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/adventurer-turn/engage), apply a [Fear](/docs/battles/status-effects/fear) status die to this unit's target. If the target already has a [Fear](/docs/battles/status-effects/fear) status die, remove it instead.",
+    "filePath": "docs/battles/enemy-skills/intimidate",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/adventurer-turn/engage), apply a [Fear](/docs/battles/status-effects/fear) (<img src=\"/icons/fear.svg\" alt=\"Fear Icon\" class=\"icon-svg\" />) status die to this unit's target. If the target already has a [Fear](/docs/battles/status-effects/fear) (<img src=\"/icons/fear.svg\" alt=\"Fear Icon\" class=\"icon-svg\" />) status die, remove it instead."
+  },
+  {
+    "id": "iron",
+    "title": "Iron Bark",
+    "hoverText": "When this [unit](/docs/glossary/unit) is dealt damage by non-[adjacent](/docs/glossary/adjacent) units, its defense is increased by 1 for that engage.",
+    "filePath": "docs/battles/enemy-skills/iron-bark",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) is dealt damage by non-[adjacent](/docs/glossary/adjacent) units, its defense is increased by 1 for that engage."
+  },
+  {
+    "id": "lord",
+    "title": "Lord",
+    "hoverText": "At the start of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), set aside a level 5 Daedra from the enemy bag. If no level 5 Daedra are available, this unit increases its Combat status by 2 for its [engage](/docs/battles/enemy-turn) this turn. At the end of this unit's turn, deploy the set-aside unit to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex.",
+    "filePath": "docs/battles/enemy-skills/lord",
+    "contentAfterFrontMatter": "At the start of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), set aside a level 5 <img src=\"/icons/daedra.svg\" alt=\"Daedra Icon\" class=\"icon-svg\" /> from the enemy bag. If no level 5 <img src=\"/icons/daedra.svg\" alt=\"Daedra Icon\" class=\"icon-svg\" /> are available, this unit increases its Combat status by 2 for its [engage](/docs/battles/enemy-turn) this turn. At the end of this unit's turn, deploy the set-aside unit to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex."
+  },
+  {
+    "id": "maim",
+    "title": "Maim",
+    "hoverText": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Maim](/docs/battles/status-effects/maim) status die to this unit's target.",
+    "filePath": "docs/battles/enemy-skills/maim",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Maim](/docs/battles/status-effects/maim) (<img src=\"/icons/maim.svg\" alt=\"Maim Icon\" class=\"icon-svg\" />) status die to this unit's target."
+  },
+  {
+    "id": "motivate",
+    "title": "Motivate",
+    "hoverText": "At the start of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all [adjacent](/docs/glossary/adjacent) allied units gain 1 [tenacity](/docs/glossary/tenacity) and all adjacent opposing units lose 1 tenacity.",
+    "filePath": "docs/battles/enemy-skills/motivate",
+    "contentAfterFrontMatter": "At the start of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all [adjacent](/docs/glossary/adjacent) allied units gain 1 [tenacity](/docs/glossary/tenacity) and all adjacent opposing units lose 1 tenacity."
+  },
+  {
+    "id": "necromancy",
+    "title": "Necromancy",
+    "hoverText": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), deploy the top unit of the [defeated](/docs/glossary/defeated) stack to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to this unit with [party size](/docs/glossary/party-size) HP. This new enemy does not take a turn this [round](/docs/battles/battle-round).",
+    "filePath": "docs/battles/enemy-skills/necromancy",
+    "contentAfterFrontMatter": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), deploy the top unit of the [defeated](/docs/glossary/defeated) stack to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to this unit with [<img src=\"/icons/party-size.svg\" alt=\"Party Size Icon\" class=\"icon-svg\" />](/docs/glossary/party-size) HP. This new enemy does not take a turn this [round](/docs/battles/battle-round)."
+  },
+  {
+    "id": "necrotic",
+    "title": "Necrotic",
+    "hoverText": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it deals all [adjacent](/docs/glossary/adjacent) units 1 [true damage](/docs/glossary/true-damage).",
+    "filePath": "docs/battles/enemy-skills/necrotic",
+    "contentAfterFrontMatter": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it deals all [adjacent](/docs/glossary/adjacent) units 1 [true damage](/docs/glossary/true-damage)."
+  },
+  {
+    "id": "penumbra",
+    "title": "Penumbra",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), it replaces the [weakest](/docs/glossary/weakest) allied non-[quest unit](/docs/glossary/quest-unit) and assumes that unit's HP and status dice. The replaced unit is returned to its enemy bag.",
+    "filePath": "docs/battles/enemy-skills/penumbra",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), it replaces the [weakest](/docs/glossary/weakest) allied non-[quest unit](/docs/glossary/quest-unit) and assumes that unit's HP and status dice. The replaced unit is returned to its enemy bag."
+  },
+  {
+    "id": "rally",
+    "title": "Rally",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), if it is not the last [enemy](/docs/glossary/enemy) in play; deploy an enemy of the next lowest level to the hex where this was defeated. Then, return this unit to the enemy bag.",
+    "filePath": "docs/battles/enemy-skills/rally",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), if it is not the last [enemy](/docs/glossary/enemy) in play; deploy an enemy of the next lowest level to the hex where this was defeated. Then, return this unit to the enemy bag."
+  },
+  {
+    "id": "recover",
+    "title": "Recover",
+    "hoverText": "At the start of this [unit's](/docs/glossary/unit) turn, it [heals](/docs/glossary/healing) for [party size](/docs/glossary/party-size) HP.",
+    "filePath": "docs/battles/enemy-skills/recover",
+    "contentAfterFrontMatter": "At the start of this [unit's](/docs/glossary/unit) turn, it [heals](/docs/glossary/healing) for [<img src=\"/icons/party-size.svg\" alt=\"Party Size Icon\" class=\"icon-svg\" />](/docs/glossary/party-size) HP."
+  },
+  {
+    "id": "restrain",
+    "title": "Restrain",
+    "hoverText": "After this [unit's](/docs/glossary/unit) movement, all opposing units within 3 hexes of this unit are moved 1 hex closer to it if possible.",
+    "filePath": "docs/battles/enemy-skills/restrain",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) movement, all opposing units within 3 hexes of this unit are moved 1 hex closer to it if possible."
+  },
+  {
+    "id": "retreat",
+    "title": "Retreat",
+    "hoverText": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), if no units took damage this turn, this unit gains a [Stealth](/docs/battles/status-effects/stealth) status die and [heals](/docs/glossary/healing) for 1 HP.",
+    "filePath": "docs/battles/enemy-skills/retreat",
+    "contentAfterFrontMatter": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), if no units took damage this turn, this unit gains a [Stealth](/docs/battles/status-effects/stealth) (<img src=\"/icons/stealth.svg\" alt=\"Stealth Icon\" class=\"icon-svg\" />) status die and [heals](/docs/glossary/healing) for 1 HP."
+  },
+  {
+    "id": "reward",
+    "title": "Reward",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) chooses and gains 1 of the following; 1 Legendary Item, 5 [tenacity](/docs/glossary/tenacity), Advance [Health](/docs/adventurer/stats/health) stat by 1 (if possible).",
+    "filePath": "docs/battles/enemy-skills/reward",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) chooses and gains 1 of the following:\r\n\r\n- 1 Legendary Item (<img src=\"/icons/legendary-item.svg\" alt=\"Legendary Item Icon\" class=\"icon-svg\" />)\r\n- 5 [tenacity](/docs/glossary/tenacity),\r\n- Advance [Health](/docs/adventurer/stats/health) stat by 1 (if possible)."
+  },
+  {
+    "id": "riposte",
+    "title": "Riposte #",
+    "hoverText": "Each [turn](/docs/glossary/turn), the first time this [unit](/docs/glossary/unit) is dealt damage by an [adjacent](/docs/glossary/adjacent) opposing unit, this unit will then deal \\# damage back, so long as it was not [defeated](/docs/glossary/defeated).",
+    "filePath": "docs/battles/enemy-skills/riposte",
+    "contentAfterFrontMatter": "Each [turn](/docs/glossary/turn), the first time this [unit](/docs/glossary/unit) is dealt damage by an [adjacent](/docs/glossary/adjacent) opposing unit, this unit will then deal # damage back, so long as it was not [defeated](/docs/glossary/defeated)."
+  },
+  {
+    "id": "ritual",
+    "title": "Ritual #",
+    "hoverText": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all allied units in [sight](/docs/glossary/sight) [heal](/docs/glossary/healing) for \\#.",
+    "filePath": "docs/battles/enemy-skills/ritual",
+    "contentAfterFrontMatter": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all allied units in [sight](/docs/glossary/sight) [heal](/docs/glossary/healing) for #."
+  },
+  {
+    "id": "rot",
+    "title": "Rot",
+    "hoverText": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated) by an [adventurer](/docs/glossary/adventurer), that adventurer gains 1 [overfatigue](/docs/glossary/fatigue).",
+    "filePath": "docs/battles/enemy-skills/rot",
+    "contentAfterFrontMatter": "After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated) by an [adventurer](/docs/glossary/adventurer), that adventurer gains 1 [overfatigue](/docs/glossary/fatigue)."
+  },
+  {
+    "id": "rush",
+    "title": "Rush",
+    "hoverText": "If this [unit](/docs/glossary/unit) cannot target an opposing unit after its movement, it moves a second time instead.",
+    "filePath": "docs/battles/enemy-skills/rush",
+    "contentAfterFrontMatter": "If this [unit](/docs/glossary/unit) cannot target an opposing unit after its movement, it moves a second time instead."
+  },
+  {
+    "id": "shatter",
+    "title": "Shatter",
+    "hoverText": "Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a Weapon item, that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/) after the engage.",
+    "filePath": "docs/battles/enemy-skills/shatter",
+    "contentAfterFrontMatter": "Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a [<img src=\"/icons/weapon.svg\" alt=\"Weapon Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/weapon), that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/) after the engage."
+  },
+  {
+    "id": "siphon",
+    "title": "Siphon",
+    "hoverText": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), remove 1 HP from each non-[quest unit](/docs/glossary/quest-uni) within [range](/docs/glossary/range). Place all HP removed under this unit's chip (may exceed [Health](/docs/adventurer/stats/health) stat).",
+    "filePath": "docs/battles/enemy-skills/siphon",
+    "contentAfterFrontMatter": "At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), remove 1 HP from each non-[quest unit](/docs/glossary/quest-uni) within [range](/docs/glossary/range). Place all HP removed under this unit's chip (may exceed [Health](/docs/adventurer/stats/health) stat)."
+  },
+  {
+    "id": "smite",
+    "title": "Smite",
+    "hoverText": "If this [unit](/docs/glossary/unit) is not targeting all [party members](/docs/glossary/party) on its [turn](/docs/glossary/turn), its Combat stat is doubled.",
+    "filePath": "docs/battles/enemy-skills/smite",
+    "contentAfterFrontMatter": "If this [unit](/docs/glossary/unit) is not targeting all [party members](/docs/glossary/party) on its [turn](/docs/glossary/turn), its Combat stat is doubled."
+  },
+  {
+    "id": "stalwart",
+    "title": "Stalwart",
+    "hoverText": "This [unit](/docs/glossary/unit) cannot lose more than 1 HP in a single [turn](/docs/glossary/turn).",
+    "filePath": "docs/battles/enemy-skills/stalwart",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) cannot lose more than 1 HP in a single [turn](/docs/glossary/turn)."
+  },
+  {
+    "id": "steal",
+    "title": "Steal",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-Consumable [item](/docs/adventurer/items/) from a ready slot.",
+    "filePath": "docs/battles/enemy-skills/steal",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-[<img src=\"/icons/consumable.svg\" alt=\"Consumable Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/consumable) [item](/docs/adventurer/items/) from a ready slot."
+  },
+  {
+    "id": "storm",
+    "title": "Storm Seer",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as determined by the current weather. Sunny = 1, Rainy = 2, Flooding = 3.",
+    "filePath": "docs/battles/enemy-skills/storm-seer",
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as determined by the current weather.\r\n\r\n- Sunny = 1\r\n- Rainy = 2\r\n- Flooding = 3."
+  },
+  {
+    "id": "subdue",
+    "title": "Subdue",
+    "hoverText": "Before this [unit](/docs/glossary/unit) deals damage, its target loses [tenacity](/docs/glossary/tenacity) equal to the amount of damage dealt.",
+    "filePath": "docs/battles/enemy-skills/subdue",
+    "contentAfterFrontMatter": "Before this [unit](/docs/glossary/unit) deals damage, its target loses [tenacity](/docs/glossary/tenacity) equal to the amount of damage dealt."
+  },
+  {
+    "id": "swap",
+    "title": "Swap",
+    "hoverText": "This [unit](/docs/glossary/unit) treats [occupied](/docs/glossary/occupied) hexes as unoccupied. When it moves into an occupied hex, its occupant is [placed](/docs/glossary/move-or-place) in the hex this unit moved out of.",
+    "filePath": "docs/battles/enemy-skills/swap",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) treats [occupied](/docs/glossary/occupied) hexes as unoccupied. When it moves into an occupied hex, its occupant is [placed](/docs/glossary/move-or-place) in the hex this unit moved out of."
+  },
+  {
+    "id": "swift",
+    "title": "Swift",
+    "hoverText": "This [unit's](/docs/glossary/unit) movement is equal to the current [round](/docs/battles/battle-round) (Fatigue = 6).",
+    "filePath": "docs/battles/enemy-skills/swift",
+    "contentAfterFrontMatter": "This [unit's](/docs/glossary/unit) movement is equal to the current [round](/docs/battles/battle-round) (Fatigue = 6)."
+  },
+  {
+    "id": "true",
+    "title": "True Strike",
+    "hoverText": "If all of this [unit's](/docs/glossary/unit) rolled enemy Combat dice result in a 1, this unit deals [true damage](/docs/glossary/true-damage).",
+    "filePath": "docs/battles/enemy-skills/true-strike",
+    "contentAfterFrontMatter": "If all of this [unit's](/docs/glossary/unit) rolled enemy Combat dice result in a 1, this unit deals [true damage](/docs/glossary/true-damage)."
+  },
+  {
+    "id": "unbridled",
+    "title": "Unbridled",
+    "hoverText": "Before this [unit](/docs/glossary/unit) deals damage, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is a 3-6, the damage it rolled will be dealt as [true damage](/docs/glossary/true-damage), and this unit deals 1 additional true damage to each [adventurer](/docs/glossary/adventurer). If this battle takes place in [High Rock](/docs/campaign/provinces/high-rock), also increase unrest by 1 on a result of 3-6.",
+    "filePath": "docs/battles/enemy-skills/unbridled",
+    "contentAfterFrontMatter": "Before this [unit](/docs/glossary/unit) deals damage, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is a 3-6, the damage it rolled will be dealt as [true damage](/docs/glossary/true-damage), and this unit deals 1 additional true damage to each [adventurer](/docs/glossary/adventurer). If this battle takes place in [High Rock](/docs/campaign/provinces/high-rock), also increase unrest by 1 on a result of 3-6."
+  },
+  {
+    "id": "vindictive",
+    "title": "Vindictive",
+    "hoverText": "This [unit](/docs/glossary/unit) increases its Combat stat by the number of opposing [adventurers](/docs/glossary/adventurer).",
+    "filePath": "docs/battles/enemy-skills/vindictive",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) increases its Combat stat by the number of opposing [adventurers](/docs/glossary/adventurer)."
+  },
+  {
+    "id": "vinesnare",
+    "title": "Vinesnare",
+    "hoverText": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target must [drain](/docs/glossary/drained) 1 available [Combat](/docs/adventurer/skill-lines/combat) skill die.",
+    "filePath": "docs/battles/enemy-skills/vinesnare",
+    "contentAfterFrontMatter": "After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target must [drain](/docs/glossary/drained) 1 available [Combat](/docs/adventurer/skill-lines/combat) skill die."
+  },
+  {
+    "id": "vision",
+    "title": "Vision",
+    "hoverText": "This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight) restrictions.",
+    "filePath": "docs/battles/enemy-skills/vision",
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight) restrictions."
+  }
+]

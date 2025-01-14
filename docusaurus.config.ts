@@ -52,14 +52,6 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
-    announcementBar: {
-      id: "announcement",
-      content:
-        'All content on this website is currently WIP and may be incomplete or incorrect. If you notice any errors, please <a href="mailto:dmairs@proton.me">report them</a>.',
-      backgroundColor: "#fafbfc",
-      textColor: "#091E42",
-      isCloseable: true,
-    },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "BOTSE Helper",
@@ -67,6 +59,25 @@ const config: Config = {
         alt: "Logo for BOTSE Helper",
         src: "img/logo.svg",
       },
+      items: [
+        {
+          type: "doc",
+          position: "left",
+          docId: "overview",
+          label: "Docs",
+        },
+        {
+          type: "dropdown",
+          label: "Tools",
+          position: "left",
+          items: [
+            {
+              to: "enemy-skills-tracker",
+              label: "Enemy Skills Tracker",
+            },
+          ],
+        },
+      ],
     },
     sidebar: {
       hideable: true,
@@ -76,7 +87,7 @@ const config: Config = {
       style: "light",
       links: [
         {
-          label: "Feedback / Bugs / Suggestions",
+          label: "Feedback / Suggestions",
           to: "mailto:dmairs@proton.me",
         },
         {
