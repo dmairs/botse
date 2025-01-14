@@ -27,11 +27,17 @@ const enemySkills = files.map((file) => {
     id: idMatch ? idMatch[1] : "",
     title: titleMatch ? titleMatch[1].replace(/"/g, "") : "",
     hoverText: hoverTextMatch ? hoverTextMatch[1] : "",
-    filePath: path.relative(botseDir, filePath).replace(/\\/g, "/"),
+    filePath: path
+      .relative(
+        botseDir,
+        path.join(path.dirname(filePath), path.parse(filePath).name)
+      )
+      .replace(/\\/g, "/"),
     contentAfterFrontMatter: contentAfterFrontMatter,
   };
 });
 
+// Generate markdown content
 let markdownContent = `---\nid: enemy-skills\ntitle: Enemy Skills\n---\n\n`;
 markdownContent += `| Skill | Ability |\n|-------|------------|\n`;
 
@@ -40,3 +46,7 @@ enemySkills.forEach((skill) => {
 });
 
 fs.writeFileSync(path.join(__dirname, "index.md"), markdownContent);
+
+// Generate JSON content
+const jsonContent = JSON.stringify(enemySkills, null, 2);
+fs.writeFileSync(path.join(__dirname, "enemySkills.json"), jsonContent);
