@@ -55,3 +55,13 @@ title: Daedric Summoning
 | Icon                                                                                   | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/daedric-summoning/tempered-soul.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Select any level 1/5 [enemy](/docs/glossary/enemy) from the [defeated](/docs/glossary/defeated) stack. Deploy it with full HP to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. This unit is now a [companion](/docs/glossary/companion) controlled by you. This companion is removed at the end of battle. |
+
+---
+
+:::tip[FAQ]
+**Bound Armaments - Can you change battle forms?**
+
+For the additional engage granted, the adventurer taking the engage cannot switch battle forms. They are meant to take the engage in the same battle form they were in when they were granted the engage.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291971" target="_blank">Source</a>
+:::
