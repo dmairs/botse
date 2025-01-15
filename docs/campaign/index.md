@@ -10,7 +10,7 @@ The Elder Scrolls: Betrayal of the Second Era is best played as a campaign takin
 
 As the [party](/docs/glossary/party) proceeds through the campaign, it uses its campaign journal to write down information that cannot be tracked on the adventurers' mats. The journal records each session's events on a single sheet for reference later, especially at the start of future sessions.
 
-Journal sheets are provided on the included pad or can be printed from the [Chip Theory Games website](www.chiptheorygames.com/support/).
+Journal sheets are provided on the included pad or can be printed from the <a href="https://www.chiptheorygames.com/support/" target="_blank">Chip Theory Games website</a>.
 
 ## Successfully completing a Session
 
