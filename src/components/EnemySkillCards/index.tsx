@@ -30,15 +30,16 @@ const EnemySkillCards: React.FC<EnemySkillCardsProps> = ({
       <CardContent
         sx={{
           "&:last-child": {
-            paddingBottom: 16 + "px",
+            paddingBottom: 13 + "px",
           },
+          padding: 13 + "px",
         }}
       >
-        <h3>
+        <h4 style={{ marginBottom: 5 + "px" }}>
           <a href={link} target="_blank" rel="noopener noreferrer">
             {title}
           </a>
-        </h3>
+        </h4>
         <span
           dangerouslySetInnerHTML={{ __html: markdownToHtml(ability) }}
         ></span>

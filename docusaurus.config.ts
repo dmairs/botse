@@ -95,7 +95,7 @@ const config: Config = {
           to: "https://github.com/dmairs/botse",
         },
       ],
-      copyright: `This site is a free community project not associated with Chip Theory Games in any way.`,
+      copyright: `This site is a community project not associated with Chip Theory Games.`,
     },
     tableOfContents: {
       minHeadingLevel: 2,

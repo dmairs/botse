@@ -39,7 +39,7 @@ const SkillSelector: React.FC = () => {
           <Typography>Add Additional Enemy Skills</Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Grid container spacing={2}>
+          <Grid container spacing={1}>
             {enemySkills.map((skill, index) => (
               <Grid size={{ xs: 6, sm: 3, md: 2, xl: 1 }} key={index}>
                 <FormGroup>
@@ -65,7 +65,7 @@ const SkillSelector: React.FC = () => {
           </Grid>
         </AccordionDetails>
       </Accordion>
-      <Grid container spacing={2} style={{ marginTop: "20px" }}>
+      <Grid container spacing={1} style={{ marginTop: "20px" }}>
         {enemySkills.map(
           (skill, index) =>
             toggled[index] && (
@@ -76,8 +76,8 @@ const SkillSelector: React.FC = () => {
                     onClick={() => handleToggle(index)}
                     style={{
                       position: "absolute",
-                      right: 8,
-                      top: 8,
+                      right: 5,
+                      top: 5,
                       zIndex: 1,
                     }}
                   >
