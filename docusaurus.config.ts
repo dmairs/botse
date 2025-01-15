@@ -44,7 +44,7 @@ const config: Config = {
         glossaryFilepath: ".glossary.md",
       },
     ],
-    require.resolve("docusaurus-lunr-search"),
+    require.resolve("@easyops-cn/docusaurus-search-local"),
   ],
   themeConfig: {
     colorMode: {
