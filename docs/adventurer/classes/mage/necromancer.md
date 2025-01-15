@@ -27,3 +27,15 @@ hoverText: ""
 | 1             | Bone Armor         | Remove 2 chips from your Necrosis Stack and place them under a party member's chip (may exceed [Health](/docs/adventurer/stats/health) stat).                                                                                                                                                                                                                                                                                                                                                              | Tenacity cost (2 → 1), allows affecting any party member             |
 | 3             | Blastbones         | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic): Remove 6 chips from your Necrosis Stack. Then, draw 3 random level 1 enemies from the enemy bag, deploying them to [unoccupied](/docs/glossary/occupied) hexes in [range](/docs/glossary/range). They act as companions controlled by you. After it takes its turn, each of these companions deals 2 damage to each [adjacent](/docs/glossary/adjacent) [unit](/docs/glossary/unit) and is defeated. | Companions deal 2 damage to each adjacent unit before being defeated |
 | 5             | Spiritual Guardian | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic): Remove any number of chips from your Necrosis Stack and place them under any level 1/5 enemy from the defeated stack. Then, deploy that enemy to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex as a companion controlled by you. It maintains its current HP between battles. You may only have 1 Spiritual Guardian companion at a time.                         | May be applied to a level 5 enemy                                    |
+
+---
+
+:::tip[FAQ]
+**Can the Spirit Guardian companion maintain HP above its stat between battles?**
+
+#### In Combat
+
+Yes. On the master side, you can use the Bone Armor class ability to add HP above a party member's Health stat (and there are other ways for units to gain HP above their Health stat as well). The companion summoned by Spirit Guardian maintains its HP between battles (per the ability's text), and that includes if its HP is above its Health stat.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Source</a>
+:::

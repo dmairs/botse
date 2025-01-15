@@ -26,6 +26,14 @@ Quest keywords do not have inherent rules but can affect the choices available i
 
 The party fails its quest step if it fails that step's quest encounter unless that quest step says otherwise, regardless of if it is a peaceful or battle encounter. The quest step describes if a peaceful quest encounter can be failed, or if a battle encounter can be failed without that quest also failing. If the party fails its quest step, its session and [campaign end](/docs/campaign/). While a guild quest remains active, leave the gazetteer open to the current step or bookmark it so that it is ready to reference.
 
+:::tip[FAQ]
+**What happens if you lose a quest step encounter?**
+
+If you lose a quest step encounter, unless otherwise stated, you lose the game and cannot continue.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292504" target="_blank">Source</a>
+:::
+
 ### Linked Steps
 
 Some quest steps are directly linked to the previous step and must be completed during the same day. If a step is linked in this way, its instructions will indicate that its encounter must be triggered immediately after completing the current step and explain how this affects the current day's phases (such as delaying the [Reward Phase](/docs/campaign/day/reward-phase)).
