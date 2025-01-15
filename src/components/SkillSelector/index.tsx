@@ -12,6 +12,10 @@ import {
   Switch,
   Typography,
 } from "@mui/material";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import CloseIcon from "@mui/icons-material/Close";
+
+import { IconButton } from "@mui/material";
 
 const SkillSelector: React.FC = () => {
   const [toggled, setToggled] = useState<boolean[]>(
@@ -27,7 +31,11 @@ const SkillSelector: React.FC = () => {
   return (
     <div>
       <Accordion defaultExpanded>
-        <AccordionSummary aria-controls="panel1a-content" id="panel1a-header">
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel1a-content"
+          id="panel1a-header"
+        >
           <Typography>Add Additional Enemy Skills</Typography>
         </AccordionSummary>
         <AccordionDetails>
@@ -62,11 +70,25 @@ const SkillSelector: React.FC = () => {
           (skill, index) =>
             toggled[index] && (
               <Grid size={{ xs: 12 }} key={index}>
-                <EnemySkillCards
-                  title={skill.title}
-                  ability={skill.hoverText}
-                  link={skill.filePath}
-                />
+                <div style={{ position: "relative" }}>
+                  <IconButton
+                    size="small"
+                    onClick={() => handleToggle(index)}
+                    style={{
+                      position: "absolute",
+                      right: 8,
+                      top: 8,
+                      zIndex: 1,
+                    }}
+                  >
+                    <CloseIcon />
+                  </IconButton>
+                  <EnemySkillCards
+                    title={skill.title}
+                    ability={skill.hoverText}
+                    link={skill.filePath}
+                  />
+                </div>
               </Grid>
             )
         )}
