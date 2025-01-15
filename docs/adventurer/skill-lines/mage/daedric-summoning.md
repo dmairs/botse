@@ -21,6 +21,14 @@ title: Daedric Summoning
 | <img src="/icons/skills/daedric-summoning/bound-armaments-1.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the end of any unit's turn, you may choose an [adventurer](/docs/glossary/adventurer) in [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon), or [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) to perform an [engage](/docs/battles/adventurer-turn/engage), rolling 3 enemy Combat dice. This engage ignores enemy skill: [Ethereal](/docs/battles/enemy-skills/ethereal). Then, exhaust this die. |
 | <img src="/icons/skills/daedric-summoning/bound-armaments-1.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the end of any unit's turn, you may choose an [adventurer](/docs/glossary/adventurer) in [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon), or [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) to perform an [engage](/docs/battles/adventurer-turn/engage), rolling 2 of their available skill dice. If those dice would be exhausted, they are recovered instead. Then, exhaust this die.         |
 
+:::tip[FAQ]
+**Bound Armaments - Can you change battle forms?**
+
+For the additional engage granted, the adventurer taking the engage cannot switch battle forms. They are meant to take the engage in the same battle form they were in when they were granted the engage.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291971" target="_blank">Source</a>
+:::
+
 ## Level 2
 
 ### Power Stone
@@ -55,13 +63,3 @@ title: Daedric Summoning
 | Icon                                                                                   | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/daedric-summoning/tempered-soul.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Select any level 1/5 [enemy](/docs/glossary/enemy) from the [defeated](/docs/glossary/defeated) stack. Deploy it with full HP to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. This unit is now a [companion](/docs/glossary/companion) controlled by you. This companion is removed at the end of battle. |
-
----
-
-:::tip[FAQ]
-**Bound Armaments - Can you change battle forms?**
-
-For the additional engage granted, the adventurer taking the engage cannot switch battle forms. They are meant to take the engage in the same battle form they were in when they were granted the engage.
-
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291971" target="_blank">Source</a>
-:::

@@ -58,3 +58,13 @@ title: Restoring Light
 | Icon                                                                                    | Ability                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/restoring-light/master-ritualist.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After an [adventurer](/docs/glossary/adventurer) is [defeated](/docs/glossary/defeated), including yourself, you may immediately [drain](/docs/glossary/drain) this die and set that adventurer's HP to 5 (may exceed [Health](/docs/adventurer/stats/health) stat). |
+
+:::tip[FAQ]
+**Master Ritualist - Where do you resurrect?**
+
+When a defeated adventurer regains HP so that it is not defeated, it is deployed to the same hex it occupied previously.
+
+Note, in some very rare cases, adventurers may be defeated by a game effect that defeats units on specific hexes so that other units can go there. A unit cannot be deployed to an occupied hex, so a unit defeated in this way cannot be resurrected with Master Ritualist, since it cannot be deployed to the hex it needs to be deployed to.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291977" target="_blank">Source</a>
+:::
