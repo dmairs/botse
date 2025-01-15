@@ -47,6 +47,21 @@ Some skill die abilities allow skill dice to be rolled during non-battle encount
 - Ignore the Gain Fatigue, Declare Target and Choose Battle Form steps unless otherwise specified.
 - Resolve any effects that occur in response to your roll during the Units React step.
 
+---
+
 :::tip[FAQ]
+**Do enemy skills trigger after engage if they are defeated?**
+
 If an enemy has a skill that triggers **after** it is engaged, that skill does not trigger if the enemy is defeated during that engage.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Source</a>
+
+---
+
+**Which units are considered to be "engaged"?**
+
+Only a unit's target is considered to be engaged. If a unit deals damage to a non-target (for example, the Bow line has Volley which deals damage to an adjacent unit, and the enemy skill Necrotic deals 1 true damage to all adjacent units), the enemy taking the damage is not considered to be engaged. Other skills that trigger based off of being engaged, such as the enemy skill Shatter, would not be triggered if damage is dealt by a non-targeting skill such as Volley.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292499" target="_blank">Source</a>
+
 :::

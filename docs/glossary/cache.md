@@ -11,3 +11,13 @@ During their [turn](/docs/glossary/turn), when an [adventurer](/docs/glossary/ad
 - If the check is successful, the cache is unlocked and the chip is [discarded](/docs/glossary/discard). The [adventurer](/docs/glossary/adventurer) draws that card faceup and may add it to their [inventory's](/docs/adventurer/items/inventory) ready slots or pack. If the adventurer chooses not to take the unlocked card, they discard both that card and its cache chip.
 - If the check fails, the cache chip is [discarded](/docs/glossary/discard) and the top card of the relevant item deck must be cycled by placing it on the bottom of its deck.
 - Some encounters use a cache's lockpick check to determine if another effect is triggered. In this case, do not gain the item. Instead, cycle the item card used, whether the adventurer succeeds or fails at that check. After the lockpick check, the cache chip is [discarded](/docs/glossary/discard) unless specified otherwise.
+
+---
+
+:::tip[FAQ]
+**Are cache hexes considered occupied?**
+
+A cache hex is considered to be [unoccupied](/docs/glossary/occupied). They do not block movement or deployment. Some [delve](/docs/battles/types/delve/) hexes have both a cache icon (<img src="/icons/common-item.svg" alt="Cache Icon" class="icon-svg" />) and an enemy icon (<img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" class="icon-svg"/>) - those hexes can get a cache placed on them, and an enemy can still deploy there afterwards.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292501" target="_blank">Source</a>
+:::
