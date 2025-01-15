@@ -25,10 +25,7 @@ const SkillSelector: React.FC = () => {
   };
 
   return (
-    <div style={{ padding: 20 + "px" }}>
-      <header>
-        <h1>Enemy Skills Tracker</h1>
-      </header>
+    <div>
       <Accordion defaultExpanded>
         <AccordionSummary aria-controls="panel1a-content" id="panel1a-header">
           <Typography>Add Additional Enemy Skills</Typography>

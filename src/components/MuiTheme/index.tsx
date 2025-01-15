@@ -23,7 +23,7 @@ const extTheme: Theme = extendTheme({
       },
     },
   },
-  colorSchemeSelector: "class", // use class for toggling color mode
+  colorSchemeSelector: "data",
 });
 
 export default extTheme;
