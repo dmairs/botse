@@ -25,18 +25,12 @@ const SkillSelector: React.FC = () => {
   };
 
   return (
-    <div className="theme-doc-markdown markdown" style={{ padding: 20 + "px" }}>
+    <div style={{ padding: 20 + "px" }}>
       <header>
         <h1>Enemy Skills Tracker</h1>
       </header>
       <Accordion defaultExpanded>
-        <AccordionSummary
-          aria-controls="panel1a-content"
-          id="panel1a-header"
-          sx={{
-            backgroundColor: "#f5f5f5",
-          }}
-        >
+        <AccordionSummary aria-controls="panel1a-content" id="panel1a-header">
           <Typography>Add Additional Enemy Skills</Typography>
         </AccordionSummary>
         <AccordionDetails>
