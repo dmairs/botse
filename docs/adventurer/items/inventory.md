@@ -19,7 +19,9 @@ In total, you can hold up to 8 items. At most, 4 of those items can be in your r
 
 For example, if you see that a combat is going to have a lot of enemies that will affect your ready items, you may choose to put some of your more valued items in your pack, and go into a battle with 2 readied and 6 in your pack. Or even, all 8 of your items in your pack.
 
-## <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292502" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292502" target="_blank">Source</a>
+
+---
 
 **What if a game effect forces a pet back into your pack?**
 

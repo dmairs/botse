@@ -10,6 +10,10 @@ hoverText: ""
 
 **Innate Ability**: Once per turn, you may drain 1 available level 1 skill die to trigger the effect of any of its <img src="/icons/instant.svg" alt="Instant Icon" class="icon-svg" /> sides as if you are performing an engage.
 
+:::info
+This engage is treated as a [free](/docs/glossary/free) [engage](/docs/battles/adventurer-turn/engage). You don't gain [fatigue](/docs/glossary/fatigue) for performing it. You may change [battle forms](/docs/battles/battle-forms/).
+:::
+
 | Tenacity Cost | Name                   | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | X             | Hero's Vigor           | Recover 1 [drained](/docs/glossary/drained) skill die. The [tenacity](/docs/glossary/tenacity) cost of this skill is equal to the level of the recovered die.                                                                                                                                                                                                                                                                                                                                                                     |
