@@ -19,11 +19,15 @@ After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion
 
 ## Enemy Movement
 
-If an enemy must move, it first determines a destination hex to move toward. The destination must be the [closest](/docs/glossary/closest) hex where at least 1 [targetable](/docs/glossary/targetable) [unit](/docs/glossary/unit) would be within that enemy's [range](/docs/glossary/range) and in [sight](/docs/glossary/sight). To be an eligible destination hex, each hex between the enemy and its destination must be [unoccupied](/docs/glossary/occupied). After the enemy determines its destination hex, it moves along those hexes. It moves even if it cannot reach the destination hex with its movement this turn.
+Enemies only move if they do not already have a [targetable](/docs/glossary/targetable) [unit](/docs/glossary/unit) within their [range](/docs/glossary/range). If they do have a targetable unit within range, they skip movement.
+
+If an enemy must move, it first determines a destination hex to move toward. The destination must be the **[closest](/docs/glossary/closest)** [unoccupied](/docs/glossary/occupied) hex where at least 1 **targetable unit** would be within that enemy's range and in sight. To be an eligible destination hex, each hex between the enemy and its destination must be unoccupied. After the enemy determines its destination hex, it moves along those hexes. It moves even if it cannot reach the destination hex with its movement this turn.
 
 When the enemy moves, it ends its movement immediately after it moves into its destination hex—even if it could move additional hexes to put more units in range.
 
-If there are multiple destination hexes possible (or if there is no valid destination hex available), the enemy instead moves toward the closest opposing unit, even if it is untargetable. If there are multiple closest units, the enemy moves toward its priority unit. If there is a tie between priority units, the party decides.
+If there are multiple destination hexes possible, the enemy uses its priority icon to determine whether to prioritize the strongest or weakest targetable unit and selects its destination hex accordingly. If there are still multiple destination hexes possible, the party decides which it moves to. Note that the enemy does not consider its number of possible targets when determining its movement.
+
+If there are no valid destination hexes available, the enemy instead finds the closest opposing unit, even if it is untargetable. The enemy moves to the closest hex it can get to that is as few hexes from that opposing unit as possible.
 
 ## Enemy Skills
 
