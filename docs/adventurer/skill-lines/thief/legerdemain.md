@@ -23,13 +23,13 @@ You may roll this die when making a lockpick attempt.
 
 You may roll this die when making a lockpick attempt.
 
-| Icon                                                                                 | Ability                                                   |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| <img src="/icons/skills/legerdemain/finders-keepers-1.png" className="skill-icon" /> | Flip 1 rolled die to its opposite side.                   |
-| <img src="/icons/skills/legerdemain/finders-keepers-2.png" className="skill-icon" /> | Modify any rolled die by up to 2.                         |
-| <img src="/icons/skills/legerdemain/finders-keepers-3.png" className="skill-icon" /> | Gain 1 additional attempt for the current lockpick check. |
-| <img src="/icons/skills/legerdemain/finders-keepers-4.png" className="skill-icon" /> | Set all rolled dice to the sides of your choice.          |
-| <img src="/icons/skills/legerdemain/finders-keepers-5.png" className="skill-icon" /> |                                                           |
+| Icon                                                                                 | Ability                                                                                            |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| <img src="/icons/skills/legerdemain/finders-keepers-1.png" className="skill-icon" /> | Flip 1 rolled die to its opposite side.                                                            |
+| <img src="/icons/skills/legerdemain/finders-keepers-2.png" className="skill-icon" /> | Modify any rolled die by up to 2.                                                                  |
+| <img src="/icons/skills/legerdemain/finders-keepers-3.png" className="skill-icon" /> | Gain 1 additional attempt for the current lockpick check.                                          |
+| <img src="/icons/skills/legerdemain/finders-keepers-4.png" className="skill-icon" /> | Set all rolled dice to the sides of your choice.                                                   |
+| <img src="/icons/skills/legerdemain/finders-keepers-5.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue). |
 
 ## Level 3
 
