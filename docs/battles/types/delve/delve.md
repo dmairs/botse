@@ -22,3 +22,13 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
 5. **Deploy Companions:** If adventurers have [companion](/docs/glossary/companion) units that are deployed during battle setup, deploy those companions to the entrance tile, if able. If multiple players have companions to deploy, deploy those companions in player turn order.
    - If there are no [unoccupied](/docs/glossary/occupied) hexes remaining on the entrance tile, set undeployed companions next to the entrance tile. They can enter the battle map during later [rounds](/docs/battles/battle-round).
 6. **Set Round Counter:** Set the party's Round Counter die to 1 and place it in the square slot on the dial chip holder. Then, begin battle rounds. Trigger skills and other abilities with "start of battle" timing now.
+
+---
+
+:::tip[FAQ]
+**Do you always get XP for skyshards?**
+
+The only battle objective which gives you XP for the number of skyshards collected is the [Uncover](/docs/battles/objectives/uncover) objective. Delves with the [Survey](/docs/battles/objectives/survey), [Eliminate](/docs/battles/objectives/eliminate), or any other objective, only give the XP as stated in the encounter.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292564" target="_blank">Source</a>
+:::
