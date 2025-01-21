@@ -44,9 +44,9 @@
   {
     "id": "burn",
     "title": "Burn",
-    "hoverText": "After this unit determines its target, the target must choose to lose 1 [tenacity](/docs/glossary/tenacity), discard 1 [item](/docs/adventurer/items), or deal itself 1 [true damage](/docs/glossary/true-damage).",
+    "hoverText": "After this unit determines its target, the target must choose to lose 1 [tenacity](/docs/glossary/tenacity), discard 1 [item](/docs/adventurer/items/index), or deal itself 1 [true damage](/docs/glossary/true-damage).",
     "filePath": "/docs/battles/enemy-skills/burn",
-    "contentAfterFrontMatter": "After this unit determines its target, the target must choose to either:\r\n\r\n- lose 1 [tenacity](/docs/glossary/tenacity)\r\n- discard 1 [item](/docs/adventurer/items)\r\n- deal itself 1 [true damage](/docs/glossary/true-damage)."
+    "contentAfterFrontMatter": "After this unit determines its target, the target must choose to either:\r\n\r\n- lose 1 [tenacity](/docs/glossary/tenacity)\r\n- discard 1 [item](/docs/adventurer/items/index)\r\n- deal itself 1 [true damage](/docs/glossary/true-damage)."
   },
   {
     "id": "chilblain",
@@ -149,9 +149,9 @@
   {
     "id": "freeze",
     "title": "Freeze",
-    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege town, the target must move all items to their pack.",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/index) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege town, the target must move all items to their pack.",
     "filePath": "/docs/battles/enemy-skills/freeze",
-    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege [town](/docs/campaign/day/encounter-phase/town), the target must move all items to their pack."
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/index) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege [town](/docs/campaign/day/encounter-phase/town), the target must move all items to their pack."
   },
   {
     "id": "fumes",
@@ -296,9 +296,9 @@
   {
     "id": "shatter",
     "title": "Shatter",
-    "hoverText": "Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a Weapon item, that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/) after the engage.",
+    "hoverText": "Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a Weapon item, that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/index) after the engage.",
     "filePath": "/docs/battles/enemy-skills/shatter",
-    "contentAfterFrontMatter": "Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a [<img src=\"/icons/weapon.svg\" alt=\"Weapon Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/weapon), that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/) after the engage."
+    "contentAfterFrontMatter": "Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a [<img src=\"/icons/weapon.svg\" alt=\"Weapon Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/weapon), that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/index) after the engage."
   },
   {
     "id": "siphon",
@@ -324,9 +324,9 @@
   {
     "id": "steal",
     "title": "Steal",
-    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-Consumable [item](/docs/adventurer/items/) from a ready slot.",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-Consumable [item](/docs/adventurer/items/index) from a ready slot.",
     "filePath": "/docs/battles/enemy-skills/steal",
-    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-[<img src=\"/icons/consumable.svg\" alt=\"Consumable Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/consumable) [item](/docs/adventurer/items/) from a ready slot.\r\n\r\n---\r\n\r\n:::tip[FAQ]\r\n**How does Daze and Steal interact?**\r\n\r\nThe [Daze](/docs/battles/status-effects/daze) status effect says that if an enemy moves on its turn, it can't roll dice that turn. Using Steal requires a die to be rolled, so a Dazed enemy that moves cannot use its Steal skill.\r\n\r\n<a href=\"https://support.chiptheorygames.com/support/solutions/articles/33000292494\" target=\"_blank\">Source</a>\r\n:::"
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-[<img src=\"/icons/consumable.svg\" alt=\"Consumable Icon\" class=\"icon-svg\" />](/docs/adventurer/items/types/consumable) [item](/docs/adventurer/items/index) from a ready slot.\r\n\r\n---\r\n\r\n:::tip[FAQ]\r\n**How does Daze and Steal interact?**\r\n\r\nThe [Daze](/docs/battles/status-effects/daze) status effect says that if an enemy moves on its turn, it can't roll dice that turn. Using Steal requires a die to be rolled, so a Dazed enemy that moves cannot use its Steal skill.\r\n\r\n<a href=\"https://support.chiptheorygames.com/support/solutions/articles/33000292494\" target=\"_blank\">Source</a>\r\n:::"
   },
   {
     "id": "storm",

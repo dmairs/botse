@@ -13,4 +13,4 @@ title: Difficulty Levels
 
 ### Expert (Difficult)
 
-[Adventurers](/docs/glossary/adventurer) gain 2 [fatigue](/docs/glossary/fatigue) for each additional [engage](/docs/battles/adventurer-turn/engage) action taken in battle. To resolve their individual [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, an adventurer must [discard](/docs/glossary/discard) an [item](/docs/adventurer/items/). Adventurers remove 1 die from their cooldown track and [heal](/docs/glossary/healing) for 1 HP during the Adventurers Rest step at the end of each day.
+[Adventurers](/docs/glossary/adventurer) gain 2 [fatigue](/docs/glossary/fatigue) for each additional [engage](/docs/battles/adventurer-turn/engage) action taken in battle. To resolve their individual [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, an adventurer must [discard](/docs/glossary/discard) an [item](/docs/adventurer/items/index). Adventurers remove 1 die from their cooldown track and [heal](/docs/glossary/healing) for 1 HP during the Adventurers Rest step at the end of each day.
