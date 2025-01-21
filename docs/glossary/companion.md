@@ -36,4 +36,4 @@ The player controlling a companion makes the decisions for that unit during each
 
 ### Companion Skills
 
-Most companions have 1 or more skills from the [Enemy Skills](/docs/battles/enemy-skills/) Reference. Unlike moving and engaging, resolving a companion's skills is not optional; each skill must be resolved at its specified timing (if able). If a companion engages multiple targets, each target is affected by each of the companion's relevant skills.
+Most companions have 1 or more skills from the [Enemy Skills](/docs/battles/enemy-skills/index) Reference. Unlike moving and engaging, resolving a companion's skills is not optional; each skill must be resolved at its specified timing (if able). If a companion engages multiple targets, each target is affected by each of the companion's relevant skills.

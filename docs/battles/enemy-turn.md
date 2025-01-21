@@ -33,4 +33,4 @@ If there are no valid destination hexes available, the enemy instead finds the c
 
 Most enemies have 1 or more skills, which are abilities that trigger as described in the Enemy Skills Reference. It is recommended that players review an enemy's skills as the chip is deployed to the map. If an enemy engages multiple targets, each target is affected by each of the enemy's relevant skills.
 
-[See here](/docs/battles/enemy-skills) for a list of all enemy skills.
+[See here](/docs/battles/enemy-skills/index) for a list of all enemy skills.
