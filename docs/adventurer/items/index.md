@@ -1,8 +1,9 @@
 ---
-id: items
+id: index
 title: Items
 hoverText: >
   [Adventurers](/docs/glossary/adventurer) can gain useful items along their way. Each item card takes up 1 space in an [adventurer's](/docs/glossary/adventurer) [inventory](/docs/adventurer/items/inventory), whether it is in a ready slot or the pack area. There are 2 types of item cards, common and legendary.
+slug: /adventurer/items/index
 ---
 
 [Adventurers](/docs/glossary/adventurer) can gain useful items along their way. Each item card takes up 1 space in an [adventurer's](/docs/glossary/adventurer) [inventory](/docs/adventurer/items/inventory), whether it is in a ready slot or the pack area. There are 2 types of item cards: common (<img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />) and legendary (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" />).

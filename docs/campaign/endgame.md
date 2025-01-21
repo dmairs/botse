@@ -1,12 +1,12 @@
 ---
 id: endgame
 title: Endgame
-hoverText: Each [province](/docs/campaign/provinces/) has its own endgame rules, which are described in its gazetteer.
+hoverText: Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer.
 ---
 
 The crisis currently affecting Tamriel is far more vast than a single session can uncover. Your party can move on to the endgame of the campaign only after completing 2 game sessions, after which it will have earned enough success and experience to (hopefully) thwart a major threat to Tamriel.
 
-Each [province](/docs/campaign/provinces/) has its own endgame rules, which are described in its gazetteer. Endgame quests are different in several important ways. Each has a shorter day limit than a guild quest session, which is stated in its rules. Endgame quests represent a more intense session that presents the party with encounter after encounter. For this reason, endgame quests do not use overland movement for the party.
+Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer. Endgame quests are different in several important ways. Each has a shorter day limit than a guild quest session, which is stated in its rules. Endgame quests represent a more intense session that presents the party with encounter after encounter. For this reason, endgame quests do not use overland movement for the party.
 
 ## Setup
 
@@ -21,7 +21,7 @@ Follow these steps to begin the endgame:
 During each day of the endgame quest, the players complete each of the game's phases with the following exceptions.
 
 - **[New Day Phase](/docs/campaign/day/new-day-phase):** The party still advances the Day Dial, but it does not need to compare the dial to the day limit.
-- **[Overland Phase](/docs/campaign/day/overland-phase):** Skip the Move Party step; the party's location is not represented by a token on the map, and abilities related to overland movement are ignored. During the Trigger Encounter step, the party automatically triggers the next endgame encounter in order.
+- **[Overland Phase](/docs/campaign/day/overland-phase/index):** Skip the Move Party step; the party's location is not represented by a token on the map, and abilities related to overland movement are ignored. During the Trigger Encounter step, the party automatically triggers the next endgame encounter in order.
 - **[End of Day Phase](/docs/campaign/day/end-of-day-phase):** Skip the Activate Province Effect step unless instructed. Overland cards are not drawn during the endgame.
 
 ## Encounters

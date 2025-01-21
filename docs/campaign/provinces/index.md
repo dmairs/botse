@@ -1,7 +1,8 @@
 ---
-id: provinces
+id: index
 title: Provinces
 hoverText: Each province is represented by an overland map and gazetteer.
+slug: /campaign/provinces/index
 ---
 
 Each province is represented by an overland map and gazetteer.

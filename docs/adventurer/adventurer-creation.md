@@ -6,7 +6,7 @@ hoverText: Each player creates a unique adventurer at the outset of the first se
 
 Each player creates a unique adventurer at the outset of the first session of a campaign. To create an adventurer, follow the steps below.
 
-### 1. Select [Race](/docs/adventurer/races/)
+### 1. Select [Race](/docs/adventurer/races/index)
 
 Select a race sheet and corresponding adventurer chip. Place the sheet along the left or right side of your adventurer mat (as you prefer), and place the chip in the art area at the top of the sheet.
 
@@ -23,7 +23,7 @@ Take the circular attribute tokens for the [Health](/docs/adventurer/stats/healt
 
 Take this skill line's circular token and place it in an open slot. Then, add the number of Combat skill dice shown on your race sheet to that row's square slots and place that line's reference sheet near your adventurer mat.
 
-### 4. Add Starting [Skill Line](/docs/adventurer/skill-lines/)
+### 4. Add Starting [Skill Line](/docs/adventurer/skill-lines/index)
 
 Choose 1 other skill line. Place that line's circular token in an open attribute slot. Then, add 2 of that line's level 1 skill dice to that row's square slots. Place that line's reference sheet near your adventurer mat. For your first game, it is recommended that each player chooses 1 of the following skill lines, as dealing damage is crucial in battles:
 
@@ -34,9 +34,9 @@ Choose 1 other skill line. Place that line's circular token in an open attribute
 
 ### 5. Place Pegs
 
-Place a peg in the slot of your battle form tracker that matches your chosen starting skill line. Place another in the slot above the [cooldown track](/docs/glossary/cooldown-track) matching your [race's](/docs/adventurer/races/) starting [Cooldown](/docs/adventurer/stats/cooldown) stat. Finally, place 2 more in the leftmost slots of your [tenacity](/docs/glossary/tenacity) and Saved [XP](/docs/glossary/xp) trackers.
+Place a peg in the slot of your battle form tracker that matches your chosen starting skill line. Place another in the slot above the [cooldown track](/docs/glossary/cooldown-track) matching your [race's](/docs/adventurer/races/index) starting [Cooldown](/docs/adventurer/stats/cooldown) stat. Finally, place 2 more in the leftmost slots of your [tenacity](/docs/glossary/tenacity) and Saved [XP](/docs/glossary/xp) trackers.
 
-### 6. Choose [Class](/docs/adventurer/classes/)
+### 6. Choose [Class](/docs/adventurer/classes/index)
 
 Choose one of the following methods to determine the starting classes available to you. Whichever method you choose, place your starting class sheet with its novice side faceup along the opposite side of your adventurer mat from your race sheet. Important: This is a permanent choice, so it is recommended you add a class that complements your adventurer's stats and fits with the playstyle that interests you.
 

@@ -40,7 +40,7 @@ const enemySkills = files.map((file) => {
 });
 
 // Generate markdown content
-let markdownContent = `---\nid: enemy-skills\ntitle: Enemy Skills\n---\n\n`;
+let markdownContent = `---\nid: enemy-skills\ntitle: Enemy Skills\nslug: /battles/enemy-skills/index\nhoverText: An overview of the enemy skills.\n---\n\n`;
 markdownContent += `| Skill | Ability |\n|-------|------------|\n`;
 
 enemySkills.forEach((skill) => {

@@ -26,7 +26,7 @@ title: Iconography
 | <img src="/icons/potion.svg" alt="Potion Icon" />               | [Potion](/docs/adventurer/items/types/potion)               |
 | <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Weapon](/docs/adventurer/items/types/weapon)               |
 
-### [Status Effects](/docs/battles/status-effects/)
+### [Status Effects](/docs/battles/status-effects/index)
 
 | Icon                                                | Name                                            |
 | --------------------------------------------------- | ----------------------------------------------- |

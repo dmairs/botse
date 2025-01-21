@@ -1,7 +1,8 @@
 ---
-id: adventurer-turn
+id: index
 title: Adventurer Turn
 hoverText: During your turn, you can take a number of actions, including moving, engaging, resolving class abilities, or exploring at a distance.
+slug: /battles/adventurer-turn/index
 ---
 
 During your turn, you can take a number of actions, including moving, engaging, resolving class abilities, or exploring at a distance. When it is your adventurer's turn to act, follow the steps below:

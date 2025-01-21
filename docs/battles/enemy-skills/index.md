@@ -1,6 +1,8 @@
 ---
 id: enemy-skills
 title: Enemy Skills
+slug: /battles/enemy-skills/index
+hoverText: An overview of the enemy skills.
 ---
 
 | Skill | Ability |
@@ -11,7 +13,7 @@ title: Enemy Skills
 | [Bide](/docs/battles/enemy-skills/bide) | If this [unit](/docs/glossary/unit) does not move on its [turn](/docs/glossary/turn), it [heals](/docs/glossary/healing) for 2 HP at the end of its [turn](/docs/glossary/turn). |
 | [Bladed](/docs/battles/enemy-skills/bladed) | When [engaging](/docs/battles/adventurer-turn/engage) an [adjacent](/docs/glossary/adjacent) target, this [unit](/docs/glossary/unit) deals an additional 2 damage to its target. |
 | [Blind](/docs/battles/enemy-skills/blind) | After this [unit's](/docs/glossary/unit) engage, apply a [Blind](/docs/battles/status-effects/blind) status die to this unit's target. |
-| [Burn](/docs/battles/enemy-skills/burn) | After this unit determines its target, the target must choose to lose 1 [tenacity](/docs/glossary/tenacity), discard 1 [item](/docs/adventurer/items), or deal itself 1 [true damage](/docs/glossary/true-damage). |
+| [Burn](/docs/battles/enemy-skills/burn) | After this unit determines its target, the target must choose to lose 1 [tenacity](/docs/glossary/tenacity), discard 1 [item](/docs/adventurer/items/index), or deal itself 1 [true damage](/docs/glossary/true-damage). |
 | [Chilblain](/docs/battles/enemy-skills/chilblain) | After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not using a [Weapon](/docs/adventurer/items/types/weapon) type item, that adventurer gains light [fatigue](/docs/glossary/fatigue) equal to [party size](/docs/glossary/party-size). |
 | [Colossal](/docs/battles/enemy-skills/colossal) | This [unit](/docs/glossary/unit) deploys with additional HP equal to the total number of [Combat](/docs/adventurer/skill-lines/combat) skill dice trained by [adventurers](/docs/glossary/adventurer). |
 | [Cornered](/docs/battles/enemy-skills/cornered) | This [unit](/docs/glossary/unit) deploys with an additional 2 HP for each [undefeated](/docs/glossary/defeated) [adventurer](/docs/glossary/adventurer). |
@@ -26,7 +28,7 @@ title: Enemy Skills
 | [Elusive](/docs/battles/enemy-skills/elusive) | This [unit](/docs/glossary/unit) prevents all damage (including [true damage](/docs/glossary/true-damage)) dealt by units that were not [adjacent](/docs/glossary/adjacent) to it at the start of the current [turn](/docs/glossary/turn). |
 | [Enfeeble #](/docs/battles/enemy-skills/enfeeble) | After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target gains \# light [fatigue](/docs/glossary/fatigue). |
 | [Ethereal](/docs/battles/enemy-skills/ethereal) | When this [unit](/docs/glossary/unit) is dealt damage by an [adventurer](/docs/glossary/adventurer) not in [Magic battle form](/docs/battles/battle-forms/magic), this unit prevents [party size](/docs/glossary/party-size) damage. |
-| [Freeze](/docs/battles/enemy-skills/freeze) | When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege town, the target must move all items to their pack. |
+| [Freeze](/docs/battles/enemy-skills/freeze) | When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/index) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege town, the target must move all items to their pack. |
 | [Fumes](/docs/battles/enemy-skills/fumes) | After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an opposing unit, apply a [Blind](/docs/battles/status-effects/blind) status die to the opposing unit. |
 | [Incite](/docs/battles/enemy-skills/incite) | After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), all allied units [heal](/docs/glossary/healing) for HP equal to the current unrest. |
 | [Instigate](/docs/battles/enemy-skills/instigate) | After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) immediately draws a random level 1 enemy and deploys it to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to them. |
@@ -47,11 +49,11 @@ title: Enemy Skills
 | [Ritual #](/docs/battles/enemy-skills/ritual) | At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all allied units in [sight](/docs/glossary/sight) [heal](/docs/glossary/healing) for \#. |
 | [Rot](/docs/battles/enemy-skills/rot) | After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated) by an [adventurer](/docs/glossary/adventurer), that adventurer gains 1 [overfatigue](/docs/glossary/fatigue). |
 | [Rush](/docs/battles/enemy-skills/rush) | If this [unit](/docs/glossary/unit) cannot target an opposing unit after its movement, it moves a second time instead. |
-| [Shatter](/docs/battles/enemy-skills/shatter) | Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a Weapon item, that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/) after the engage. |
+| [Shatter](/docs/battles/enemy-skills/shatter) | Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a Weapon item, that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/index) after the engage. |
 | [Siphon](/docs/battles/enemy-skills/siphon) | At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), remove 1 HP from each non-[quest unit](/docs/glossary/quest-uni) within [range](/docs/glossary/range). Place all HP removed under this unit's chip (may exceed [Health](/docs/adventurer/stats/health) stat). |
 | [Smite](/docs/battles/enemy-skills/smite) | If this [unit](/docs/glossary/unit) is not targeting all [party members](/docs/glossary/party) on its [turn](/docs/glossary/turn), its Combat stat is doubled. |
 | [Stalwart](/docs/battles/enemy-skills/stalwart) | This [unit](/docs/glossary/unit) cannot lose more than 1 HP in a single [turn](/docs/glossary/turn). |
-| [Steal](/docs/battles/enemy-skills/steal) | When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-Consumable [item](/docs/adventurer/items/) from a ready slot. |
+| [Steal](/docs/battles/enemy-skills/steal) | When this [unit](/docs/glossary/unit) determines a target, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is greater than or equal to the target's current HP; that target discards a non-Consumable [item](/docs/adventurer/items/index) from a ready slot. |
 | [Storm Seer](/docs/battles/enemy-skills/storm-seer) | When this [unit](/docs/glossary/unit) determines a target, its target must exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as determined by the current weather. Sunny = 1, Rainy = 2, Flooding = 3. |
 | [Subdue](/docs/battles/enemy-skills/subdue) | Before this [unit](/docs/glossary/unit) deals damage, its target loses [tenacity](/docs/glossary/tenacity) equal to the amount of damage dealt. |
 | [Swap](/docs/battles/enemy-skills/swap) | This [unit](/docs/glossary/unit) treats [occupied](/docs/glossary/occupied) hexes as unoccupied. When it moves into an occupied hex, its occupant is [placed](/docs/glossary/move-or-place) in the hex this unit moved out of. |

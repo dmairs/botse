@@ -1,10 +1,10 @@
 ---
 id: enemy-turn
 title: Enemy Turn
-hoverText: After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value.
+hoverText: After all [adventurer turns](/docs/battles/adventurer-turn/index) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value.
 ---
 
-After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value. [Quest units](/docs/glossary/quest-unit) are treated as having the highest level in any encounter. If multiple enemies have the same level, the party decides which order those enemies act in each round.
+After all [adventurer turns](/docs/battles/adventurer-turn/index) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value. [Quest units](/docs/glossary/quest-unit) are treated as having the highest level in any encounter. If multiple enemies have the same level, the party decides which order those enemies act in each round.
 
 ## Turn Sequence
 
@@ -33,4 +33,4 @@ If there are no valid destination hexes available, the enemy instead finds the c
 
 Most enemies have 1 or more skills, which are abilities that trigger as described in the Enemy Skills Reference. It is recommended that players review an enemy's skills as the chip is deployed to the map. If an enemy engages multiple targets, each target is affected by each of the enemy's relevant skills.
 
-[See here](/docs/battles/enemy-skills) for a list of all enemy skills.
+[See here](/docs/battles/enemy-skills/index) for a list of all enemy skills.
