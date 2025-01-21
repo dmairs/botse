@@ -1,10 +1,10 @@
 ---
 id: enemy-turn
 title: Enemy Turn
-hoverText: After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value.
+hoverText: After all [adventurer turns](/docs/battles/adventurer-turn/index) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value.
 ---
 
-After all [adventurer turns](/docs/battles/adventurer-turn/) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value. [Quest units](/docs/glossary/quest-unit) are treated as having the highest level in any encounter. If multiple enemies have the same level, the party decides which order those enemies act in each round.
+After all [adventurer turns](/docs/battles/adventurer-turn/index) (and any [companion](/docs/glossary/companion) turns), each [enemy](/docs/glossary/enemy) takes a turn in order from highest to lowest level value. [Quest units](/docs/glossary/quest-unit) are treated as having the highest level in any encounter. If multiple enemies have the same level, the party decides which order those enemies act in each round.
 
 ## Turn Sequence
 
