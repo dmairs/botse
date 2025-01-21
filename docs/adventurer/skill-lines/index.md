@@ -1,7 +1,8 @@
 ---
-id: skill-lines
+id: index
 title: Skill Lines
 hoverText: An overview of the different Skill Lines available.
+slug: /adventurer/skill-lines/index
 ---
 
 :::important

@@ -23,7 +23,7 @@ Take the circular attribute tokens for the [Health](/docs/adventurer/stats/healt
 
 Take this skill line's circular token and place it in an open slot. Then, add the number of Combat skill dice shown on your race sheet to that row's square slots and place that line's reference sheet near your adventurer mat.
 
-### 4. Add Starting [Skill Line](/docs/adventurer/skill-lines/)
+### 4. Add Starting [Skill Line](/docs/adventurer/skill-lines/index)
 
 Choose 1 other skill line. Place that line's circular token in an open attribute slot. Then, add 2 of that line's level 1 skill dice to that row's square slots. Place that line's reference sheet near your adventurer mat. For your first game, it is recommended that each player chooses 1 of the following skill lines, as dealing damage is crucial in battles:
 
