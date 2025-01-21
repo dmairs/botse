@@ -4,7 +4,7 @@ title: Dungeon
 hoverText:
 ---
 
-In a dungeon battle, the map is set up beforehand but is composed of multiple tiles, which can include delve tiles or the clash tile. However, the dungeon ignores the icons printed on the tiles. Instead, enemies and other components are populated following the dungeon's specific setup diagram and rules, which appear in a [province's](/docs/campaign/provinces/) gazetteer.
+In a dungeon battle, the map is set up beforehand but is composed of multiple tiles, which can include delve tiles or the clash tile. However, the dungeon ignores the icons printed on the tiles. Instead, enemies and other components are populated following the dungeon's specific setup diagram and rules, which appear in a [province's](/docs/campaign/provinces/index) gazetteer.
 
 ## Enemy Pool
 

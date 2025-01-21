@@ -1,12 +1,12 @@
 ---
 id: endgame
 title: Endgame
-hoverText: Each [province](/docs/campaign/provinces/) has its own endgame rules, which are described in its gazetteer.
+hoverText: Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer.
 ---
 
 The crisis currently affecting Tamriel is far more vast than a single session can uncover. Your party can move on to the endgame of the campaign only after completing 2 game sessions, after which it will have earned enough success and experience to (hopefully) thwart a major threat to Tamriel.
 
-Each [province](/docs/campaign/provinces/) has its own endgame rules, which are described in its gazetteer. Endgame quests are different in several important ways. Each has a shorter day limit than a guild quest session, which is stated in its rules. Endgame quests represent a more intense session that presents the party with encounter after encounter. For this reason, endgame quests do not use overland movement for the party.
+Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer. Endgame quests are different in several important ways. Each has a shorter day limit than a guild quest session, which is stated in its rules. Endgame quests represent a more intense session that presents the party with encounter after encounter. For this reason, endgame quests do not use overland movement for the party.
 
 ## Setup
 

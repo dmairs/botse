@@ -10,7 +10,7 @@ This phase is divided into 2 parts. First, the activation of any province effect
 
 ## 1. Activate Province Effect
 
-[Provinces](/docs/campaign/provinces/) have province effects that are resolved during the End of Day Phase. You can learn more about each individual province's effect by checking for this information in the related gazetteer. If the effect is tracked using tokens on the map's hexes or a gauge along its edge, check whether those tokens activate.
+[Provinces](/docs/campaign/provinces/index) have province effects that are resolved during the End of Day Phase. You can learn more about each individual province's effect by checking for this information in the related gazetteer. If the effect is tracked using tokens on the map's hexes or a gauge along its edge, check whether those tokens activate.
 
 To do so, follow the substeps below in order:
 

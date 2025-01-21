@@ -10,4 +10,4 @@ Though individual adventurers may choose which side quests to gain, active side 
 
 There is no inherent penalty for leaving an active side quest uncompleted unless that quest's card says otherwise. If you cannot meet the requirements to complete a side quest, you cannot complete that quest but may keep the card until the end of the session.
 
-Side quests are not specific to a single [province](/docs/campaign/provinces/). Instead, they often refer to map features, such as landmarks, that are found across Tamriel.
+Side quests are not specific to a single [province](/docs/campaign/provinces/index). Instead, they often refer to map features, such as landmarks, that are found across Tamriel.

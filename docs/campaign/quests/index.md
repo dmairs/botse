@@ -13,7 +13,7 @@ Your party can have only 1 active [guild](/docs/campaign/guilds/) quest at a tim
 
 Guild quests are specific to a single province of Tamriel. They also frequently identify 1 or more [quest units](/docs/glossary/quest-unit)—unique, powerful units who need to be located and either defeated or aided to complete that quest and the session.
 
-The guild quest's steps appear in the current [province's](/docs/campaign/provinces/) gazetteer. Your party's guild is represented by the guild card, which shows the guild's icon. Each guild card also describes an ability the party's adventurers can use as an action during [town](/docs/campaign/day/encounter-phase/town) encounters.
+The guild quest's steps appear in the current [province's](/docs/campaign/provinces/index) gazetteer. Your party's guild is represented by the guild card, which shows the guild's icon. Each guild card also describes an ability the party's adventurers can use as an action during [town](/docs/campaign/day/encounter-phase/town) encounters.
 
 Once during each campaign, the party can call on its guild's support for a dramatic, sudden assist either during battle or to help it move quickly across the overland map. This is called a [guild assist](/docs/glossary/guild-assist).
 
