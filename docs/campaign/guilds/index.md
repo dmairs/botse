@@ -2,7 +2,8 @@
 id: guilds
 title: Guilds
 description: Learn about the different guilds.
-sidebar_label: Guilds
+hoverText: Learn about the different guilds.
+slug: /campaign/guilds/index
 ---
 
 | Guild                                                            | Guild Kiosk Town Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

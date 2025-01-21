@@ -9,7 +9,7 @@ Quests are the goals your party is tasked with completing. Quests that your part
 
 ## Guild Quests
 
-Your party can have only 1 active [guild](/docs/campaign/guilds/) quest at a time, which defines the party's main quest for that session. If the party is unable to complete its guild quest by the end of day 12 or fails any of that quest's steps, it has failed at the session's goal, which ends both the session and [campaign](/docs/campaign/index).
+Your party can have only 1 active [guild](/docs/campaign/guilds/index) quest at a time, which defines the party's main quest for that session. If the party is unable to complete its guild quest by the end of day 12 or fails any of that quest's steps, it has failed at the session's goal, which ends both the session and [campaign](/docs/campaign/index).
 
 Guild quests are specific to a single province of Tamriel. They also frequently identify 1 or more [quest units](/docs/glossary/quest-unit)—unique, powerful units who need to be located and either defeated or aided to complete that quest and the session.
 
