@@ -1,7 +1,8 @@
 ---
-id: delve
+id: index
 title: Delve
 hoverText: Delve battles represent adventurers navigating an uncharted, labyrinthine space.
+slug: /battles/types/delve/index
 tags:
   - Delve
 ---

@@ -12,4 +12,4 @@ Knowing no fear of beast or blade, the Undaunted are a group of daring treasure 
 
 ### Guild Focus
 
-The party focuses on [delves](/docs/battles/types/delve/).
+The party focuses on [delves](/docs/battles/types/delve/index).

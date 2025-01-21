@@ -24,7 +24,7 @@ A peaceful (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" c
 
 ### Battle
 
-A battle outcome is resolved on the battle map. There are 3 modes of battle: [clashes](/docs/battles/types/clash) (<img src="/icons/clash.svg" alt="Clash Icon" class="icon-svg" />), [delves](/docs/battles/types/delve/) (<img src="/icons/delve.svg" alt="Delve Icon" class="icon-svg" />), and [dungeons](/docs/battles/types/dungeon) (which do not appear on overland cards and have no icon).
+A battle outcome is resolved on the battle map. There are 3 modes of battle: [clashes](/docs/battles/types/clash) (<img src="/icons/clash.svg" alt="Clash Icon" class="icon-svg" />), [delves](/docs/battles/types/delve/index) (<img src="/icons/delve.svg" alt="Delve Icon" class="icon-svg" />), and [dungeons](/docs/battles/types/dungeon) (which do not appear on overland cards and have no icon).
 
 Quest encounters are described either in their [province's](/docs/campaign/provinces/) gazetteer or on a [side quest](/docs/campaign/quests/side-quests) card and are triggered and resolved as their text specifies.
 
