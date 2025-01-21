@@ -6,7 +6,7 @@ hoverText: Each player creates a unique adventurer at the outset of the first se
 
 Each player creates a unique adventurer at the outset of the first session of a campaign. To create an adventurer, follow the steps below.
 
-### 1. Select [Race](/docs/adventurer/races/)
+### 1. Select [Race](/docs/adventurer/races/index)
 
 Select a race sheet and corresponding adventurer chip. Place the sheet along the left or right side of your adventurer mat (as you prefer), and place the chip in the art area at the top of the sheet.
 
@@ -34,7 +34,7 @@ Choose 1 other skill line. Place that line's circular token in an open attribute
 
 ### 5. Place Pegs
 
-Place a peg in the slot of your battle form tracker that matches your chosen starting skill line. Place another in the slot above the [cooldown track](/docs/glossary/cooldown-track) matching your [race's](/docs/adventurer/races/) starting [Cooldown](/docs/adventurer/stats/cooldown) stat. Finally, place 2 more in the leftmost slots of your [tenacity](/docs/glossary/tenacity) and Saved [XP](/docs/glossary/xp) trackers.
+Place a peg in the slot of your battle form tracker that matches your chosen starting skill line. Place another in the slot above the [cooldown track](/docs/glossary/cooldown-track) matching your [race's](/docs/adventurer/races/index) starting [Cooldown](/docs/adventurer/stats/cooldown) stat. Finally, place 2 more in the leftmost slots of your [tenacity](/docs/glossary/tenacity) and Saved [XP](/docs/glossary/xp) trackers.
 
 ### 6. Choose [Class](/docs/adventurer/classes/index)
 

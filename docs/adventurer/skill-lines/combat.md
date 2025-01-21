@@ -11,5 +11,5 @@ If an ability adds [free](/docs/glossary/free) Combat dice, enemy Combat dice ar
 The Combat skill line cannot be untrained. Combat dice can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).
 
 :::info
-Although Combat is shown among a [race's](/docs/adventurer/races) starting attributes, it is a [skill line](/docs/adventurer/skill-lines/index) and not a [stat](/docs/adventurer/stats).
+Although Combat is shown among a [race's](/docs/adventurer/races/index) starting attributes, it is a [skill line](/docs/adventurer/skill-lines/index) and not a [stat](/docs/adventurer/stats).
 :::
