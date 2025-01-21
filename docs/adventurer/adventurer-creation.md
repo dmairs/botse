@@ -36,7 +36,7 @@ Choose 1 other skill line. Place that line's circular token in an open attribute
 
 Place a peg in the slot of your battle form tracker that matches your chosen starting skill line. Place another in the slot above the [cooldown track](/docs/glossary/cooldown-track) matching your [race's](/docs/adventurer/races/) starting [Cooldown](/docs/adventurer/stats/cooldown) stat. Finally, place 2 more in the leftmost slots of your [tenacity](/docs/glossary/tenacity) and Saved [XP](/docs/glossary/xp) trackers.
 
-### 6. Choose [Class](/docs/adventurer/classes/)
+### 6. Choose [Class](/docs/adventurer/classes/index)
 
 Choose one of the following methods to determine the starting classes available to you. Whichever method you choose, place your starting class sheet with its novice side faceup along the opposite side of your adventurer mat from your race sheet. Important: This is a permanent choice, so it is recommended you add a class that complements your adventurer's stats and fits with the playstyle that interests you.
 
