@@ -14,7 +14,7 @@ If the party triggered no encounter, it **skips** this phase.
 
 ## Resolving Encounters
 
-[Quest](/docs/campaign/quests/) and overland encounters must be successfully completed to earn their [XP](/docs/glossary/xp) or other rewards. If an encounter allows the party to choose how to complete it, the party must choose 1 option. If the party does not meet the requirements for a choice, it cannot choose it.
+[Quest](/docs/campaign/quests/index) and overland encounters must be successfully completed to earn their [XP](/docs/glossary/xp) or other rewards. If an encounter allows the party to choose how to complete it, the party must choose 1 option. If the party does not meet the requirements for a choice, it cannot choose it.
 
 Encounters have 2 outcome types: peaceful or battle. When an encounter appears on an overland card, its outcomes are indicated by an icon.
 

@@ -1,7 +1,8 @@
 ---
-id: quests
+id: index
 title: Quests
 hoverText: Quests are the goals your party is tasked with completing. Quests that your party has accepted but not completed or [discarded](/docs/glossary/discard) are active quests.
+slug: /campaign/quests/index
 ---
 
 Quests are the goals your party is tasked with completing. Quests that your party has accepted but not completed or [discarded](/docs/glossary/discard) are active quests.
