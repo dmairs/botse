@@ -1,9 +1,10 @@
 ---
-id: encounter-phase
+id: index
 title: Encounter Phase
 sidebar_label: "3. Encounter Phase"
 sidebar_position: 3
 hoverText: The party resolves the encounter it triggered during the previous phase.
+slug: /campaign/day/encounter-phase/index
 ---
 
 The party resolves the encounter it triggered during the previous phase. [Town](/docs/campaign/day/encounter-phase/town) encounters are resolved by taking actions in that town. Other encounters are resolved as described by their text, either in the gazetteer or on the overland card.

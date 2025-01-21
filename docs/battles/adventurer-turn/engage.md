@@ -42,7 +42,7 @@ Each skill die ability has at least 1 of the following codes that determines how
 
 ## Rolling Skill Dice Outside of Battle
 
-Some skill die abilities allow skill dice to be rolled during non-battle encounters or even outside of the [Encounter Phase](/docs/campaign/day/encounter-phase). If 1 or more skill dice can be rolled this way, follow the engage action sequence above to resolve that roll, with the following exceptions:
+Some skill die abilities allow skill dice to be rolled during non-battle encounters or even outside of the [Encounter Phase](/docs/campaign/day/encounter-phase/index). If 1 or more skill dice can be rolled this way, follow the engage action sequence above to resolve that roll, with the following exceptions:
 
 - Ignore the Gain Fatigue, Declare Target and Choose Battle Form steps unless otherwise specified.
 - Resolve any effects that occur in response to your roll during the Units React step.

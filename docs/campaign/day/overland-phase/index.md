@@ -1,9 +1,10 @@
 ---
-id: overland-phase
+id: index
 title: Overland Phase
 sidebar_label: "2. Overland Phase"
 sidebar_position: 2
 hoverText: The party plans its movement across the overland map and checks for any encounters or events.
+slug: /campaign/day/overland-phase/index
 ---
 
 The party plans its movement across the overland map and checks for any encounters or events.

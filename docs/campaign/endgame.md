@@ -21,7 +21,7 @@ Follow these steps to begin the endgame:
 During each day of the endgame quest, the players complete each of the game's phases with the following exceptions.
 
 - **[New Day Phase](/docs/campaign/day/new-day-phase):** The party still advances the Day Dial, but it does not need to compare the dial to the day limit.
-- **[Overland Phase](/docs/campaign/day/overland-phase):** Skip the Move Party step; the party's location is not represented by a token on the map, and abilities related to overland movement are ignored. During the Trigger Encounter step, the party automatically triggers the next endgame encounter in order.
+- **[Overland Phase](/docs/campaign/day/overland-phase/index):** Skip the Move Party step; the party's location is not represented by a token on the map, and abilities related to overland movement are ignored. During the Trigger Encounter step, the party automatically triggers the next endgame encounter in order.
 - **[End of Day Phase](/docs/campaign/day/end-of-day-phase):** Skip the Activate Province Effect step unless instructed. Overland cards are not drawn during the endgame.
 
 ## Encounters
