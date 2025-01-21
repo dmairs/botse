@@ -8,7 +8,7 @@ Quests are the goals your party is tasked with completing. Quests that your part
 
 ## Guild Quests
 
-Your party can have only 1 active [guild](/docs/campaign/guilds/) quest at a time, which defines the party's main quest for that session. If the party is unable to complete its guild quest by the end of day 12 or fails any of that quest's steps, it has failed at the session's goal, which ends both the session and [campaign](/docs/campaign/).
+Your party can have only 1 active [guild](/docs/campaign/guilds/) quest at a time, which defines the party's main quest for that session. If the party is unable to complete its guild quest by the end of day 12 or fails any of that quest's steps, it has failed at the session's goal, which ends both the session and [campaign](/docs/campaign/index).
 
 Guild quests are specific to a single province of Tamriel. They also frequently identify 1 or more [quest units](/docs/glossary/quest-unit)—unique, powerful units who need to be located and either defeated or aided to complete that quest and the session.
 
@@ -24,7 +24,7 @@ When the current step is completed, proceed to the next as directed; then, read 
 
 Quest keywords do not have inherent rules but can affect the choices available in future quests and the conditions for the campaign's [endgame](/docs/campaign/endgame). Epilogue steps also control the choices available to the party for its next guild quest.
 
-The party fails its quest step if it fails that step's quest encounter unless that quest step says otherwise, regardless of if it is a peaceful or battle encounter. The quest step describes if a peaceful quest encounter can be failed, or if a battle encounter can be failed without that quest also failing. If the party fails its quest step, its session and [campaign end](/docs/campaign/). While a guild quest remains active, leave the gazetteer open to the current step or bookmark it so that it is ready to reference.
+The party fails its quest step if it fails that step's quest encounter unless that quest step says otherwise, regardless of if it is a peaceful or battle encounter. The quest step describes if a peaceful quest encounter can be failed, or if a battle encounter can be failed without that quest also failing. If the party fails its quest step, its session and [campaign end](/docs/campaign/index). While a guild quest remains active, leave the gazetteer open to the current step or bookmark it so that it is ready to reference.
 
 :::tip[FAQ]
 **What happens if you lose a quest step encounter?**
@@ -40,7 +40,7 @@ Some quest steps are directly linked to the previous step and must be completed 
 
 ## Ending the Session
 
-A game session ends after the party either succeeds or fails at its guild quest. If you succeed, complete that day's [Reward Phase](/docs/campaign/day/reward-phase) but skip the [End of Day Phase](/docs/campaign/day/end-of-day-phase). Instead, follow the steps under [Successfully Completing a Session](/docs/campaign/) to save your game for the next session in the campaign.
+A game session ends after the party either succeeds or fails at its guild quest. If you succeed, complete that day's [Reward Phase](/docs/campaign/day/reward-phase) but skip the [End of Day Phase](/docs/campaign/day/end-of-day-phase). Instead, follow the steps under [Successfully Completing a Session](/docs/campaign/index) to save your game for the next session in the campaign.
 
 If you succeed at your second session's guild quest, you can proceed to the [endgame](/docs/campaign/endgame) at the start of your next session. You must succeed at that session's quest to win the campaign.
 

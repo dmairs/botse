@@ -1,7 +1,8 @@
 ---
-id: campaigns
+id: index
 title: Campaigns
 hoverText: A campaign takes place across 3 game sessions.
+slug: /campaign/index
 ---
 
 The Elder Scrolls: Betrayal of the Second Era is best played as a campaign taking place across 3 game sessions. A session ends after the party either succeeds or fails at its [guild](/docs/campaign/guilds/) quest. The rules for connecting these sessions together are explained below.
