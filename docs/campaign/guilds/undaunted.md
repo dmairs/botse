@@ -9,3 +9,7 @@ Knowing no fear of beast or blade, the Undaunted are a group of daring treasure 
 ### Guild Kiosk Town Action
 
 **Pledged:** [Discard](/docs/glossary/discard) all [items](/docs/adventurer/items/) in the shop and refill it with new items equal to the shop's values. Then, gain 1 item from the new selection.
+
+### Guild Focus
+
+The party focuses on [delves](/docs/battles/types/delve/).
