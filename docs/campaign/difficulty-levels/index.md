@@ -1,6 +1,8 @@
 ---
-id: difficulty-levels
+id: index
 title: Difficulty Levels
+hoverText: Learn about the games difficulty levels.
+slug: /campaign/difficulty-levels/index
 ---
 
 ### Apprentice (Easy)
