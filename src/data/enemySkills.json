@@ -317,9 +317,9 @@
   {
     "id": "stalwart",
     "title": "Stalwart",
-    "hoverText": "This [unit](/docs/glossary/unit) cannot lose more than 1 HP in a single [turn](/docs/glossary/turn).",
+    "hoverText": "This [unit](/docs/glossary/unit) [cannot](/docs/glossary/cannot) lose more than 1 HP in a single [turn](/docs/glossary/turn).",
     "filePath": "/docs/battles/enemy-skills/stalwart",
-    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) cannot lose more than 1 HP in a single [turn](/docs/glossary/turn)."
+    "contentAfterFrontMatter": "This [unit](/docs/glossary/unit) [cannot](/docs/glossary/cannot) lose more than 1 HP in a single [turn](/docs/glossary/turn).\r\n\r\n:::info\r\n\"Cannot lose HP\" isn't damage prevention. This means Stalwart enemies can't lose more 1 HP regardless of source e.g. [True Damage](/docs/glossary/true-damage.md) doesn't override this.\r\n:::"
   },
   {
     "id": "steal",
