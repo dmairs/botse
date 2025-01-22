@@ -28,3 +28,14 @@ Outside of battle, an item can be used at any time the adventurer chooses, unles
 ## Traits
 
 Traits do not have specific rules (except for traits of the [<img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" />](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
+
+---
+
+:::warning[Errata]
+
+**Item card count - should be 100 common, 60 legendary**
+
+The rulebook says there are 110 common items and 50 legendary. The proper count is 100 common items and 60 legendary.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292376" target="_blank">Source</a>
+:::
