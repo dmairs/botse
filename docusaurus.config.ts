@@ -9,7 +9,7 @@ const config: Config = {
 
   url: "https://botse.pages.dev",
   baseUrl: "/",
-
+  trailingSlash: true,
   organizationName: "dmairs",
   projectName: "botse",
 
