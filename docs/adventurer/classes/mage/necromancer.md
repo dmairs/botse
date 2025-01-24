@@ -10,6 +10,10 @@ hoverText: ""
 
 **Innate Ability**: If at least 1 enemy took damage during your engage, place 1 HP chip here (max of 6). This is your Necrosis Stack.
 
+:::info
+Chips in the Necrosis Stack are not removed at end of battle or end day. They persist until the end of session cleanup.
+:::
+
 | Tenacity Cost | Name               | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1             | Boneyard           | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic) **[Enduring](/docs/glossary/enduring):** For every 2 chips in your Necrosis Stack, ignore 1 defense on your target.                                                                                                                                                                                                                                                       |
