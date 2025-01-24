@@ -42,6 +42,10 @@ Illusion dice are used in a number of ways, and each has specific rules. They ar
 | <img src="/icons/skills/illusion/mayhem-1.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die with 4 HP chips in an [unoccupied](/docs/glossary/occupied) hex in [range](/docs/glossary/range). Enemies treat this die as an adventurer and party members treat it as an occupied hex. When all of this die's HP is removed, [drain](/docs/glossary/drained) this die and [recover](/docs/glossary/recover) up to 3 non-[<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill dice.                                     |
 | <img src="/icons/skills/illusion/mayhem-2.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die with 7 HP chips in an [unoccupied](/docs/glossary/occupied) hex in [range](/docs/glossary/range). Enemies treat this die as an adventurer and party members treat it as an occupied hex. When an enemy targets this die, roll 2 enemy Combat dice and deal that rolled damage to the enemy unit before it uses skills or engages. If that enemy is [defeated](/docs/glossary/defeated), its turn ends. When all of this die's HP is removed, [drain](/docs/glossary/drained) this die. |
 
+:::info
+Mayhem goes before skills that actually trigger. It does not turn off passive abilities.
+:::
+
 ### Voice of Rapture
 
 | Icon                                                                               | Ability                                                                                                                                                                                                                                                                                               |
