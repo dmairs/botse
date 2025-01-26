@@ -13,3 +13,9 @@ hoverText: "Health: 5, Stamina: 3, Magicka: 2, Combat: 1, Cooldown: 2"
 | [Magicka](/docs/adventurer/stats/magicka)     | 2     |
 | [Combat](/docs/adventurer/skill-lines/combat) | 1     |
 | [Cooldown](/docs/adventurer/stats/cooldown)   | 2     |
+
+---
+
+:::info
+Argonian Resistance cannot prevent true damage.
+:::
