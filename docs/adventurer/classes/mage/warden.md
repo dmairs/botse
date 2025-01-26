@@ -10,6 +10,10 @@ hoverText: ""
 
 **Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" class="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
 
+:::info
+Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
+:::
+
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1             | Dive             | [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic): Deploy [companion](/docs/glossary/companion): **Diving Cliff Racer** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. It is a companion controlled by you. This companion is removed at the [end of battle](/docs/battles/end-of-battle). _Once per battle._ |
