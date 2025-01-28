@@ -6,11 +6,11 @@ hoverText: Does not require [tenacity](/docs/glossary/tenacity) to be spent. Ins
 
 This [class ability](/docs/battles/adventurer-turn/class-ability) does not require [tenacity](/docs/glossary/tenacity) to be spent. Instead, it is active while your tenacity is equal to or greater than the required value. The ability is no longer in effect if your tenacity drops below this number.
 
----
+<!-- ---
 
 :::info
 **Can you choose to not activate an Enduring ability?**
 
 No, Enduring abilities are always active so long as you have equal to or greate than the required [tenacity](/docs/glossary/tenacity) value.
 
-:::
+::: -->
