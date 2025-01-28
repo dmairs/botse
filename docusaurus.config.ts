@@ -9,7 +9,7 @@ const config: Config = {
 
   url: "https://botse.pages.dev",
   baseUrl: "/",
-
+  trailingSlash: true,
   organizationName: "dmairs",
   projectName: "botse",
 
@@ -44,21 +44,13 @@ const config: Config = {
         glossaryFilepath: ".glossary.md",
       },
     ],
-    require.resolve("docusaurus-lunr-search"),
+    require.resolve("@easyops-cn/docusaurus-search-local"),
   ],
   themeConfig: {
     colorMode: {
       defaultMode: "light",
       disableSwitch: false,
       respectPrefersColorScheme: true,
-    },
-    announcementBar: {
-      id: "announcement",
-      content:
-        'All content on this website is currently WIP and may be incomplete or incorrect. If you notice any errors, please <a href="mailto:dmairs@proton.me">report them</a>.',
-      backgroundColor: "#fafbfc",
-      textColor: "#091E42",
-      isCloseable: true,
     },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
@@ -67,6 +59,25 @@ const config: Config = {
         alt: "Logo for BOTSE Helper",
         src: "img/logo.svg",
       },
+      items: [
+        {
+          type: "doc",
+          position: "left",
+          docId: "overview",
+          label: "Docs",
+        },
+        {
+          type: "dropdown",
+          label: "Tools",
+          position: "left",
+          items: [
+            {
+              to: "enemy-skills-tracker",
+              label: "Enemy Skills Tracker",
+            },
+          ],
+        },
+      ],
     },
     sidebar: {
       hideable: true,
@@ -76,7 +87,7 @@ const config: Config = {
       style: "light",
       links: [
         {
-          label: "Feedback / Bugs / Suggestions",
+          label: "Feedback / Suggestions",
           to: "mailto:dmairs@proton.me",
         },
         {
@@ -84,7 +95,7 @@ const config: Config = {
           to: "https://github.com/dmairs/botse",
         },
       ],
-      copyright: `This site is a free community project not associated with Chip Theory Games in any way.`,
+      copyright: `This site is a community project not associated with Chip Theory Games.`,
     },
     tableOfContents: {
       minHeadingLevel: 2,

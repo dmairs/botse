@@ -1,8 +1,9 @@
 ---
-id: races
+id: index
 title: Races
 sidebar_label: Races
 hoverText: An overview of the available races.
+slug: /adventurer/races/index
 ---
 
 | Race                                        | [Health](/docs/adventurer/stats/health) | [Stamina](/docs/adventurer/stats/stamina) | [Magicka](/docs/adventurer/stats/magicka) | [Combat](/docs/adventurer/skill-lines/combat) | [Cooldown](/docs/adventurer/stats/cooldown) | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

@@ -47,3 +47,13 @@ These actions are chosen individually and can be resolved simultaneously with th
 ### Group Actions
 
 These actions must be taken cooperatively and appear with the word "group" after their name (some quest steps also require the party to take a group town action). Each adventurer must contribute 1 of their town actions towards a group action.
+
+---
+
+:::tip[FAQ]
+**Which town actions are group actions?**
+
+All town actions are considered to be personal town actions unless otherwise stated. A group town action will be specifically labelled as a group action.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292500" target="_blank">Source</a>
+:::

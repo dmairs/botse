@@ -1,6 +1,8 @@
 ---
-id: classes
+id: index
 title: Classes
+hoverText: Your [adventurer's](/docs/glossary/adventurer) class adds special class abilities you can use, typically by spending a resource called [tenacity](/docs/glossary/tenacity) that you accrue over the course of the game.
+slug: /adventurer/classes/index
 ---
 
 Your [adventurer's](/docs/glossary/adventurer) class adds special class abilities you can use, typically by spending a resource called [tenacity (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity) that you accrue over the course of the game. An adventurer can have only 1 class sheet during a campaign, but each sheet is double-sided. An adventurer's class begins with its novice side faceup. When your adventurer meets the promotion requirements on its novice side, you can flip the sheet to its master side. This promotion advancement can happen at any time and is permanent for the rest of the campaign. When you promote your class to its master side, many of your class abilities improve. Each tenacity ability that improves has a short bar under its title on the novice side of the sheet and a striped bar on the master side.

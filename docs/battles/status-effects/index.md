@@ -1,8 +1,9 @@
 ---
-id: status-effects
+id: index
 title: Status Effects
-description: Learn about the different status effects.
-sidebar_label: Status Effects
+description: An overview of the different status effects.
+hoverText: An overview of the different status effects.
+slug: /battles/status-effects/index
 tags:
   - Status Effects
 ---

@@ -1,7 +1,8 @@
 ---
-id: battle-forms
+id: index
 title: Battle Forms
-hoverText: Battle form icons appear on skill lines, abilities, and weapon items. During an engage action, the adventurer's battle form limits the dice that can be rolled together and sets the adventurer's range.
+hoverText: Battle form icons appear on skill lines, abilities, and [weapon](/docs/adventurer/items/types/weapon) items. During an [engage](/docs/battles/adventurer-turn/engage) action, the [adventurer's](/docs/glossary/adventurer) battle form limits the dice that can be rolled together and sets the adventurer's [range](/docs/glossary/range).
+slug: /battles/battle-forms/index
 ---
 
 Battle form icons appear on skill lines, abilities, and [weapon](/docs/adventurer/items/types/weapon) items. During an [engage](/docs/battles/adventurer-turn/engage) action, the [adventurer's](/docs/glossary/adventurer) battle form limits the dice that can be rolled together and sets the adventurer's [range](/docs/glossary/range).

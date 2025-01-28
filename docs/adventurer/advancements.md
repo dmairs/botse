@@ -12,7 +12,7 @@ You can increase an attribute by spending the required [XP](/docs/glossary/xp) c
 
 ### Add a Skill Die
 
-To add a skill die, you must have trained that [skill line](/docs/adventurer/skill-lines/), either when creating your adventurer or by visiting a trainer as a [town](/docs/campaign/day/encounter-phase/town) action. To add a skill die of levels 2–4, you must also have at least 1 other skill die in the same line that is either the same level as, or 1 level below, the new skill die. For example, to add a level 3 Bow skill die, you must also have at least one level 2 or level 3 Bow skill die currently added to your adventurer mat. If you have added a skill die to your attribute rows, that die is referred to as trained.
+To add a skill die, you must have trained that [skill line](/docs/adventurer/skill-lines/index), either when creating your adventurer or by visiting a trainer as a [town](/docs/campaign/day/encounter-phase/town) action. To add a skill die of levels 2–4, you must also have at least 1 other skill die in the same line that is either the same level as, or 1 level below, the new skill die. For example, to add a level 3 Bow skill die, you must also have at least one level 2 or level 3 Bow skill die currently added to your adventurer mat. If you have added a skill die to your attribute rows, that die is referred to as trained.
 
 ## Increase Cooldown Stat
 
@@ -24,7 +24,7 @@ You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you
 
 ## Promote your Class
 
-You can flip your [class](/docs/adventurer/classes/) sheet to its master side; this advancement is called a promotion. To do so, you must meet the requirement on the sheet's novice side, which is often an achievement that happens during a battle. When this happens, you immediately gain that advancement and can flip your class sheet.
+You can flip your [class](/docs/adventurer/classes/index) sheet to its master side; this advancement is called a promotion. To do so, you must meet the requirement on the sheet's novice side, which is often an achievement that happens during a battle. When this happens, you immediately gain that advancement and can flip your class sheet.
 
 ## Add a Skill Line
 

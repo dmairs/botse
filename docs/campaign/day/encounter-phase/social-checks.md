@@ -23,3 +23,7 @@ Each adventurer may choose to spend any amount of [tenacity](/docs/glossary/tena
 ### 3. Resolve the Attempt
 
 Compare the party's total die results and spent [tenacity](/docs/glossary/tenacity) to the difficulty value. If the combined total equals or exceeds the social check difficulty, you succeed at the check and gain the described benefit in addition to the choice's outcome. If the total is less than the difficulty, you fail the check but resolve the choice's outcome as described. Regardless of success, all skill dice rolled in the social check are exhausted.
+
+## Speech in Social Checks
+
+Before [adventurers](/docs/glossary/adventurer) spend any [tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with available Speech skill dice in their attribute slots may choose to roll any number of those skill dice (regardless of their [Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of the rolled results, the numeric values on the rolled results count toward the party's social check, reducing the amount of tenacity that must be spent to succeed at the check. Regardless of success, all rolled dice are exhausted.
