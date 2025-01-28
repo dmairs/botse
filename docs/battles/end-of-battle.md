@@ -26,7 +26,7 @@ After a battle ends (whether successfully or not), follow the steps below and th
 2. Each adventurer removes and exhausts any remaining dice from their [active slots](/docs/glossary/active-slot). Then, they [recover](/docs/glossary/recover) all of their [drained](/docs/glossary/drained) skill dice. Note: Dice still in an adventurer's [cooldown track](/docs/glossary/cooldown-track) at the end of a battle remain there until the next battle or until they are removed by other means, such as during the [End of Day Phase](/docs/campaign/day/end-of-day-phase) or visiting a [town's](/docs/campaign/day/encounter-phase/town) inn.
 3. Disassemble the battle map.
    - Place [enemy](/docs/glossary/enemy) chips back into their correct draw bags and place [cache](/docs/glossary/cache) chips back in the supply.
-   - Sort the map tiles by shape. If [delve](/docs/battles/types/delve) tiles were used, shuffle each shape facedown. Then place the tiles back in their area.
+   - Sort the map tiles by shape. If [delve](/docs/battles/types/delve/) tiles were used, shuffle each shape facedown. Then place the tiles back in their area.
    - Gather the delve cards, setting aside any cards marked with "SP" or otherwise required by the Delve Feature section at the front of your province's gazetteer. Then, shuffle the Delve Deck and place it back in its area.
 
 This cleanup procedure only occurs after a battle, not after a peaceful encounter.
