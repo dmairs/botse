@@ -76,7 +76,7 @@ const config: Config = {
               label: "Enemy Skills Tracker",
             },
             {
-              to: "randomizer",
+              to: "setup-randomizer",
               label: "Setup Randomizer",
             },
           ],
