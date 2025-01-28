@@ -8,7 +8,7 @@ hoverText: ""
 
 **Upgrade**: Defeat a level 10/20 [enemy](/docs/glossary/enemy) or quest [unit](/docs/glossary/unit) with either the **Diving Cliff Racer** or **Feral Guardian** [companion](/docs/glossary/companion).
 
-**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" class="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
+**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
 
 :::info
 Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
@@ -24,7 +24,7 @@ Since Diving Cliff Racer and Feral Guardian companions are on the same chip, the
 
 ## Master
 
-**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" class="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP and gain 1 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP and gain 1 [tenacity](/docs/glossary/tenacity).
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                                 | Upgrade effect                      |
 | ------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |

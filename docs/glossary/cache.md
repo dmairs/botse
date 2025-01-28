@@ -4,7 +4,7 @@ title: Cache
 hoverText: Caches are locked containers found on the battle map that [adventurers](/docs/glossary/adventurer) may open to gain item cards.
 ---
 
-Caches are locked containers found on the battle map that [adventurers](/docs/glossary/adventurer) may open to gain item cards. Each <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" /> chip contains 1 common item card. Each <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" class="icon-svg" /> chip contains 1 legendary item card.
+Caches are locked containers found on the battle map that [adventurers](/docs/glossary/adventurer) may open to gain item cards. Each <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> chip contains 1 common item card. Each <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> chip contains 1 legendary item card.
 
 During their [turn](/docs/glossary/turn), when an [adventurer](/docs/glossary/adventurer) [moves into or is placed](/docs/glossary/move-or-place) in a hex with a cache chip, they may trigger a [lockpick](/docs/glossary/lockpicking) check on that cache. The [lockpick](/docs/glossary/lockpicking) check uses a difficulty code, which is a series of numbers that must be matched to unlock it. The difficulty code for a check on a cache chip is shown on the back of the top card of the associated item deck.
 

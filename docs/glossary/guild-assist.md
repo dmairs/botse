@@ -11,7 +11,7 @@ When this ability is triggered, each adventurer (including [defeated](/docs/glos
 - [Heals](/docs/glossary/healing) to their full HP.
 - Removes all light [fatigue](/docs/glossary/fatigue), overfatigue, and status dice from their [cooldown track](/docs/glossary/cooldown-track).
 - May recover any number of exhausted and [drained](/docs/glossary/drained) skill dice.
-- Draws 1 <img src="/icons/legendary-item.svg" alt="Legandary Item Icon" class="icon-svg" /> and 1 <img src="/icons/common-item.svg" alt="Common Item Icon" class="icon-svg" />, gaining both (following normal [inventory](/docs/adventurer/items/inventory) restrictions).
+- Draws 1 <img src="/icons/legendary-item.svg" alt="Legandary Item Icon" className="icon-svg" /> and 1 <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />, gaining both (following normal [inventory](/docs/adventurer/items/inventory) restrictions).
 
 Additionally, the [party](/docs/glossary/party) gains the benefits below depending on when they triggered their guild assist.
 

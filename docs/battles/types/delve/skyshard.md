@@ -8,7 +8,7 @@ tags:
 
 # <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> Skyshard
 
-Skyshards (<img src="/icons/skyshard.svg" alt="Skyshard Icon" class="icon-svg" />) are fragments of Aetherial Magicka that fell to Nirn. You can find them scattered across Tamriel, especially in hidden places. They are represented as icons on some delve cards, which identify the tile revealed by that card as a skyshard location. A delve is fully [explored](/docs/battles/types/delve/exploration) when all of its skyshards have been revealed and gained. Unless the encounter specifies otherwise, 3 skyshards are required. This can be any combination of skyshard icons gained on faceup delve cards or facedown delve cards treated as skyshards.
+Skyshards (<img src="/icons/skyshard.svg" alt="Skyshard Icon" className="icon-svg" />) are fragments of Aetherial Magicka that fell to Nirn. You can find them scattered across Tamriel, especially in hidden places. They are represented as icons on some delve cards, which identify the tile revealed by that card as a skyshard location. A delve is fully [explored](/docs/battles/types/delve/exploration) when all of its skyshards have been revealed and gained. Unless the encounter specifies otherwise, 3 skyshards are required. This can be any combination of skyshard icons gained on faceup delve cards or facedown delve cards treated as skyshards.
 
 ## Gaining Skyshards
 

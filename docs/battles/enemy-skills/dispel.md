@@ -6,4 +6,4 @@ tags:
   - Quest Unit Skill
 ---
 
-After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) in [<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic) or by a <img src="/icons/daedra.svg" alt="Daedra Icon" class="icon-svg" /> unit, this unit deals [<img src="/icons/party-size.svg" alt="Party Size Icon" class="icon-svg" />](/docs/glossary/party-size) [true damage](/docs/glossary/true-damage) to the engaging unit, even if [defeated](/docs/glossary/defeated).
+After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) or by a <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> unit, this unit deals [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size) [true damage](/docs/glossary/true-damage) to the engaging unit, even if [defeated](/docs/glossary/defeated).

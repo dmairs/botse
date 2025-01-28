@@ -21,7 +21,7 @@ Encounters have 2 outcome types: peaceful or battle. When an encounter appears o
 
 ### Peaceful
 
-A peaceful (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" class="icon-svg" />) outcome resolves the encounter without the players taking part in a battle. A peaceful encounter is automatically successful unless otherwise noted. If the party does not fulfill a peaceful encounter's requirements, the encounter is failed.
+A peaceful (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" className="icon-svg" />) outcome resolves the encounter without the players taking part in a battle. A peaceful encounter is automatically successful unless otherwise noted. If the party does not fulfill a peaceful encounter's requirements, the encounter is failed.
 
 ### Battle
 

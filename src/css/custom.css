@@ -38,6 +38,15 @@ h1 img {
 .icon-svg {
   width: 1.5em;
   vertical-align: bottom;
+  margin: 1px;
+}
+
+.skill-icon {
+  min-width: 4em;
+}
+
+html[data-theme="dark"] .skill-icon {
+  filter: invert(1);
 }
 
 .table-of-contents .icon-svg {
