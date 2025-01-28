@@ -45,10 +45,6 @@ h1 img {
   min-width: 4em;
 }
 
-.skill-icon:empty {
-  display: none;
-}
-
 html[data-theme="dark"] .skill-icon {
   filter: invert(1);
 }
