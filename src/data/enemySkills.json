@@ -86,9 +86,9 @@
   {
     "id": "detain",
     "title": "Detain",
-    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must exhuast an available skill die. If the Empire Remnant is dominant, the skill die is [drained](/docs/glossary/drained) instead.",
+    "hoverText": "When this [unit](/docs/glossary/unit) determines a target, its target must exhaust an available skill die. If the Empire Remnant is dominant, the skill die is [drained](/docs/glossary/drained) instead.",
     "filePath": "/docs/battles/enemy-skills/detain",
-    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must exhuast an available skill die. If the Empire Remnant is dominant, the skill die is [drained](/docs/glossary/drained) instead."
+    "contentAfterFrontMatter": "When this [unit](/docs/glossary/unit) determines a target, its target must exhaust an available skill die. If the Empire Remnant is dominant, the skill die is [drained](/docs/glossary/drained) instead."
   },
   {
     "id": "detection",
