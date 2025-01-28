@@ -28,7 +28,7 @@ export default function RandomGenerator(): JSX.Element {
     >
       <Container maxWidth="xl" sx={{ py: 4 }}>
         <Stack spacing={4} alignItems="center">
-          <h1>Randomizer</h1>
+          <h1>Setup Randomizer</h1>
 
           <Button
             onClick={randomizeAll}
