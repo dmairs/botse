@@ -1,0 +1,23 @@
+export const classes = [
+  { name: "Arcanist", url: "/docs/adventurer/classes/mage/arcanist" },
+  { name: "Healer", url: "/docs/adventurer/classes/mage/healer" },
+  { name: "Necromancer", url: "/docs/adventurer/classes/mage/necromancer" },
+  { name: "Nightblade", url: "/docs/adventurer/classes/mage/nightblade" },
+  { name: "Sorcerer", url: "/docs/adventurer/classes/mage/sorcerer" },
+  { name: "Warden", url: "/docs/adventurer/classes/mage/warden" },
+  { name: "Acrobat", url: "/docs/adventurer/classes/thief/acrobat" },
+  { name: "Bard", url: "/docs/adventurer/classes/thief/bard" },
+  { name: "Burglar", url: "/docs/adventurer/classes/thief/burglar" },
+  { name: "Pilgrim", url: "/docs/adventurer/classes/thief/pilgrim" },
+  { name: "Rogue", url: "/docs/adventurer/classes/thief/rogue" },
+  { name: "Scout", url: "/docs/adventurer/classes/thief/scout" },
+  { name: "Archer", url: "/docs/adventurer/classes/warrior/archer" },
+  {
+    name: "Dragonknight",
+    url: "/docs/adventurer/classes/warrior/dragonknight",
+  },
+  { name: "Knight", url: "/docs/adventurer/classes/warrior/knight" },
+  { name: "Ranger", url: "/docs/adventurer/classes/warrior/ranger" },
+  { name: "Spellsword", url: "/docs/adventurer/classes/warrior/spellsword" },
+  { name: "Templar", url: "/docs/adventurer/classes/warrior/templar" },
+];

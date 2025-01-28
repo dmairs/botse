@@ -1,0 +1,14 @@
+@keyframes roll {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.dice {
+  width: 100px;
+  height: 100px;
+  animation: roll 2s infinite;
+}
