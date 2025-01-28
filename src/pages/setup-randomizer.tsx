@@ -1,12 +1,11 @@
 import React, { useRef } from "react";
 import Layout from "@theme/Layout";
 import Randomizer from "../components/Randomizer";
-import Grid from "@mui/material/Grid2";
 import { races, skills, classes, provinces, guilds } from "../data/data";
 import { Casino as DiceIcon } from "@mui/icons-material";
 import { Container, Stack, Paper, Button } from "@mui/material";
 
-export default function RandomGenerator(): JSX.Element {
+export default function SetupRandomizer(): JSX.Element {
   const raceRef = useRef<HTMLButtonElement>(null);
   const skillRef = useRef<HTMLButtonElement>(null);
   const classRef = useRef<HTMLButtonElement>(null);
