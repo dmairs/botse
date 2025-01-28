@@ -11,15 +11,19 @@ The legerdemain line is unique in that it costs no [Stamina](/docs/adventurer/st
 
 ### Locksmith
 
+**Dice Supply:** 2
+
 You may roll this die when making a lockpick attempt.
 
-| Icon                                                                         | Ability                                                        |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| <img src="/icons/skills/legerdemain/locksmith.png" className="skill-icon" /> | Adjust any rolled [lockpick](/docs/glossary/lockpicking) by 1. |
+| Icon                                                                         | Ability                                                            |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| <img src="/icons/skills/legerdemain/locksmith.png" className="skill-icon" /> | Adjust any rolled [lockpick](/docs/glossary/lockpicking) die by 1. |
 
 ## Level 2
 
 ### Finders Keepers
+
+**Dice Supply:** 2
 
 You may roll this die when making a lockpick attempt.
 
@@ -35,6 +39,8 @@ You may roll this die when making a lockpick attempt.
 
 ### Light Fingers
 
+**Dice Supply:** 2
+
 You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) encounter with a shop before taking town actions.
 
 | Icon                                                                               | Ability                                                                                                                                   |
@@ -47,6 +53,8 @@ You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) e
 ## Level 4
 
 ### Friends in Low Places
+
+**Dice Supply:** 2
 
 You may roll this die at the start of a [town](/docs/campaign/day/encounter-phase/town) encounter.
 
