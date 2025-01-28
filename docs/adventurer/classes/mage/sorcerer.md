@@ -29,3 +29,11 @@ hoverText: ""
 | 3             | Unholy Knowledge | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Change any status die in any adventurers [cooldown track](/docs/glossary/cooldown-track) to a side of your choice.                                                          | Tenacity cost (2 → 3), change side instead of rolling             |
 | 3             | Dark Exchange    | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Move up to 2 HP from any [unit](/docs/glossary/unit) in [range](/docs/glossary/range) to any other unit in range (may exceed [Health](/docs/adventurer/stats/health) stat). | 2 HP instead of 1, may affect any units                           |
 | 5             | Blood Magic      | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Each adventurer in play heals to full HP, then removes light [fatigue](/docs/glossary/fatigue) equal to the amount of HP healed.                                            | Tenacity cost (4 → 5), remove light fatigue instead of gaining it |
+
+---
+
+:::info
+**Can you use Dark Exchange to remove the last HP from an enemy unit and defeat it?**
+
+Yes.
+:::
