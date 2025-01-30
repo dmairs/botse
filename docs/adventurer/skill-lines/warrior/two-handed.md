@@ -19,7 +19,7 @@ title: Two Handed
 | Icon                                                                          | Ability                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/two-handed/onslaught-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 4 damage to your target. After this [engage](/docs/battles/adventurer-turn/engage), gain a [Bane](/docs/battles/status-effects/bane) status die. |
-| <img src="/icons/skills/two-handed/onslaught-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 5 damage to your target.                                                                                                                         |
+| <img src="/icons/skills/two-handed/onslaught-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Deal 5 damage to your target.                                                                                                                         |
 
 ## Level 3
 
