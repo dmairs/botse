@@ -5,3 +5,11 @@ hoverText: At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossar
 ---
 
 At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all allied units in [sight](/docs/glossary/sight) [heal](/docs/glossary/healing) for #.
+
+---
+
+:::info
+**Does a unit with Ritual heal itself?**
+
+No, units are not considered allies of themselves.
+:::

@@ -10,6 +10,12 @@ Note that some class abilities are not actions. These class abilities have eithe
 
 ---
 
+:::info
+**Do I have to use an Enduring or Innate ability?**
+
+No, both Enduring and Innate abilities are optional.
+:::
+
 :::tip[FAQ]
 **When can class abilities be triggered?**
 
