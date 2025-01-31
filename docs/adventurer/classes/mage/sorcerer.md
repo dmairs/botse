@@ -8,7 +8,7 @@ hoverText: ""
 
 **Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2 [enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment) active at the same time.
 
-**Innate Ability**: If you start your in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                             |
 | ------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: If you start your in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity) or remove 1 light [fatigue](/docs/glossary/fatigue) from your [cooldown track](/docs/glossary/cooldown-track).
+**Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity) or remove 1 light [fatigue](/docs/glossary/fatigue) from your [cooldown track](/docs/glossary/cooldown-track).
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                               | Upgrade effect                                                    |
 | ------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
