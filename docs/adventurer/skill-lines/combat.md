@@ -13,3 +13,29 @@ The Combat skill line cannot be untrained. Combat dice can be untrained in the [
 :::info
 Although Combat is shown among a [race's](/docs/adventurer/races/index) starting attributes, it is a [skill line](/docs/adventurer/skill-lines/index) and not a [stat](/docs/adventurer/stats).
 :::
+
+---
+
+Combat skills represent raw damage output or defense. Combat skill dice results have different meanings depending on your current [battle form](/docs/battles/battle-forms/index/). Combat skill dice can be rolled in any form except for [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic).
+
+## Level 1
+
+### [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) Combat
+
+**Dice Supply:** 14
+
+<img src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
+
+| Icon                                                                 | Ability                                                                                                                                                        |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X damage to your [target](/docs/glossary/targetable). |
+
+### [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) Combat
+
+**Dice Supply:** 14
+
+<img src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
+
+| Icon                                                                 | Ability                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |

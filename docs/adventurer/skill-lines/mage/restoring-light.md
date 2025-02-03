@@ -3,15 +3,23 @@ id: restoring-light
 title: Restoring Light
 ---
 
+**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+
+**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+
 ## Level 1
 
 ### Purge
+
+**Dice Supply:** 1
 
 | Icon                                                                         | Ability                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/restoring-light/purge.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At any time, you may exhaust this die to remove 1 status die from a [party](/docs/glossary/party) member and heal them for 1 HP. |
 
 ### Hasty Prayer
+
+**Dice Supply:** 1
 
 | Icon                                                                                | Ability                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,6 +28,8 @@ title: Restoring Light
 ## Level 2
 
 ### Breath of Life
+
+**Dice Supply:** 2
 
 <img src="/icons/skills/restoring-light/breath-of-life-all-results.png" className="skill-icon" />
 
@@ -31,6 +41,8 @@ title: Restoring Light
 
 ### Honor the Dead
 
+**Dice Supply:** 1
+
 <img src="/icons/skills/restoring-light/honor-the-dead-all-results.png" className="skill-icon" />
 
 | Icon                                                                                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -38,6 +50,8 @@ title: Restoring Light
 | <img src="/icons/skills/restoring-light/honor-the-dead.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die in any [adventuer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track). At the end of their turn, [heal](/docs/glossary/healing) them for X HP and reduce this die by 1. If this die would be reduced to 0, apply a [Stealth](/docs/battles/status-effects/stealth) status die to them and [drain](/docs/glossary/drained) this die. |
 
 ### Rushed Ceremony
+
+**Dice Supply:** 1
 
 | Icon                                                                                     | Ability                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,6 +61,8 @@ title: Restoring Light
 
 ### Rite of Passage
 
+**Dice Supply:** 1
+
 | Icon                                                                                   | Ability                                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/restoring-light/rite-of-passage.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After resolving your [Recovery step](/docs/battles/adventurer-turn/) you may [drain] this die. Your turn immediately ends. For the rest of the round, you cannot lose HP or gain status dice. At the end of the round, heal all adventurers to their full HP. |
@@ -54,6 +70,8 @@ title: Restoring Light
 ## Level 4
 
 ### Master Ritualist
+
+**Dice Supply:** 1
 
 | Icon                                                                                    | Ability                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

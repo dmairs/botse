@@ -7,6 +7,10 @@ tags:
 
 The legerdemain line is unique in that it costs no [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) to use, but it is situational in its application. When a die's text indicates it may be rolled, you may choose whether to roll the die and apply the results. Dice are returned to your attribute rows after use.
 
+**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+
+**Required Battle Form:** None
+
 ## Level 1
 
 ### Locksmith

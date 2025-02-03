@@ -13,6 +13,8 @@
   --ifm-color-primary-light: #980000;
   --ifm-color-primary-lighter: #9f0000;
   --ifm-color-primary-lightest: #b30000;
+  --ifm-container-width-xl: 1600px;
+  --ifm-container-width: 1280px;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */

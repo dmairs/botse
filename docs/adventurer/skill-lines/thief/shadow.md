@@ -3,6 +3,10 @@ id: shadow
 title: Shadow
 ---
 
+**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+
+**Required Battle Form:** None
+
 ## Level 1
 
 ### Shadow Cloak

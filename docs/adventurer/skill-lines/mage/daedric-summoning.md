@@ -3,9 +3,15 @@ id: daedric-summoning
 title: Daedric Summoning
 ---
 
+**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+
+**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+
 ## Level 1
 
 ### Daedric Curse
+
+**Dice Supply:** 1
 
 <img src="/icons/skills/daedric-summoning/daedric-curse-all-results.png" className="skill-icon" />
 
@@ -15,6 +21,8 @@ title: Daedric Summoning
 | <img src="/icons/skills/daedric-summoning/daedric-curse-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 1 [true damage](/docs/glossary/true-damage) to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy). Then, any single [adventurer](/docs/glossary/adventurer) may trigger 1 of their [class abilities](/docs/battles/adventurer-turn/class-ability) that cost 2 [tenacity](/docs/glossary/tenacity) or less for [free](/docs/glossary/free). |
 
 ### Bound Armaments
+
+**Dice Supply:** 2
 
 | Icon                                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -33,6 +41,8 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 
 ### Power Stone
 
+**Dice Supply:** 1
+
 <img src="/icons/skills/daedric-summoning/power-stone-all-results.png" className="skill-icon" />
 
 | Icon                                                                                 | Ability                                                                                                                                                                                                                                            |
@@ -40,6 +50,8 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 | <img src="/icons/skills/daedric-summoning/power-stone.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): You may change the result of up to X other skill dice you rolled this [engage](/docs/battles/adventurer-turn/engage) to a side of your choice. |
 
 ### Expert Summoner
+
+**Dice Supply:** 1
 
 <img src="/icons/skills/daedric-summoning/expert-summoner-all-results.png" className="skill-icon" />
 
@@ -51,6 +63,8 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 
 ### Summon
 
+**Dice Supply:** 2
+
 | Icon                                                                              | Ability                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/daedric-summoning/summon-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Deploy [companion](/docs/glossary/companion) unit: **Clannfear** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. The Clannfear is a companion controlled by you. This companion is removed at the end of battle. |
@@ -59,6 +73,8 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 ## Level 4
 
 ### Tempered Soul
+
+**Dice Supply:** 1
 
 | Icon                                                                                   | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

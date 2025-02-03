@@ -3,9 +3,15 @@ id: one-hand-and-shield
 title: One Hand and Shield
 ---
 
+**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+
+**Required Battle Form:** [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)
+
 ## Level 1
 
 ### Shield Discipline
+
+**Dice Supply:** 7
 
 <img src="/icons/skills/one-hand-and-shield/shield-discipline-all-results.png" className="skill-icon" />
 
@@ -17,6 +23,8 @@ title: One Hand and Shield
 
 ### Heroic Slash
 
+**Dice Supply:** 2
+
 | Icon                                                                                      | Ability                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/heroic-slash-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Shield Discipline die in your [active slots](/docs/glossary/active-slot).                                                     |
@@ -26,11 +34,15 @@ title: One Hand and Shield
 
 ### Defensive Posture
 
+**Dice Supply:** 1
+
 | Icon                                                                                         | Ability                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/defensive-posture.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After you are [engaged](/docs/battles/enemy-turn) by an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), roll 1 enemy Combat diefor each damage dealt to you. Deal the rolled damage back to the enemy. Then, exhaust this die. |
 
 ### Shield Charge
+
+**Dice Supply:** 1
 
 | Icon                                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,6 +52,8 @@ title: One Hand and Shield
 ## Level 4
 
 ### Power Bash
+
+**Dice Supply:** 1
 
 | Icon                                                                                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
