@@ -7,7 +7,7 @@ const config: Config = {
     "Unofficial references for The Elder Scrolls:Betrayal of the Second Era",
   favicon: "img/favicon.ico",
 
-  url: "https://botse.pages.dev",
+  url: "https://botse-helper.com",
   baseUrl: "/",
   trailingSlash: true,
   organizationName: "dmairs",
@@ -80,6 +80,10 @@ const config: Config = {
           label: "Tools",
           position: "left",
           items: [
+            {
+              to: "https://app.botse-helper.com",
+              label: "BOTSE Tracker",
+            },
             {
               to: "enemy-skills-tracker",
               label: "Enemy Skills Tracker",
