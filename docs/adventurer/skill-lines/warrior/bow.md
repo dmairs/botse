@@ -3,9 +3,15 @@ id: bow
 title: Bow
 ---
 
+**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+
+**Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
+
 ## Level 1
 
 ### Snipe
+
+**Dice Supply:** 4
 
 <img src="/icons/skills/bow/snipe-all-results.png" className="skill-icon" />
 
@@ -17,11 +23,15 @@ title: Bow
 
 ### Volley
 
+**Dice Supply:** 1
+
 | Icon                                                              | Ability                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/bow/volley.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal a total of 4 damage, distributed as you choose among [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you. Then, [place](/docs/glossary/move-or-place) yourself in an [unoccupied](/docs/glossary/occupied) hex 2-4 hexes away from your current hex. |
 
 ### Acid Spray
+
+**Dice Supply:** 1
 
 | Icon                                                                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -31,11 +41,15 @@ title: Bow
 
 ### Vinedusk Training
 
+**Dice Supply:** 2
+
 | Icon                                                                         | Ability                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/vinedusk-training.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the [start of your turn](/docs/battles/adventurer-turn/), you may exhaust this die to [recover](/docs/glossary/recover) up to 2 Bow skill dice, or up to 3 if they are all Snipe dice. |
 
 ### Rapid Fire
+
+**Dice Supply:** 2
 
 | Icon                                                                    | Ability                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,6 +57,8 @@ title: Bow
 | <img src="/icons/skills/bow/rapid-fire-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage). Then, recover those dice, replacing them with light [fatigue](/docs/glossary/fatigue). |
 
 ### Arrow Barrage
+
+**Dice Supply:** 1
 
 | Icon                                                                       | Ability                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,6 +68,8 @@ title: Bow
 ## Level 4
 
 ### Scatter Shot
+
+**Dice Supply:** 1
 
 | Icon                                                                    | Ability                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

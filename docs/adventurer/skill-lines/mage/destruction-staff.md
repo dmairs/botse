@@ -3,9 +3,15 @@ id: destruction-staff
 title: Destruction Staff
 ---
 
+**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+
+**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+
 ## Level 1
 
 ### Force Shock
+
+**Dice Supply:** 4
 
 | Icon                                                                                   | Ability                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,6 +23,8 @@ title: Destruction Staff
 
 ### Wall of Elements
 
+**Dice Supply:** 2
+
 | Icon                                                                                        | Ability                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/wall-of-elements-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Apply a [Daze](/docs/battles/status-effects/daze) status die to up to 2 [enemies](/docs/glossary/enemy) in [range](/docs/glossary/range), including [quest enemies](/docs/glossary/quest-unit).                                         |
@@ -24,6 +32,8 @@ title: Destruction Staff
 | <img src="/icons/skills/destruction-staff/wall-of-elements-3.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Apply a [Fear](/docs/battles/status-effects/fear) status die to 1 [enemy](/docs/glossary/enemy) in [range](/docs/glossary/range) and deal 1 [true damage](/docs/glossary/true-damage) to any 1 [adventurer](/docs/glossary/adventurer). |
 
 ### Destructive Touch
+
+**Dice Supply:** 2
 
 | Icon                                                                                         | Ability                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -35,6 +45,8 @@ title: Destruction Staff
 
 ### Pulsar
 
+**Dice Supply:** 1
+
 | Icon                                                                              | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/pulsar-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 [true damage](/docs/glossary/true-damage) to your target. Then, apply a [Blind](/docs/battles/status-effects/blind) status die to it. After this [engage](/docs/battles/adventurer-turn/engage), gain a Blind status die yourself.                                                                                                                                             |
@@ -42,11 +54,15 @@ title: Destruction Staff
 
 ### Elemental Drain
 
+**Dice Supply:** 1
+
 | Icon                                                                                     | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/elemental-drain.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Apply this die to your target. When the [enemy](/docs/glossary/enemy) this die is applied to is [defeated](/docs/glossary/defeated), apply this die to an enemy [adjacent](/docs/glossary/adjacent) to it. Then, deal that new enemy 2 [true damage](/docs/glossary/true-damage). If there are no adjacent enemies when this skill would trigger, [recover](/docs/glossary/recover) this die. |
 
 ### Elemental Rage
+
+**Dice Supply:** 1
 
 <img src="/icons/skills/destruction-staff/elemental-rage-all-results.png" className="skill-icon" />
 
@@ -57,6 +73,8 @@ title: Destruction Staff
 ## Level 4
 
 ### Ancient Knowledge
+
+**Dice Supply:** 1
 
 | Icon                                                                                       | Ability                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
