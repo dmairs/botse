@@ -7,7 +7,7 @@ const config: Config = {
     "Unofficial references for The Elder Scrolls:Betrayal of the Second Era",
   favicon: "img/favicon.ico",
 
-  url: "https://botse.pages.dev",
+  url: "https://bote-helper.com",
   baseUrl: "/",
   trailingSlash: true,
   organizationName: "dmairs",
