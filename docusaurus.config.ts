@@ -44,9 +44,18 @@ const config: Config = {
         glossaryFilepath: ".glossary.md",
       },
     ],
-    require.resolve("@easyops-cn/docusaurus-search-local"),
   ],
   themeConfig: {
+    algolia: {
+      appId: "MGWXDK9XAV",
+      apiKey: "f5bc8a4afdd20ef7754fa018b947a2f7",
+      indexName: "botse",
+
+      contextualSearch: true,
+      externalUrlRegex: "external\\.com|domain\\.com",
+      searchParameters: {},
+      searchPagePath: "search",
+    },
     colorMode: {
       defaultMode: "light",
       disableSwitch: false,
