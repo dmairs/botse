@@ -18,4 +18,8 @@ Place the skyshard card near the delve encounter text to show the total number t
 
 :::info
 Skyshard XP rewards in delves are gained after an encounter with an Uncover objective even if the encounter was failed, so long as the party was not defeated.
+
+**Can I choose not to pick up a Skyshard?**
+
+No, when you enter a tile with a skyshard you must pick it up. Even if the delve has a battle objective that does not relate to Skyshards.
 :::
