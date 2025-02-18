@@ -67,28 +67,18 @@ const config: Config = {
       logo: {
         alt: "Logo for BOTSE Helper",
         src: "img/logo.svg",
+        href: "https://botse-helper.com/docs",
       },
       items: [
         {
-          type: "doc",
+          to: "https://app.botse-helper.com",
           position: "left",
-          docId: "overview",
-          label: "Docs",
+          label: "BOTSE Tracker",
         },
         {
-          type: "dropdown",
-          label: "Tools",
+          to: "enemy-skills-tracker",
           position: "left",
-          items: [
-            {
-              to: "https://app.botse-helper.com",
-              label: "BOTSE Tracker",
-            },
-            {
-              to: "enemy-skills-tracker",
-              label: "Enemy Skills Tracker",
-            },
-          ],
+          label: "Enemy Skills Tracker",
         },
       ],
     },
