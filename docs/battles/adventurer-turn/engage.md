@@ -64,4 +64,16 @@ Only a unit's target is considered to be engaged. If a unit deals damage to a no
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292499" target="_blank">Source</a>
 
+---
+
+**How are dice and damage resolved on your turn?**
+
+During an engagement, resolve dice one at a time. But damage and damage prevention are pooled and applied to the affected enemy after you resolve the last die of the engage that deals damage to that enemy.
+
+For dice that require a target, or for a unit to be targetable/adjacent/within range/within sight etc, the unit must be in the proper position at the time the die is resolved - not necessarily when the damage is applied.
+
+For the sake of some skills and abilities (most notably, the enemy skill Dodge), you may need to determine which dice you are resolving, and how you are resolving them, before you begin to resolve any dice. This is explained in the rulebook on pg. 60 by breaking down the "Resolve the Roll" step into the following sub-steps: first, a) Determine the results to resolve, then b) Resolve abilities.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293108" target="_blank">Source</a>
+
 :::
