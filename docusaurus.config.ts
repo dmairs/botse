@@ -67,7 +67,7 @@ const config: Config = {
       logo: {
         alt: "Logo for BOTSE Helper",
         src: "img/logo.svg",
-        href: "https://botse-helper.com/docs",
+        href: "/docs",
       },
       items: [
         {
