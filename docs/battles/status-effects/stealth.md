@@ -10,6 +10,8 @@ tags:
 
 This [unit](/docs/glossary/unit) can only be [targeted](/docs/glossary/targetable) by opposing units that were [adjacent](/docs/glossary/adjacent) to it at the start of the current [turn](/docs/glossary/turn). After this unit deals damage, this die is removed.
 
+---
+
 :::tip[FAQ]
 **Is stealth maintained if I use a skill that "defeats" an enemy?**
 

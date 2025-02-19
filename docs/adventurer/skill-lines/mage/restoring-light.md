@@ -77,6 +77,8 @@ title: Restoring Light
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/restoring-light/master-ritualist.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After an [adventurer](/docs/glossary/adventurer) is [defeated](/docs/glossary/defeated), including yourself, you may immediately [drain](/docs/glossary/drain) this die and set that adventurer's HP to 5 (may exceed [Health](/docs/adventurer/stats/health) stat). |
 
+---
+
 :::tip[FAQ]
 **Master Ritualist - Where do you resurrect?**
 
