@@ -45,8 +45,6 @@ No, you must finish the engage action first and then if during the engage an ene
 :::tip[FAQ]
 **Can the Spirit Guardian companion maintain HP above its stat between battles?**
 
-#### In Combat
-
 Yes. On the master side, you can use the Bone Armor class ability to add HP above a party member's Health stat (and there are other ways for units to gain HP above their Health stat as well). The companion summoned by Spirit Guardian maintains its HP between battles (per the ability's text), and that includes if its HP is above its Health stat.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Source</a>
