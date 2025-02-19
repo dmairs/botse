@@ -8,6 +8,14 @@ hoverText: ""
 
 **Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2 [enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment) active at the same time.
 
+:::info
+**Does the Sorcerer need to have activated all of the enchantments themself?**
+
+No, enchantments can be activated by any adventurer.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1336010057359298653" target="_blank">Source</a>
+:::
+
 **Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                             |

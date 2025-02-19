@@ -13,8 +13,7 @@ After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), i
 
 It will not deploy an enemy.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329502622369189978
-" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329502622369189978" target="_blank">Source</a>
 
 ---
 
@@ -28,8 +27,8 @@ The new enemy takes a turn if its timing hasn't passed yet. So if a level 20 bri
 
 **If an enemy is defeated but not removed (or is flipped to the other side), will Rally trigger? e.g. High Rock endgame**
 
-The unit is defeated, and Rally triggers on defeat, so Rally still triggers even though the chip stays on the mat.
+No, since the hex that that Rallied unit would deploy to is already occupied then Rally will not trigger.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329537681754951792" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331057081750650890" target="_blank">Source</a>
 
 :::

@@ -11,7 +11,15 @@ hoverText: ""
 **Innate Ability**: If at least 1 enemy took damage during your engage, place 1 HP chip here (max of 6). This is your Necrosis Stack.
 
 :::info
+**When are chips removed from the Necrosis Stack?**
+
 Chips in the Necrosis Stack are not removed at end of battle or end day. They persist until the end of session cleanup.
+
+**Are you able to add HP chips to your Necrosis Stack during an engage?**
+
+No, you must finish the engage action first and then if during the engage an enemy took damage you add a chip.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1339257250170277918" target="_blank">Source</a>
 :::
 
 | Tenacity Cost | Name               | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

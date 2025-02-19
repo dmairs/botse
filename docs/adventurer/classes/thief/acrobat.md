@@ -29,3 +29,13 @@ hoverText: ""
 | 2             | Tumbling         | **[Interrupt](/docs/glossary/interrupt):** When you would be dealt any amount of damage, you may drain a die anywhere on your adventurer mat to prevent that damage.                                                                | Removes battle form requirement     |
 | 3             | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                  | —                                   |
 | 3             | Quick Recovery   | Resolve a Recovery step.                                                                                                                                                                                                            | Tenacity cost<br/>(4 → 3)           |
+
+---
+
+:::info
+**Can I drain an fatigue or status die using the Tumbling ability?**
+
+No, you must drain a skill die.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334931433562570825" target="_blank">Source</a>
+:::

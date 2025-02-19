@@ -43,3 +43,13 @@ When your adventurer triggers an exploration of a hex, you draw a delve card, co
    - If there are more enemies in the challenge scale than there are <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" className="icon-svg" /> hexes, the remaining enemies on the challenge scale are not deployed. If the EP is used up, no more enemies are deployed even if there are still enemies on the challenge scale.
 
 6. **Place Card:** If the card has a skyshard icon (<img src="/icons/skyshard.svg" alt="Skyshard Icon" className="icon-svg" />), environment effect, or [trap](/docs/glossary/trap) that applies to the revealed tile, place the card faceup next to its tile. Otherwise, discard it.
+
+---
+
+:::info
+**When deploying enemies to a new tile, does the EP value of previously deployed enemies reduce the EP value?**
+
+No, you calculate a brand new EP for each delve tile placed.
+
+<a href="https://boardgamegeek.com/thread/3445727/article/45568288#45568288" target="_blank">Source</a>
+:::

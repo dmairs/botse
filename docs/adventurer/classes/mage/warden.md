@@ -11,6 +11,8 @@ hoverText: ""
 **Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
 
 :::info
+**Can you summon both Diving Cliff Racer and Feral Guardian?**
+
 Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
 :::
 

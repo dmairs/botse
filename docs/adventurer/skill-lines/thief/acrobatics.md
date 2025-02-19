@@ -21,6 +21,14 @@ The Acrobatics line is unique in that its effects are all active while the line'
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/acrobatics/fleet-phantom.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in our cooldown track, you [may](/docs/glossary/may) move up to X hexes at the [start of your turn](/docs/battles/adventurer-turn/). |
 
+:::info
+**Can I use Fleet Phantom to get adjacent to an Elusive enemy and be eligible to damage it?**
+
+Yes, since both share the same timing; "at the start of your turn" - you may choose to resolve Fleet Phantom's ability prior to checking for adjacency for [Elusive](/docs/battles/enemy-skills/elusive).
+
+<a href="https://boardgamegeek.com/thread/3455682/article/45612411#45612411" target="_blank">Source</a>
+:::
+
 ## Level 2
 
 ### Rapid Maneuver
@@ -31,6 +39,14 @@ The Acrobatics line is unique in that its effects are all active while the line'
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/acrobatics/rapid-maneuver-1.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, you may move through [enemies](/docs/glossary/enemy). After moving, deal 2 damage to each enemy you moved through.                        |
 | <img src="/icons/skills/acrobatics/rapid-maneuver-2.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, you may move through [enemies](/docs/glossary/enemy). After moving, [heal](/docs/glossary/healing) 1 HP for each enemy you moved through. |
+
+:::info
+**If you move through the same enemy multiple times during a single move action, does this deal damage per occurrence?**
+
+Each enemy is only damaged once, regardless of how many times you move through them during a single move action.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331034699665117298" target="_blank">Source</a>
+:::
 
 ### Relentlessness
 
@@ -79,3 +95,11 @@ The Acrobatics line is unique in that its effects are all active while the line'
 | Icon                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/acrobatics/defiance.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, once per [engage](/docs/battles/adventurer-turn/engage), you may reroll any 1 of your skill dice that results in a [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity). You still gain the tenacity from the initial result. |
+
+:::info
+**Can I benefit from the reroll Defiance provides during the same engage that it has been placed into the cooldown track?**
+
+Yes, you are allowed to use the reroll the same turn, as long as you do it before resolving any more dice.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1340036564134133841" target="_blank">Source</a>
+:::

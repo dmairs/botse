@@ -14,6 +14,8 @@ Note that some class abilities are not actions. These class abilities have eithe
 **Do I have to use an Enduring or Innate ability?**
 
 No, both Enduring and Innate abilities are optional.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334224732534472714" target="_blank">Source</a>
 :::
 
 :::tip[FAQ]

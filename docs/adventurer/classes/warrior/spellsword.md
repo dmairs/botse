@@ -12,6 +12,17 @@ hoverText: ""
 
 :::info
 This engage is treated as a [free](/docs/glossary/free) [engage](/docs/battles/adventurer-turn/engage). You don't gain [fatigue](/docs/glossary/fatigue) for performing it. You may change [battle forms](/docs/battles/battle-forms/index).
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329532592290267137" target="_blank">Source</a>
+
+---
+
+**Can I use an item for the Innate ability?**
+
+Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll it, and it doesn't count towards the number of engages you've taken that turn for the purpose of having to take light fatigue.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334945968281620574" target="_blank">Source</a>
+
 :::
 
 | Tenacity Cost | Name                   | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

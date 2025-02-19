@@ -12,4 +12,6 @@ At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), al
 **Does a unit with Ritual heal itself?**
 
 No, units are not considered allies of themselves.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1338603859689340940" target="_blank">Source</a>
 :::

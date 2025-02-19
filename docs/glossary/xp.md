@@ -15,5 +15,7 @@ The party's total gained XP is tracked by the XP dial. An adventurer's unspent s
 :::info
 **Can you go above 40 XP?**
 
-Yes, you are not limited by the dial.
+Yes, you are not limited by the dial. Flip the dial, and add 40 to the number display when calculating XP.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329516699229229107" target="_blank">Source</a>
 :::

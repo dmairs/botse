@@ -25,3 +25,19 @@ Status effects are removed from all other [units](/docs/glossary/unit), includin
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290394" target="_blank">Source</a>
 :::
+
+:::info
+**Can you have the same status effect multiple times?**
+
+No, you can only have one instance of a status effect. If an [adventurer](/docs/glossary/adventurer) would gain a status effect die with a side that they already have in their cooldown track, the die in their cooldown track is removed from its current position and placed back in the leftmost open position.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Source</a>
+
+---
+
+**Can you have multiple different status effects?**
+
+Yes.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Source</a>
+:::

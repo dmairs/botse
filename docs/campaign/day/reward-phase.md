@@ -41,3 +41,13 @@ Each adventurer may spend [XP](/docs/glossary/xp) on advancements. An adventurer
 ## 4. Track Quests
 
 Track any progress made toward the party's quests that requires notes in the party's journal, such as tallying encounters.
+
+---
+
+:::info
+**Does a defeated adventurer still gain XP for an encounter?**
+
+Yes, all adventurers get rewards if the encounter was successful, even if they themselves were defeated.
+
+<a href="https://boardgamegeek.com/thread/3442027/article/45495467#45495467" target="_blank">Source</a>
+:::

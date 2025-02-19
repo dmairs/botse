@@ -70,6 +70,14 @@ title: Destruction Staff
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/elemental-rage.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Choose a [cache](/docs/glossary/cache) in [range](/docs/glossary/range) and deal a total of X damage distributed as you choose among [units](/docs/glossary/unit) within 2 hexes of that cache. Then, [discard](/docs/glossary/discard) the cache from play. |
 
+:::info
+**Can Elemental Rage damage an Elusive enemy even if I did not start my turn adjacent to them?**
+
+The wording of Elemental Rage is "Choose a cache in range, and deal a total of X damage distributed as you choose among units within 2 hexes of that cache." Your unit is still the one dealing the damage, so Elusive cannot be gotten around with this particular skill.
+
+<a href="https://boardgamegeek.com/thread/3451904/article/45579652#45579652" target="_blank">Source</a>
+:::
+
 ## Level 4
 
 ### Ancient Knowledge

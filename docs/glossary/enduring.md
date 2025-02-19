@@ -12,4 +12,6 @@ This [class ability](/docs/battles/adventurer-turn/class-ability) does not requi
 **Do I have to use an Enduring ability?**
 
 No, Enduring abilities are optional.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334224732534472714" target="_blank">Source</a>
 :::

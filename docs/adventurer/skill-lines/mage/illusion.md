@@ -56,6 +56,8 @@ Illusion dice are used in a number of ways, and each has specific rules. They ar
 
 :::info
 Mayhem goes before skills that actually trigger. It does not turn off passive abilities.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1332431687073796098" target="_blank">Source</a>
 :::
 
 ### Voice of Rapture
