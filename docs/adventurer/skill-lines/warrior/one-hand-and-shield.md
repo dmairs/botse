@@ -40,6 +40,22 @@ title: One Hand and Shield
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/one-hand-and-shield/defensive-posture.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After you are [engaged](/docs/battles/enemy-turn) by an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), roll 1 enemy Combat die for each damage dealt to you. Deal the rolled damage back to the enemy. Then, exhaust this die. |
 
+:::info
+**Is this skill mandatory to trigger if I am engaged?**
+
+No, it is optional.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Source</a>
+
+---
+
+**Would damage dealt by this skill trigger [Riposte](/docs/battles/enemy-skills/riposte)?**
+
+Yes.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Source</a>
+:::
+
 ### Shield Charge
 
 **Dice Supply:** 1
