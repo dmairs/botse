@@ -9,7 +9,7 @@ This [class ability](/docs/battles/adventurer-turn/class-ability) does not requi
 ---
 
 :::tip[FAQ]
-**Do I have to use an Enduring?**
+**Do I have to use an Enduring ability?**
 
 Even if they do not use the word "may", innate abilities (from class sheets) as well as any "Enduring" class abilities, are optional. You are not forced to use them if you do not want to.
 
