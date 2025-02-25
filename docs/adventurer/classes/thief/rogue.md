@@ -30,3 +30,13 @@ hoverText: ""
 | 3             | Timely Escape   | [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) or [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) **[Enduring](/docs/glossary/enduring):** Once per turn, you may reroll an enemy's engage that targets you. | —                           |
 | 3             | Caltrops        | Move up to 3 hexes. Then, each non-quest enemy [adjacent](/docs/glossary/adjacent) to you rolls an engage against itself, ignoring its skills.                                                                                                                                                                                                                            | —                           |
 | 4             | Shadow Strike   | Deal a targetable enemy damage equal to the number of [fatigue](/docs/glossary/fatigue) dice in your cooldown track. If this damage defeats that enemy, remove up to 2 fatigue from your cooldown track.                                                                                                                                                                  | Allows removing overfatigue |
+
+---
+
+:::info
+**Can the "Veil of Shadows" ability be triggered when another unit defeats an enemy?**
+
+No, "After defeating a level 10/20 enemy" is the same as "After **you** defeat an enemy". Therefore, the Rogue must be the one to defeat an enemy for this class ability to be triggered.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Source</a>
+:::
