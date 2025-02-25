@@ -13,3 +13,12 @@ A guild of zealous assassins, these amoral professionals will take on any contra
 ### Guild Focus
 
 The party usually focuses on eliminating specific targets. This can take the form of unique battles or non-combat actions.
+
+---
+
+:::info
+**How does Mark of the Black Hand work?**
+
+When you apply the die to an adjacent enemy, the die is removed from your [ready slot](/docs/adventurer/items/inventory). To get another [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" class="icon-svg" />) status die, you need to take the GUild Kiosk Town Action.
+
+:::
