@@ -8,6 +8,10 @@ This [unit](/docs/glossary/unit) [cannot](/docs/glossary/cannot) lose more than 
 
 ---
 
-:::info
-"Cannot lose HP" is not damage prevention. This means Stalwart enemies can't lose more 1 HP regardless of source, e.g. [true damage](/docs/glossary/true-damage.md) doesn't override this.
+:::tip[FAQ]
+**How does Stalwart work?**
+
+If a unit can't lose HP, for example by having the enemy skill Stalwart, nothing can cause it to lose HP. This includes true damage. This isn't damage prevention like defense is, so no type of damage can override this. Only skills/abilities that would straight up [defeat](/docs/glossary/defeated) the unit outright can get around this (or the [Fear](/docs/battles/status-effects/fear) status effect, which would then allow you to ignore the skill entirely).
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293224" target="_blank">Source</a>
 :::
