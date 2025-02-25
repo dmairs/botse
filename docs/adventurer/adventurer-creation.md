@@ -19,7 +19,7 @@ Take the circular attribute tokens for the [Health](/docs/adventurer/stats/healt
 - The Health token has a numeric value; place it so the faceup side matches the starting value shown on your race sheet.
 - The Stamina and Magicka tokens do not have numeric values. Place them in their slots; then, place a number of square stat tokens of each stat's color equal to its starting value as shown on your race reference sheet in the square slots of its row, starting with the slot closest to the corresponding circular token.
 
-### 3. Add [Combat](/docs/adventurer/skill-lines/combat) Skill Line
+### 3. Add [Combat](/docs/adventurer/skill-lines/warrior/combat) Skill Line
 
 Take this skill line's circular token and place it in an open slot. Then, add the number of Combat skill dice shown on your race sheet to that row's square slots and place that line's reference sheet near your adventurer mat.
 

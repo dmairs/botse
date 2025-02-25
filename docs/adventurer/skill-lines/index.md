@@ -34,3 +34,4 @@ Additional skill lines and skill dice can both be added to an adventurer's mat a
 - [Heavy Armor](/docs/adventurer/skill-lines/warrior/heavy-armor)
 - [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield)
 - [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed)
+- [Combat](/docs/adventurer/skill-lines/warrior/combat)
