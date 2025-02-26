@@ -43,9 +43,9 @@ title: Bow
 
 **Dice Supply:** 2
 
-| Icon                                                                         | Ability                                                                                                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/bow/vinedusk-training.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the [start of your turn](/docs/battles/adventurer-turn/), you may exhaust this die to [recover](/docs/glossary/recover) up to 2 Bow skill dice, or up to 3 if they are all Snipe dice. |
+| Icon                                                                         | Ability                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="/icons/skills/bow/vinedusk-training.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the [start of your turn](/docs/battles/adventurer-turn/index/), you may exhaust this die to [recover](/docs/glossary/recover) up to 2 Bow skill dice, or up to 3 if they are all Snipe dice. |
 
 ### Rapid Fire
 

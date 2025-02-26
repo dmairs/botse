@@ -17,9 +17,9 @@ The Acrobatics line is unique in that its effects are all active while the line'
 
 <img src="/icons/skills/acrobatics/fleet-phantom-all-results.png" className="skill-icon" />
 
-| Icon                                                                            | Ability                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/acrobatics/fleet-phantom.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in our cooldown track, you [may](/docs/glossary/may) move up to X hexes at the [start of your turn](/docs/battles/adventurer-turn/). |
+| Icon                                                                            | Ability                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="/icons/skills/acrobatics/fleet-phantom.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in our cooldown track, you [may](/docs/glossary/may) move up to X hexes at the [start of your turn](/docs/battles/adventurer-turn/index/). |
 
 :::tip[FAQ]
 **Can I use Fleet Phantom to get adjacent to an Elusive enemy and be eligible to damage it?**
