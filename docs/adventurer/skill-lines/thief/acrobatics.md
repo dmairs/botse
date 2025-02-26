@@ -21,12 +21,12 @@ The Acrobatics line is unique in that its effects are all active while the line'
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/acrobatics/fleet-phantom.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in our cooldown track, you [may](/docs/glossary/may) move up to X hexes at the [start of your turn](/docs/battles/adventurer-turn/). |
 
-:::info
+:::tip[FAQ]
 **Can I use Fleet Phantom to get adjacent to an Elusive enemy and be eligible to damage it?**
 
-Yes, since both share the same timing; "at the start of your turn" - you may choose to resolve Fleet Phantom's ability prior to checking for adjacency for [Elusive](/docs/battles/enemy-skills/elusive).
+Fleet Phantom specifically grants its movement during start of turn. If a unit uses Fleet Phantom to get [adjacent](/docs/glossary/adjacent.md) to an enemy with [Elusive](/docs/battles/enemy-skills/elusive), it is considered to have been adjacent at the start of turn and any damage the adventurer deals is not prevented by Elusive.
 
-<a href="https://boardgamegeek.com/thread/3455682/article/45612411#45612411" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293233" target="_blank">Source</a>
 :::
 
 ## Level 2

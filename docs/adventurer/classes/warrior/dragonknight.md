@@ -29,3 +29,13 @@ hoverText: ""
 | 2             | Molten Weapons        | **[Interrupt](/docs/glossary/interrupt):** After rolling dice for your engage, if you are using a [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon), your Combat skill dice deal [true damage](/docs/glossary/true-damage) during this engage.                                                                                                                                                                                          | May be triggered after rolling dice |
 | 2             | Cauterize             | Gain 1 [overfatigue](/docs/glossary/fatigue) and recover up to 2 [drained](/docs/glossary/drained) dice.                                                                                                                                                                                                                                                                                                                                                                                            | —                                   |
 | 3             | Dragon Blood          | **[Enduring](/docs/glossary/enduring):** After any adventurer defeats an enemy, you may remove 2 light [fatigue](/docs/glossary/fatigue) or 1 overfatigue from your cooldown track.                                                                                                                                                                                                                                                                                                                 | Is triggered by any adventurer      |
+
+---
+
+:::info
+**Can an adventurer change battle form to perform the Dragonknight Standard ability?**
+
+No, only adventurer's already in [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon), or [<img src="/icons/ranged-weapon.svg" alt="Ranged Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) can perform this ability. The ability to change battle forms during a class ability is specific to the adventurer who's performing the class ability.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342165307027886250" target="_blank">Source</a>
+:::

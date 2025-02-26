@@ -59,6 +59,14 @@ title: Two Handed
 | <img src="/icons/skills/two-handed/balanced-blade-1.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): Each time you would gain an [overfatigue](/docs/glossary/fatigue), you may place it in an [active slot](/docs/glossary/active-slot), if possible. On your turn, if all of your active slots are full, you may [drain](/docs/glossary/drained) this die and deal 2 damage to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) for each overfatigue in your active slots. Then, place all overfatigue in your active slots back in the supply. |
 | <img src="/icons/skills/two-handed/balanced-blade-2.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): Each time you would gain [overfatigue](/docs/glossary/fatigue), you may place it in an [active slot](/docs/glossary/active-slot), if possible. As soon as all active slots are full, exhaust this die and place all overfatigue in your active slots back in the supply.                                                                                                                                                                                         |
 
+:::info
+**When can I use the "On your turn, if all of your active slots are full..." part of Balanced Blade?**
+
+"On your turn" without specifying that it's a separate action, can be done anytime on your turn including during an engage.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342170432945651894" target="_blank">Source</a>
+:::
+
 ### Cleave
 
 **Dice Supply:** 1

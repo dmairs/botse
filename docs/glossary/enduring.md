@@ -14,5 +14,4 @@ This [class ability](/docs/battles/adventurer-turn/class-ability) does not requi
 Even if they do not use the word "may", innate abilities (from class sheets) as well as any "Enduring" class abilities, are optional. You are not forced to use them if you do not want to.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293229" target="_blank">Source</a>
-
 :::

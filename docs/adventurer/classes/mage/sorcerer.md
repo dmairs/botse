@@ -44,4 +44,14 @@ No, enchantments can be activated by any adventurer.
 **Can you use Dark Exchange to remove the last HP from an enemy unit and defeat it?**
 
 Yes.
+
+---
+
+**Can you use the Novice Dark Exchange ability to recover HP?**
+
+"[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove 1 HP from yourself and from any [unit](/docs/glossary/unit) in [range](/docs/glossary/range). Add both chips to **any other unit** in range (may exceed [Health](/docs/adventurer/stats/health) stat)."
+
+No, you can't heal yourself using this ability. Since you must remove HP from yourself and another unit, and then apply those chips to **any other unit** - you are therefore unable to apply those chips to yourself. Note that the Master side of Dark Exchange does allowing healing yourself.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343996569476792372" target="_blank">Source</a>
 :::

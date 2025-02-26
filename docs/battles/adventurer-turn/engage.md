@@ -76,4 +76,11 @@ For the sake of some skills and abilities (most notably, the enemy skill Dodge),
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293108" target="_blank">Source</a>
 
+---
+
+**Can you roll skill dice, even if you can't resolve them?**
+
+Unless another game effect says you cannot (and following battle form and stamina/magicka restrictions), you can roll any skill dice on your turn, even if a possible result wouldn't be able to be resolved. An example of this is rolling a skill that requires a target, while not having a target. Generally this is done in order to try for tenacity results.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Source</a>
 :::
