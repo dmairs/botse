@@ -37,7 +37,7 @@ title: Iconography
 | <img src="/icons/maim.svg" alt="Maim Icon" />       | [Maim](/docs/battles/status-effects/maim)       |
 | <img src="/icons/stealth.svg" alt="Stealth Icon" /> | [Stealth](/docs/battles/status-effects/stealth) |
 
-### [Battle Forms](/docs/battle-forms)
+### [Battle Forms](/docs/battles/battle-forms/index)
 
 | Icon                                                            | Name                                                      |
 | --------------------------------------------------------------- | --------------------------------------------------------- |
@@ -55,7 +55,7 @@ title: Iconography
 | <img src="/icons/daedra.svg" alt="Daedra Icon" />     | Daedra   |
 | <img src="/icons/humanoid.svg" alt="Humanoid Icon" /> | Humanoid |
 
-### [Skill Line Types](/docs/adventurer/skill-lines)
+### [Skill Line Types](/docs/adventurer/skill-lines/index)
 
 | Icon                                                | Name                                            |
 | --------------------------------------------------- | ----------------------------------------------- |
@@ -65,22 +65,22 @@ title: Iconography
 
 ### Encounters
 
-| Icon                                                                    | Name              |
-| ----------------------------------------------------------------------- | ----------------- |
-| <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" />           | Conflict Outcome  |
-| <img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" />   | Peaceful Outcome  |
-| <img src="/icons/clash.svg" alt="Clash Icon" />                         | Clash             |
-| <img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon" />       | Unstable Clash    |
-| <img src="/icons/delve.svg" alt="Delve Icon" />                         | Delve             |
-| <img src="/icons/unstable-delve.svg" alt="Unstable Delve Icon" />       | Unstable Delve    |
-| <img src="/icons/peaceful.svg" alt="Peaceful Icon" />                   | Peaceful          |
-| <img src="/icons/unstable-peaceful.svg" alt="Unstable Peaceful Icon" /> | Unstable Peaceful |
+| Icon                                                                    | Name                                     |
+| ----------------------------------------------------------------------- | ---------------------------------------- |
+| <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" />           | Conflict Outcome                         |
+| <img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" />   | Peaceful Outcome                         |
+| <img src="/icons/clash.svg" alt="Clash Icon" />                         | [Clash](/docs/battles/types/clash)       |
+| <img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon" />       | Unstable Clash                           |
+| <img src="/icons/delve.svg" alt="Delve Icon" />                         | [Delve](/docs/battles/types/delve/index) |
+| <img src="/icons/unstable-delve.svg" alt="Unstable Delve Icon" />       | Unstable Delve                           |
+| <img src="/icons/peaceful.svg" alt="Peaceful Icon" />                   | Peaceful                                 |
+| <img src="/icons/unstable-peaceful.svg" alt="Unstable Peaceful Icon" /> | Unstable Peaceful                        |
 
 ### Map / Delve
 
 | Icon                                                                          | Name                                           |
 | ----------------------------------------------------------------------------- | ---------------------------------------------- |
-| <img src="/icons/common-item.svg" alt="Common Item Icon" />                   | Common Item / Cache                            |
+| <img src="/icons/common-item.svg" alt="Common Item Icon" />                   | Common Item / [Cache](/docs/glossary/cache)    |
 | <img src="/icons/door.svg" alt="Door Icon" />                                 | Door Icon                                      |
 | <img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" /> | Enemy Deployment Hex                           |
 | <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" />             | Legendary Item                                 |
@@ -88,10 +88,10 @@ title: Iconography
 
 ### Miscellaneous
 
-| Icon                                                      | Name                                           |
-| --------------------------------------------------------- | ---------------------------------------------- |
-| <img src="/icons/fatigue.svg" alt="Fatigue Round Icon" /> | [Fatigue Round](/docs/glossary/fatigue-damage) |
-| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/glossary/party-size)        |
-| <img src="/icons/tenacity.svg" alt="Tenacity Icon" />     | [Tenacity](/docs/glossary/tenacity)            |
-| <img src="/icons/town.svg" alt="Town Icon" />             | Town                                           |
-| <img src="/icons/xp.svg" alt="XP Icon" />                 | [XP](/docs/glossary/xp)                        |
+| Icon                                                      | Name                                            |
+| --------------------------------------------------------- | ----------------------------------------------- |
+| <img src="/icons/fatigue.svg" alt="Fatigue Round Icon" /> | [Fatigue Round](/docs/glossary/fatigue-damage)  |
+| <img src="/icons/party-size.svg" alt="Party Size Icon" /> | [Party Size](/docs/glossary/party-size)         |
+| <img src="/icons/tenacity.svg" alt="Tenacity Icon" />     | [Tenacity](/docs/glossary/tenacity)             |
+| <img src="/icons/town.svg" alt="Town Icon" />             | [Town](/docs/campaign/day/encounter-phase/town) |
+| <img src="/icons/xp.svg" alt="XP Icon" />                 | [XP](/docs/glossary/xp)                         |
