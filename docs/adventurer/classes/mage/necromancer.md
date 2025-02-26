@@ -15,6 +15,8 @@ hoverText: ""
 
 Chips in the Necrosis Stack are not removed at end of battle or end day. They persist until the end of session cleanup.
 
+---
+
 **Are you able to add HP chips to your Necrosis Stack during an engage?**
 
 No, you must finish the engage action first and then if during the engage an enemy took damage you add a chip.

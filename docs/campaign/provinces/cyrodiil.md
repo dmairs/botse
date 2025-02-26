@@ -31,4 +31,13 @@ The guilds that start you in Fort Warden are the [Mages Guild](/docs/campaign/gu
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292579" target="_blank">Source</a>
 
+---
+
+**Cyrodiil D04 (Mages Guild) - companions can't block enemies from spawning**
+
+By normal rules, if an enemy would deploy to a numbered hex that is already occupied, you would skip that hex and deploy the enemy to the next numbered hex instead. However, in this quest step, it is meant to be stated that if a numbered hex is occupied/blocked, the enemy deploys to the closest unoccupied hex.
+
+With so few numbered hexes on this map (4 as opposed to the normal 8), it's is not intended that you can just block those hexes to avoid the enemies deploying altogether.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293225" target="_blank">Source</a>
 :::
