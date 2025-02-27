@@ -67,6 +67,14 @@ Light Armor focuses on enhancing magic-based playstyles through the use of count
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/light-armor/annulment.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): You may reduce this die by 1 to prevent 1 [true damage](/docs/glossary/true-damage), by 2 to ignore gaining a [status](/docs/glossary/status-effect) die, or by 3 to ignore all of a non-[quest enemy's](/docs/glossary/quest-unit) skills, either when engaging or when being engaged. |
 
+:::info
+**Can I decrease this die multiple times in one engage?**
+
+Yes, you may use this die multiple times at once. For example to prevent multiple [true damage](/docs/glossary/true-damage), you count each of those separately for the sake of counting down the die. So you could only prevent 4 true damage with it, as when you reduce down from 2, it exhausts.
+
+<a href="https://boardgamegeek.com/thread/3444657/article/45542051#45542051" target="_blank">Source</a>
+:::
+
 ### Prodigy
 
 **Dice Supply:** 1
