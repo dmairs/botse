@@ -15,7 +15,7 @@ When this unit rolls Combat skill dice, the total damage rolled is reduced by ha
 :::info
 **Is damage rounded down per die or cumulative total of all damage dealt by Combat dice?**
 
-The damage is reduced for the total amount rolled. You sum the value of all rolled Combat dice and reduced by half (rounded down).
+The damage is reduced for the total amount of damage rolled. You sum the value of all rolled Combat dice and reduced by half (rounded down).
 
 ---
 
