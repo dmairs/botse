@@ -16,7 +16,7 @@ hoverText: ""
 | 1             | Arcane Alacrity  | [Place](/docs/glossary/move-or-place) yourself 2-4 hexes away from your current hex. Then, spend any amount of additional [tenacity](/docs/glossary/tenacity) to deal an [adjacent](/docs/glossary/adjacent) enemy damage equal to the additional tenacity spent.           |
 | 2             | Tumbling         | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) **[Interrupt](/docs/glossary/interrupt):** When you would be dealt any amount of damage, you may drain an available Combat die to prevent that damage. |
 | 3             | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                                                          |
-| 4             | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/).                                                                                                                                                                                                            |
+| 4             | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                 |
 
 ## Master
 
@@ -28,7 +28,7 @@ hoverText: ""
 | 1             | Arcane Alacrity  | [Place](/docs/glossary/move-or-place) yourself 2-4 hexes away from your current hex. Then, spend any amount of additional [tenacity](/docs/glossary/tenacity) to deal each [adjacent](/docs/glossary/adjacent) enemy damage equal to the additional tenacity spent. | Damage affects all adjacent enemies                 |
 | 2             | Tumbling         | **[Interrupt](/docs/glossary/interrupt):** When you would be dealt any amount of damage, you may drain a die anywhere on your adventurer mat to prevent that damage.                                                                                                | Removes battle form requirement. May drain any die. |
 | 3             | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                                                  | —                                                   |
-| 3             | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/).                                                                                                                                                                                                    | Tenacity cost<br/>(4 → 3)                           |
+| 3             | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                         | Tenacity cost<br/>(4 → 3)                           |
 
 ---
 

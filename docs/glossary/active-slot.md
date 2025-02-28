@@ -24,3 +24,11 @@ Some abilities can place a [fatigue](/docs/glossary/fatigue) die in an active sl
 ### Active Slot on Skill Abilities
 
 This skill die must be placed in 1 of your active slots (or, if specified by the skill, the active slot of another [adventurer](/docs/glossary/adventurer)). The die's ability is resolved as described in its entry, typically by reducing the die's value or removing it from its slot. When a die is removed from an active slot, it is exhausted unless its ability specifies otherwise.
+
+---
+
+:::info
+**When may I optionally choose to exhaust a skill die from an active slot?**
+
+At any point during your turn. This means, you may exhaust a die and move it to the [coodlown track](/docs/glossary/cooldown-track) prior to the [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).
+:::
