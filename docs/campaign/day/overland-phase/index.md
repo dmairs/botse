@@ -21,10 +21,19 @@ Your party has a base overland movement of 3, which means the party can move its
 - **Fatigue Movement**: After using its base overland movement, the party may continue to move by gaining [fatigue](/docs/glossary/fatigue) for each additional hex of movement. For each additional hex of movement, each adventurer must gain 1 light fatigue. If no light fatigue dice are available, they gain 1 overfatigue instead. The number of additional hexes moved cannot exceed the party's base movement rate. The party must stop if 1 or more adventurers' cooldown tracks are full.
 
 :::info
-It is possible for the party to end its movement in a hex with no icon and trigger no encounter; these hexes without icons have no game effect.
+**Can you choose to stay at the same hex as the prior day?**
+
+Yes, movement is optional - so you may stay at the same hex as a previous day.
+
+---
+
+**Can you end a day on a hex without an icon?**
+
+Yes, it is possible for the party to end its movement in a hex with no icon and trigger no encounter; these hexes without icons have no game effect.
 :::
 
 :::tip[FAQ]
+
 **Can you move through landmarks?**
 
 You are permitted to move through landmarks on the overland map without triggering them. A landmark is triggered if the party ends its movement on it, same as [towns](/docs/campaign/day/encounter-phase/town).
