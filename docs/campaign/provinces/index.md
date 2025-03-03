@@ -22,6 +22,6 @@ Each province is represented by an overland map and gazetteer.
 
 | Name                                                         | Code | Native Skill |
 | ------------------------------------------------------------ | ---- | ------------ |
-| [Eslsweyr](/docs/campaign/provinces/unreleased/elsweyr)      | EL   | N/a          |
+| [Elsweyr](/docs/campaign/provinces/unreleased/elsweyr)       | EL   | N/a          |
 | [Hammerfell](/docs/campaign/provinces/unreleased/hammerfell) | HF   | N/a          |
 | [Summerset](/docs/campaign/provinces/unreleased/summerset)   | SU   | N/a          |

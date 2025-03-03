@@ -1,7 +1,7 @@
 ---
 id: discard
 title: Discard
-hoverText: Cards are discarded to a seperate discard stack. Dice return to the supply. Defeated enemy chips go to a defeated enemy stack. Other chips go to the appropriate draw bag or supply.
+hoverText: Cards are discarded to a separate discard stack. Dice return to the supply. Defeated enemy chips go to a defeated enemy stack. Other chips go to the appropriate draw bag or supply.
 ---
 
 When a player is instructed to discard a card, die, or chip, they do the following:

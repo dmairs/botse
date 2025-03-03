@@ -1,5 +1,5 @@
 ---
-id: iconograpy
+id: iconography
 title: Iconography
 ---
 

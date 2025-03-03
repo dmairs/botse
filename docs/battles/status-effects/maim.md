@@ -21,7 +21,7 @@ The damage is reduced for the total amount of damage rolled. You sum the value o
 
 **If a unit rolls 1 damage on it's Combat skill dice, how much damage does it deal?**
 
-The 1 is halfed to 0.5, which rounded down is 0. Therefore, the unit will deal 0 damage.
+The 1 is halved to 0.5, which rounded down is 0. Therefore, the unit will deal 0 damage.
 
 ---
 
