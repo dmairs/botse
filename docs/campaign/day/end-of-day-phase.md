@@ -22,7 +22,7 @@ To do so, follow the substeps below in order:
 
 During this step, the adventurers [heal](/docs/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other.
 
-:::info[Expert Difficulty]
+:::warning[Expert Difficulty]
 On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable), the adventurer may resolve that item's effects before discarding it (if applicable).
 :::
 
@@ -35,6 +35,12 @@ On **Expert** difficulty, an adventurer must discard an item to resolve this ste
 
   - **Apprentice**: Remove 2 dice.
   - **Adept and Expert**: Remove 1 die.
+
+:::info
+**Can I remove [overfatigue](/docs/glossary/fatigue) dice?**
+
+Yes, you may remove any die from your cooldown track, including overfatigue.
+:::
 
 - Each adventurer may trade any number of item cards with other adventurers, move items freely between their ready slots and pack, and discard items.
 

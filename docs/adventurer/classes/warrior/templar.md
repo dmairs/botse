@@ -8,6 +8,12 @@ hoverText: ""
 
 **Upgrade**: Deal at least 4 damage and [heal](/docs/glossary/healing) at least 4 HP on the same turn, across any number of [units](/docs/glossary/unit).
 
+:::info
+**What counts as healing for at least 4 HP?**
+
+If a game effect depends on how much a unit healed, the amount considered is the amount of HP **actually gained**.
+:::
+
 **Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP.
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                              |

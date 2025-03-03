@@ -44,6 +44,13 @@ No, you must finish the engage action first and then if during the engage an ene
 
 ---
 
+:::info
+**Does HP granted by Bone Armor that exceeds an adventurer's max carry over between battles?**
+
+No, [adventurer](/docs/glossary/adventurer) [health](/docs/adventurer/stats/health) is reset to maximum during [end of battle cleanup](/docs/battles/end-of-battle).
+
+:::
+
 :::tip[FAQ]
 **Can the Spirit Guardian companion maintain HP above its stat between battles?**
 
