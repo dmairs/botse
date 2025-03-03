@@ -19,6 +19,12 @@ The damage is reduced for the total amount of damage rolled. You sum the value o
 
 ---
 
+**If a unit rolls 1 damage on it's Combat skill dice, how much damage does it deal?**
+
+The 1 is halfed to 0.5, which rounded down is 0. Therefore, the unit will deal 0 damage.
+
+---
+
 **How does Maim interact with rolling Combat dice in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) battle form?**
 
 Maim only interacts with damage dealt, so you may still freely roll Combat dice and place them in [active slots](/docs/glossary/active-slot).
