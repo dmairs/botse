@@ -8,7 +8,7 @@ hoverText: ""
 
 **Upgrade**: End a battle with 1 HP.
 
-**Innate Ability**: If there are more undefeated enemies than undefeated party members, ignore 1 defense on your target.
+**Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy) than undefeated [party members](/docs/glossary/party), ignore 1 defense on your target.
 
 | Tenacity Cost | Name                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: If there are more undefeated enemies than undefeated party members, you ignore 1 defense on all enemies.
+**Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy) than undefeated [party members](/docs/glossary/party), you ignore 1 defense on all enemies.
 
 | Tenacity Cost | Name                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Upgrade effect                      |
 | ------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
