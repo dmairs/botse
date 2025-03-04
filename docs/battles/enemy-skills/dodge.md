@@ -19,3 +19,9 @@ A die that deals damage after the engage (even if later that same turn), or adds
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290395" target="_blank">Source</a>
 :::
+
+:::info
+**Can I choose to not resolve dice that were rolled as part of an engage to avoid Dodge?**
+
+No, all dice you roll in an engage are counted towards Dodge. Even if you choose not to resolve the ability on the die.
+:::
