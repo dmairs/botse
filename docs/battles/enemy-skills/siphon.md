@@ -21,4 +21,12 @@ Untargetable units are still effected. Siphon is not a targeting skill and Steal
 
 <a href="https://boardgamegeek.com/thread/3464004/article/45684929#45684929" target="_blank">Source</a>
 
+---
+
+**Will a unit with Siphon remove it's last HP and defeat itself?**
+
+Siphon affects each other non-quest unit in range. It's not meant to defeat itself at 1 HP.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+
 :::
