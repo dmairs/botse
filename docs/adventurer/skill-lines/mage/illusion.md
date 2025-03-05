@@ -5,6 +5,8 @@ tags:
   - Valenwood
 ---
 
+# <img src="/icons/skills/illusion/icon.png" alt="Illusion" className="icon-svg" /> Illusion
+
 Illusion dice are used in a number of ways, and each has specific rules. They are most often placed as status counters or effects on enemies, allies, empty hexes, etc. Illusion skill dice still in play at the end of battle are exhausted.
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)

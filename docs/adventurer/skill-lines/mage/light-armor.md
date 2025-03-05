@@ -5,6 +5,8 @@ tags:
   - Valenwood
 ---
 
+# <img src="/icons/skills/light-armor/icon.png" alt="Light Armor" className="icon-svg" /> Light Armor
+
 Light Armor focuses on enhancing magic-based playstyles through the use of counters placed in [adventurer's](/docs/glossary/adventurer) [active slots](/docs/glossary/active-slot). When a skill die's value would reduce to a number not printed on the die, it is exhausted. You may choose not to exhaust active Light Armor dice at the end of battle, allowing them to persist between encounters.
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)

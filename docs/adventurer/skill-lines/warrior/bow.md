@@ -3,6 +3,8 @@ id: bow
 title: Bow
 ---
 
+# <img src="/icons/skills/bow/icon.png" alt="Bow" className="icon-svg" /> Bow
+
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)

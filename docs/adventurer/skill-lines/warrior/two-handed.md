@@ -3,6 +3,8 @@ id: two-handed
 title: Two Handed
 ---
 
+# <img src="/icons/skills/two-handed/icon.png" alt="Two Handed" className="icon-svg" /> Two Handed
+
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)
