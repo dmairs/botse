@@ -15,7 +15,7 @@ The effects of this [unit's](/docs/glossary/unit) non-[Combat](/docs/adventurer/
 :::tip[FAQ]
 **What are non-Combat skills?**
 
-All skills except the skill line called Combat that all adventurers have by default. So an enemy with Fear ignores all of its skills. And adventurer with Fear can only use their Combat skill line, no other skills.
+All skills except the skill line called Combat that all adventurers have by default. So an enemy with Fear ignores all of its skills. An adventurer with Fear can only use their Combat skill line, no other skills.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292468" target="_blank">Source</a>
 
