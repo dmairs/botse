@@ -3,6 +3,8 @@ id: one-hand-and-shield
 title: One Hand and Shield
 ---
 
+# <img src="/icons/skills/one-hand-and-shield/icon.png" alt="One Hand and Shield" className="icon-svg" /> One Hand and Shield
+
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)

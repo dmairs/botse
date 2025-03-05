@@ -3,6 +3,8 @@ id: daedric-summoning
 title: Daedric Summoning
 ---
 
+# <img src="/icons/skills/daedric-summoning/icon.png" alt="Daedric Summoning" className="icon-svg" /> Daedric Summoning
+
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)

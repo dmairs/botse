@@ -3,6 +3,8 @@ id: restoring-light
 title: Restoring Light
 ---
 
+# <img src="/icons/skills/restoring-light/icon.png" alt="Restoring Light" className="icon-svg" /> Restoring Light
+
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)

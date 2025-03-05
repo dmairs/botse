@@ -3,6 +3,8 @@ id: shadow
 title: Shadow
 ---
 
+# <img src="/icons/skills/shadow/icon.png" alt="Shadow" className="icon-svg" /> Shadow
+
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** None

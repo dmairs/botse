@@ -3,6 +3,8 @@ id: speech
 title: Speech
 ---
 
+# <img src="/icons/skills/speech/icon.png" alt="Speech" className="icon-svg" /> Speech
+
 Speech dice all have numbers which indicate the strength of their effects. When multiple dice of the same skill are rolled together, their numbers are combined, increasing an effect's strength.
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)

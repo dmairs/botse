@@ -3,6 +3,8 @@ id: acrobatics
 title: Acrobatics
 ---
 
+# <img src="/icons/skills/acrobatics/icon.png" alt="Acrobatics" className="icon-svg" /> Acrobatics
+
 The Acrobatics line is unique in that its effects are all active while the line's dice are placed in your [cooldown track](/docs/glossary/cooldown-track). When exhausting Acrobatics skill dice outside of your [engage](/docs/battles/adventurer-turn/engage) actions, place them in your cooldown track with a [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result showing.
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)

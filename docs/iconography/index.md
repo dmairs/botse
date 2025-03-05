@@ -55,13 +55,32 @@ title: Iconography
 | <img src="/icons/daedra.svg" alt="Daedra Icon" />     | Daedra   |
 | <img src="/icons/humanoid.svg" alt="Humanoid Icon" /> | Humanoid |
 
-### [Skill Line Types](/docs/adventurer/skill-lines/index)
+### [Skill Line Constellations](/docs/adventurer/skill-lines/index)
 
 | Icon                                                | Name                                            |
 | --------------------------------------------------- | ----------------------------------------------- |
 | <img src="/icons/mage.svg" alt="Mage Icon" />       | [Mage](/docs/adventurer/skill-lines/mage)       |
 | <img src="/icons/thief.svg" alt="Thief Icon" />     | [Thief](/docs/adventurer/skill-lines/thief)     |
 | <img src="/icons/warrior.svg" alt="Warrior Icon" /> | [Warrior](/docs/adventurer/skill-lines/warrior) |
+
+### [Skill Lines](/docs/adventurer/skill-lines/index)
+
+| Icon                                                                                            | Name                                                                            |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="/icons/skills/daedric-summoning/icon.png" alt="Daedric Summoning" width="50px" />     | [Daedric Summoning](/docs/adventurer/skill-lines/mage/daedric-summoning)        |
+| <img src="/icons/skills/destruction-staff/icon.png" alt="Destruction Staff" width="50px" />     | [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff)        |
+| <img src="/icons/skills/illusion/icon.png" alt="Illusion" width="50px" />                       | [Illusion](/docs/adventurer/skill-lines/mage/illusion)                          |
+| <img src="/icons/skills/light-armor/icon.png" alt="Light Armor" width="50px" />                 | [Light Armor](/docs/adventurer/skill-lines/mage/light-armor)                    |
+| <img src="/icons/skills/restoring-light/icon.png" alt="Restoring Light" width="50px" />         | [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light)            |
+| <img src="/icons/skills/acrobatics/icon.png" alt="Acrobatics" width="50px" />                   | [Acrobatics](/docs/adventurer/skill-lines/thief/acrobatics)                     |
+| <img src="/icons/skills/legerdemain/icon.png" alt="Legerdemain" width="50px" />                 | [Legerdemain](/docs/adventurer/skill-lines/thief/legerdemain)                   |
+| <img src="/icons/skills/shadow/icon.png" alt="Shadow" width="50px" />                           | [Shadow](/docs/adventurer/skill-lines/thief/shadow)                             |
+| <img src="/icons/skills/speech/icon.png" alt="Speech" width="50px" />                           | [Speech](/docs/adventurer/skill-lines/thief/speech)                             |
+| <img src="/icons/skills/bow/icon.png" alt="Bow" width="50px" />                                 | [Bow](/docs/adventurer/skill-lines/warrior/bow)                                 |
+| <img src="/icons/skills/combat/icon.png" alt="Combat" width="50px" />                           | [Combat](/docs/adventurer/skill-lines/warrior/combat)                           |
+| <img src="/icons/skills/heavy-armor/icon.png" alt="Heavy Armor" width="50px" />                 | [Heavy Armor](/docs/adventurer/skill-lines/warrior/heavy-armor)                 |
+| <img src="/icons/skills/one-hand-and-shield/icon.png" alt="One Hand and Shield" width="50px" /> | [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield) |
+| <img src="/icons/skills/two-handed/icon.png" alt="Two Handed" width="50px" />                   | [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed)                   |
 
 ### Encounters
 

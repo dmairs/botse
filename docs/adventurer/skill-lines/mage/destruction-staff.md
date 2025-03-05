@@ -3,6 +3,8 @@ id: destruction-staff
 title: Destruction Staff
 ---
 
+# <img src="/icons/skills/destruction-staff/icon.png" alt="Destruction Staff" className="icon-svg" /> Destruction Staff
+
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
