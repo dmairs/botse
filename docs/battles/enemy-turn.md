@@ -29,6 +29,8 @@ If there are multiple destination hexes possible, the enemy uses its priority ic
 
 If there are no valid destination hexes available, the enemy instead finds the closest opposing unit, even if it is untargetable. The enemy moves to the closest hex it can get to that is as few hexes from that opposing unit as possible.
 
+Need more help with Enemy Movement? Check out the <a href="https://app.botse-helper.com/enemy-movement" target="_blank">Enemy Movement Tool</a>.
+
 ## Enemy Skills
 
 Most enemies have 1 or more skills, which are abilities that trigger as described in the Enemy Skills Reference. It is recommended that players review an enemy's skills as the chip is deployed to the map. If an enemy engages multiple targets, each target is affected by each of the enemy's relevant skills.
