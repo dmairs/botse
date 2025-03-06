@@ -4,6 +4,8 @@ title: Dark Elf
 hoverText: "Health: 4, Stamina: 2, Magicka: 3, Combat: 2, Cooldown: 2"
 ---
 
+An insular people with a tumultuous past, the ash-skinned natives of [Morrowind](/docs/campaign/provinces/morrowind) lead a singular way of life. Most Dark Elves worship the living gods of the Tribunal and operate within the confines of Morrowind's rigid system of great houses, and some are still adjusting to the majority of those houses joining the larger political body of the Ebonheart Pact. Shrewd and knowledgeable, Dark Elves pride themselves on their readiness for conflict, often mastering magic, the blade, or both.
+
 **Ability [Dynamic]**: Once per battle, during your turn, [recover](/docs/glossary/recover) any 4 skill dice from your [cooldown track](/docs/glossary/cooldown-track), replacing each with light [fatigue](/docs/glossary/fatigue).
 
 | Stat                                                  | Value |
