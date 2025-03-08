@@ -11,7 +11,12 @@ The [party](/docs/glossary/party) must fully explore the battle map by gaining a
 ---
 
 :::info
-**When does a Survey objective battle end?**
+**How does Uncover differ from Survey?**
 
-Once you have collected the required amount of skyshards, the battle will end at the end of that round. You must still resolve the enemy turns.
+| Aspect             | Uncover                                                                                                                                                         | Survey                             |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
+| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
+| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
+
 :::

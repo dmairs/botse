@@ -33,3 +33,14 @@ The only battle objective which gives you XP for the number of skyshards collect
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292564" target="_blank">Source</a>
 :::
+
+:::info
+**How does Uncover differ from Survey?**
+
+| Aspect             | Uncover                                                                                                                                                         | Survey                             |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
+| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
+| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
+
+:::
