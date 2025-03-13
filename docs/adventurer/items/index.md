@@ -27,7 +27,7 @@ Outside of battle, an item can be used at any time the adventurer chooses, unles
 
 ## Traits
 
-Traits do not have specific rules (except for traits of the [<img src="/icons/armor.svg" alt="Armor Icon" class="icon-svg" />](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
+Traits do not have specific rules (except for traits of the [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
 
 ---
 

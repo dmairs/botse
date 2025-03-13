@@ -22,7 +22,7 @@ Combat skills represent raw damage output or defense. Combat skill dice results 
 
 ## Level 1
 
-### [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) Combat
+### [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) Combat
 
 **Dice Supply:** 14
 

@@ -27,10 +27,10 @@ Take this skill line's circular token and place it in an open slot. Then, add th
 
 Choose 1 other skill line. Place that line's circular token in an open attribute slot. Then, add 2 of that line's level 1 skill dice to that row's square slots. Place that line's reference sheet near your adventurer mat. For your first game, it is recommended that each player chooses 1 of the following skill lines, as dealing damage is crucial in battles:
 
-- [Bow](/docs/adventurer/skill-lines/warrior/bow) ([<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)).
-- [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff) ([<img src="/icons/magic.svg" alt="Magic Icon" class="icon-svg" />](/docs/battles/battle-forms/magic)).
-- [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield) ([<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/light-weapon)).
-- [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed) ([<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)).
+- [Bow](/docs/adventurer/skill-lines/warrior/bow) ([<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)).
+- [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff) ([<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)).
+- [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield) ([<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)).
+- [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed) ([<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)).
 
 ### 5. Place Pegs
 

@@ -7,7 +7,7 @@ title: Bow
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" class="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
+**Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
 
 ## Level 1
 

@@ -36,7 +36,7 @@ These abilities follow the definitions below:
   - That enemy loses its last HP chip because of an [engage](/docs/battles/adventurer-turn/engage) or ability resolved by the adventurer.
   - The adventurer resolves an ability that indicates that enemy is defeated.
 - An [enemy](/docs/glossary/enemy) defeats a [unit](/docs/glossary/unit) when that unit loses its last HP chip, either because of an [engage](/docs/battles/adventurer-turn/engage) or ability resolved by that enemy.
-- If a [unit](/docs/glossary/unit) is defeated by a [status effect](/docs/battles/status-effects/index) die, such as [Bane (<img src="/icons/bane.svg" alt="Bane Icon" class="icon-svg" />)](/docs/battles/status-effects/bane), it is considered defeated but does not trigger any effect that requires the unit to have been defeated by a specific other unit.
+- If a [unit](/docs/glossary/unit) is defeated by a [status effect](/docs/battles/status-effects/index) die, such as [Bane (<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />)](/docs/battles/status-effects/bane), it is considered defeated but does not trigger any effect that requires the unit to have been defeated by a specific other unit.
 
 ### Defeated Units on Tiles
 

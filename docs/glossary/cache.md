@@ -17,7 +17,7 @@ During their [turn](/docs/glossary/turn), when an [adventurer](/docs/glossary/ad
 :::tip[FAQ]
 **Are cache hexes considered occupied?**
 
-A cache hex is considered to be [unoccupied](/docs/glossary/occupied). They do not block movement or deployment. Some [delve](/docs/battles/types/delve/index) hexes have both a cache icon (<img src="/icons/common-item.svg" alt="Cache Icon" class="icon-svg" />) and an enemy icon (<img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" class="icon-svg"/>) - those hexes can get a cache placed on them, and an enemy can still deploy there afterwards.
+A cache hex is considered to be [unoccupied](/docs/glossary/occupied). They do not block movement or deployment. Some [delve](/docs/battles/types/delve/index) hexes have both a cache icon (<img src="/icons/common-item.svg" alt="Cache Icon" className="icon-svg" />) and an enemy icon (<img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" className="icon-svg"/>) - those hexes can get a cache placed on them, and an enemy can still deploy there afterwards.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292501" target="_blank">Source</a>
 :::
