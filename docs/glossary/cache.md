@@ -21,3 +21,11 @@ A cache hex is considered to be [unoccupied](/docs/glossary/occupied). They do n
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292501" target="_blank">Source</a>
 :::
+
+---
+
+:::info
+**Is there a limit to how many caches an adventurer can lockpick in a turn?**
+
+No, there is no limit.
+:::
