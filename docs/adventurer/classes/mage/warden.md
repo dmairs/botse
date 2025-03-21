@@ -14,6 +14,14 @@ hoverText: ""
 **Can you summon both Diving Cliff Racer and Feral Guardian?**
 
 Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
+
+---
+
+**If you summon a companion when on the Novice side, but upgrade to Master during the battle, is the companion removed at end of battle?**
+
+You can keep the current companion at the end of battle if you became a master during that battle, as you'll now use this side's rules rather than the novice side.
+
+<a href="https://boardgamegeek.com/thread/3475148/article/45832249#45832249" target="_blank">Source</a>
 :::
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                                                                                                                         |
