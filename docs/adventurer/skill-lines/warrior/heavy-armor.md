@@ -61,6 +61,8 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/unstoppable.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), you may [move](/docs/battles/adventurer-turn/move) 1 additional hex for each Heavy Armor skill die in your cooldown track, and you may move into hexes [occupied](/docs/glossary/occupied) by non-[quest units](/docs/glossary/quest-unit). When you do, the unit occupying the hex is [placed](/docs/glossary/move-or-place) in the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex. |
 
+## Level 4
+
 ### Juggernaut
 
 **Dice Supply:** 1
