@@ -24,4 +24,13 @@ A die that deals damage after the engage (even if later that same turn), or adds
 **Can I choose to not resolve dice that were rolled as part of an engage to avoid Dodge?**
 
 No, all dice you roll in an engage are counted towards Dodge. Even if you choose not to resolve the ability on the die.
+
+---
+
+**If I roll enemy combat dice as a part of an engage, are they also considered "skill dice" for the purpose of Dodge?**
+
+Yes, enemy combat dice are considered skill dice.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361760117724282990" target="_blank">Source</a>
+
 :::

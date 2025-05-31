@@ -30,3 +30,13 @@ hoverText: ""
 | 2             | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. | Tenacity cost<br/>(3 → 2)  |
 | 3             | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          | —                          |
 | 5             | Battle of Glenumbra Moors  | Choose an adventurer. That adventurer removes all light [fatigue](/docs/glossary/fatigue) from their [cooldown track](/docs/glossary/cooldown-track) and takes an immediate turn. Your turn resumes when this turn ends. _Once per battle._                                 | New                        |
+
+---
+
+:::info
+**Can you see the dice result of the engage before deciding to use Stagger and Sway's interrupt?**
+
+Yes, you can make the decision to use the Bard's Stagger and Sway ability any time during that engage, so you can wait and see what the roll is.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
+:::

@@ -29,3 +29,13 @@ hoverText: ""
 | 2             | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).   | Tenacity cost<br/>(3 → 2) |
 | 3             | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                    | Heal HP → Gain Bonus HP   |
 | 4             | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                           | Tenacity cost<br/>(5 → 4) |
+
+---
+
+:::info
+**Do you have to apply all of the statuses you roll as part of Venom Arrow?**
+
+You roll all 3 and must apply all 3 (or as many as possible). It's a little bit of the risk you take when you use this skill.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361763413876801617" target="_blank">Source</a>
+:::
