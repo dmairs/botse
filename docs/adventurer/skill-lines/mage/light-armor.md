@@ -98,3 +98,13 @@ Yes, you may use this die multiple times at once. For example to prevent multipl
 | Icon                                                                             | Ability                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/light-armor/concentration.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): Before you [engage](/docs/battles/adventurer-turn/engage), you may reduce this die by 1 to add 2 enemy Combat dice to your roll, even if in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic). These dice deal damage to your target. |
+
+---
+
+:::info
+**Can you place Light Armor dice in other adventurers active slots?**
+
+No.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1369324418010058863" target="_blank">Source</a>
+:::

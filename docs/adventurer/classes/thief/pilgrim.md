@@ -39,4 +39,13 @@ hoverText: ""
 You may choose any class ability from the randomly drawn class, either from Novice or Master side.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1331285375838191708" target="_blank">Source</a>
+
+---
+
+**Can you use Diplomat multiple times per town encounter?**
+
+Class abilities can be used multiple times outside of battle. If you have the tenacity, you can trigger those ones more than once.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
+
 :::

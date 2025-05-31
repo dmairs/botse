@@ -22,6 +22,14 @@ title: Daedric Summoning
 | <img src="/icons/skills/daedric-summoning/daedric-curse-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X [true damage](/docs/glossary/true-damage) to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy).                                                                                                                                                                                                                                         |
 | <img src="/icons/skills/daedric-summoning/daedric-curse-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 1 [true damage](/docs/glossary/true-damage) to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy). Then, any single [adventurer](/docs/glossary/adventurer) may trigger 1 of their [class abilities](/docs/battles/adventurer-turn/class-ability) that cost 2 [tenacity](/docs/glossary/tenacity) or less for [free](/docs/glossary/free). |
 
+:::info
+**Can you trigger a class ability without dealing damage first?**
+
+You must always do as much as possible in an ability. So you can do the second part without the first only if there are no enemies to deal the damage to.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Source</a>
+:::
+
 ### Bound Armaments
 
 **Dice Supply:** 2
@@ -60,6 +68,14 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 | Icon                                                                                     | Ability                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/daedric-summoning/expert-summoner.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): The Combat stat and movement of [companions](/docs/glossary/companion) you control are increased by X. After 1 of these companions engages, reduce this die by 1. If this die would be reduced to 0, exhaust it. |
+
+:::info
+**Can you choose not to apply this effect to a companion, and thus not reduce this die by 1?**
+
+It is not optional, so if it's active, you need to use it and reduce it. Only way to get out of that is exhausting it.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+:::
 
 ## Level 3
 

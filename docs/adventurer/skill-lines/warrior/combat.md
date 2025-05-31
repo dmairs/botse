@@ -41,3 +41,13 @@ Combat skills represent raw damage output or defense. Combat skill dice results 
 | Icon                                                                 | Ability                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |
+
+---
+
+:::info
+**Are enemy combat dice considered skill dice?**
+
+Yes.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
+:::

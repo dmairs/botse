@@ -41,4 +41,21 @@ tags:
 No, "After defeating an enemy" is the same as "After **you** defeat an enemy". Therefore, the Burglar must be the one to defeat an enemy for this class ability to be triggered.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Source</a>
+
+---
+
+**Do items gained from the shop in the under-siege town in Skyrim count as gained ‘in battle’ for the purpose of this class upgrade requirement?**
+
+Yes, items gained in an under-siege town count as items gained in battle, as this is a clash.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
+
+---
+
+**Can you use Haggling multiple times per town encounter?**
+
+Class abilities can be used multiple times outside of battle. If you have the tenacity, you can trigger those ones more than once.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
+
 :::

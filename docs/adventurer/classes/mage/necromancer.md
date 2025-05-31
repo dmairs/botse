@@ -49,6 +49,13 @@ No, you must finish the engage action first and then if during the engage an ene
 
 No, [adventurer](/docs/glossary/adventurer) [health](/docs/adventurer/stats/health) is reset to maximum during [end of battle cleanup](/docs/battles/end-of-battle).
 
+---
+
+**Can you unsummon your current Spiritual Guardian to deploy a different enemy instead?**
+
+There is no way to just decide to take a companion out of play. You need to get it defeated if you want to get rid of it.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
 :::
 
 :::tip[FAQ]

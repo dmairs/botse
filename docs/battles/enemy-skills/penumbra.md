@@ -7,3 +7,13 @@ tags:
 ---
 
 After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), it replaces the [weakest](/docs/glossary/weakest) allied non-[quest unit](/docs/glossary/quest-unit) and assumes that unit's HP and status dice. The replaced unit is returned to its enemy bag.
+
+---
+
+:::info
+**What happens if this skill is on a companion when they are defeated?**
+
+Nothing happens as a result of Penumbra.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1366888290275430463" target="_blank">Source</a>
+:::
