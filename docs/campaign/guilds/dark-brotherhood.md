@@ -43,3 +43,12 @@ The party usually focuses on eliminating specific targets. This can take the for
 When you apply the die to an adjacent enemy, the die is removed from your [ready slot](/docs/adventurer/items/inventory). To get another [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die, you need to take the Guild Kiosk Town Action.
 
 :::
+
+:::tip[FAQ]
+**Can you keep the dice from Mark of the Black Hand between sessions?**
+
+The Dark Brotherhood's guild action allows you to gain a Fear status die as an item. Just as you must discard expended items at the end of a session, you must discard items represented by dice at the end of the session as well. You cannot carry this item with you to the next session.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294280/" target="_blank">Source</a>
+
+:::

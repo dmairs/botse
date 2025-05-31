@@ -21,3 +21,11 @@ Side quests are only optional if the text says so. If it says "next clash" or si
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1335318484070039634" target="_blank">Source</a>
 :::
+
+:::tip[FAQ]
+**SQ-20 Dice! - this card is allowed to be discarded**
+
+This side quest has text that reads: "Keep this quest until the end of the session, as it may be initiated multiple times." This text is intending to tell you that you are allowed to keep it, as normally you would discard a side quest once it's completed. However, you are also allowed to discard this side quest as normal. You are not obligated to hold onto it until the end of the session if you wish to discard it.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294283" target="_blank">Source</a>
+:::

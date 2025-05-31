@@ -45,9 +45,9 @@ Fleet Phantom specifically grants its movement during start of turn. If a unit u
 :::info
 **If you move through the same enemy multiple times during a single move action, does this deal damage per occurrence?**
 
-Each enemy is only damaged once, regardless of how many times you move through them during a single move action.
+The wording of this skill intentionally leaves the damage/healing until after you finish your movement, and you get the damage/healing based on how many enemies you moved through. If you moved through an enemy multiple times, you would only count it once.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331034699665117298" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294290" target="_blank">Source</a>
 :::
 
 ### Relentlessness

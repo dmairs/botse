@@ -34,3 +34,11 @@ Chips on the Icy Buildup card should be cleared after each [delve](/docs/battles
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291979" target="_blank">Source</a>
 
 :::
+
+:::warning[Errata]
+**Quest Step C11 (Fighters Guild) - Bloodthorns take 1 damage**
+
+Bloodthorns in this scenario are defeated if the take at least 1 damage. This information is missing from the scenario instructions.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294287" target="_blank">Source</a>
+:::

@@ -63,3 +63,13 @@ hoverText: An overview of the enemy skills.
 | [Vindictive](/docs/battles/enemy-skills/vindictive)   | This [unit](/docs/glossary/unit) increases its Combat stat by the number of opposing [adventurers](/docs/glossary/adventurer).                                                                                                                                                                                                                                                                                                   |
 | [Vinesnare](/docs/battles/enemy-skills/vinesnare)     | After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target must [drain](/docs/glossary/drained) 1 available [Combat](/docs/adventurer/skill-lines/warrior/combat) skill die.                                                                                                                                                                                                                        |
 | [Vision](/docs/battles/enemy-skills/vision)           | This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight) restrictions.                                                                                                                                                                                                                                                                                                                                             |
+
+---
+
+:::tip[FAQ]
+**Can an enemy have more than one of the same skill?**
+
+Enemies cannot have more than one instance of the same skill. If they would have multiple copies of a numbered skill, they take on the highest number that they have of that skill.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294288" target="_blank">Source</a>
+:::

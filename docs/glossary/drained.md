@@ -23,7 +23,7 @@ This should instead say you recover drained dice during [End of Battle Cleanup](
 :::info
 **Is it possible to drain a status or fatigue die?**
 
-No, you can only drain skill dice.
+When given the option to drain dice, only skill dice can be selected.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334932357584650364" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294282" target="_blank">Source</a>
 :::

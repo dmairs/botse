@@ -30,3 +30,13 @@ After a battle ends (whether successfully or not), follow the steps below and th
    - Gather the delve cards, setting aside any cards marked with "SP" or otherwise required by the Delve Feature section at the front of your province's gazetteer. Then, shuffle the Delve Deck and place it back in its area.
 
 This cleanup procedure only occurs after a battle, not after a peaceful encounter.
+
+---
+
+:::tip[FAQ]
+**Success - one adventurer must survive**
+
+In order for a combat to be successful, one adventurer must survive. If only companions survive, or the last adventurer is defeated at the same time as the last enemy, the combat fails.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294286" target="_blank">Source</a>
+:::

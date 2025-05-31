@@ -28,4 +28,12 @@ For example, if you see that a combat is going to have a lot of enemies that wil
 Once a pet has been placed in a ready slot, **it cannot go back into your pack**. If a game effect forces you to put a pet into your pack, you must instead [discard](/docs/glossary/discard) it. One such game effect that might force this is the Native enemy skill [Freeze](/docs/battles/enemy-skills/freeze) in [Skyrim](/docs/campaign/provinces/skyrim).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Source</a>
+
+---
+
+**Can you use items in your Pack outside of battle?**
+
+Within battle, items must be in ready slots in order to use them. Outside of battle, items can be used from either your ready slots or your pack.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294285" target="_blank">Source</a>
 :::

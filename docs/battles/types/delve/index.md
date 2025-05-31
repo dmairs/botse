@@ -44,3 +44,13 @@ The only battle objective which gives you XP for the number of skyshards collect
 | Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
 
 :::
+
+---
+
+:::tip[FAQ]
+**Delve GE-07 Throne Room - populate enemies first**
+
+For the Throne Room delve card, populate the enemies first, before resolving the "When Revealed" text.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294284" target="_blank">Source</a>
+:::

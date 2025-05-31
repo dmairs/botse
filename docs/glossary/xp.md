@@ -15,7 +15,7 @@ The party's total gained XP is tracked by the XP dial. An adventurer's unspent s
 :::info
 **Can you go above 40 XP?**
 
-Yes, you are not limited by the dial. Flip the dial, and add 40 to the number display when calculating XP.
+The XP dial goes up to 40. It is possible to exceed this amount of group XP. If you do so, simply flip the chip again and start counting up from 0, adding 40 to the total shown on the chip.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329516699229229107" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294292" target="_blank">Source</a>
 :::
