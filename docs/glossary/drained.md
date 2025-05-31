@@ -18,9 +18,9 @@ This section says that you can recover drained dice during the Adventurers Rest 
 This should instead say you recover drained dice during [End of Battle Cleanup](/docs/battles/end-of-battle). No drained dice recovery happens during Adventurers Rest step.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292517" target="_blank">Source</a>
-:::
 
-:::info
+---
+
 **Is it possible to drain a status or fatigue die?**
 
 When given the option to drain dice, only skill dice can be selected.
