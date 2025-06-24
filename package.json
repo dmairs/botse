@@ -15,9 +15,9 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.7.0",
-    "@docusaurus/preset-classic": "^3.7.0",
-    "@easyops-cn/docusaurus-search-local": "^0.48.0",
+    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/preset-classic": "^3.8.1",
+    "@easyops-cn/docusaurus-search-local": "^0.51.1",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@grnet/docusaurus-terminology": "^2.0.0-rc.2",
@@ -32,11 +32,11 @@
     "react-markdown": "^9.0.3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.7.0",
-    "@docusaurus/tsconfig": "^3.7.0",
-    "@docusaurus/types": "^3.7.0",
+    "@docusaurus/module-type-aliases": "^3.8.1",
+    "@docusaurus/tsconfig": "^3.8.1",
+    "@docusaurus/types": "^3.8.1",
     "@svgr/webpack": "^8.1.0",
-    "typescript": "~5.5.2"
+    "typescript": "^5.8.3"
   },
   "browserslist": {
     "production": [
