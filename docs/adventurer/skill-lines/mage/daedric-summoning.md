@@ -97,3 +97,11 @@ It is not optional, so if it's active, you need to use it and reduce it. Only wa
 | Icon                                                                                   | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/daedric-summoning/tempered-soul.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Select any level 1/5 [enemy](/docs/glossary/enemy) from the [defeated](/docs/glossary/defeated) stack. Deploy it with full HP to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. This unit is now a [companion](/docs/glossary/companion) controlled by you. This companion is removed at the end of battle. |
+
+:::info
+**Can you defeat and revive an enemy with Tempered Soul in a single engage? Or more broadly, what’s the timing for moving a defeated enemy to the defeated stack?**
+
+Yes. An enemy is defeated and moved to the defeated stack at the time when they have no HP, which during an engage would happen after you apply the pool of damage you are dealing to it. So after resolving all dice dealing damage to an enemy, and moving it to the defeated stack, you could yet that same engage, resolve Tempered Soul to revive it as a companion.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+:::

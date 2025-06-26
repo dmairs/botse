@@ -42,7 +42,7 @@ Fleet Phantom specifically grants its movement during start of turn. If a unit u
 | <img src="/icons/skills/acrobatics/rapid-maneuver-1.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, you may move through [enemies](/docs/glossary/enemy). After moving, deal 2 damage to each enemy you moved through.                        |
 | <img src="/icons/skills/acrobatics/rapid-maneuver-2.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, you may move through [enemies](/docs/glossary/enemy). After moving, [heal](/docs/glossary/healing) 1 HP for each enemy you moved through. |
 
-:::info
+:::tip[FAQ]
 **If you move through the same enemy multiple times during a single move action, does this deal damage per occurrence?**
 
 The wording of this skill intentionally leaves the damage/healing until after you finish your movement, and you get the damage/healing based on how many enemies you moved through. If you moved through an enemy multiple times, you would only count it once.
@@ -87,6 +87,14 @@ The wording of this skill intentionally leaves the damage/healing until after yo
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/acrobatics/duelists-rebuff-1.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, if you are dealt damage by an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), you may prevent that damage and force the enemy to deal the damage to a different enemy adjacent to you instead. When this die would be [recovered](/docs/glossary/recover), [drain](/docs/glossary/drained) it instead. |
 | <img src="/icons/skills/acrobatics/duelists-rebuff-2.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, if you take damage from an enemy [engage](/docs/battles/enemy-turn), you may deal the amount of damage taken to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) and immediately [recover](/docs/glossary/recover) this die.                                                                          |
+
+:::info
+**Can you resolve Duelist's Rebuff without an adjacent enemy to redirect the damage to?**
+
+Yes, you can prevent the damage without having an adjacent enemy.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+:::
 
 ## Level 4
 

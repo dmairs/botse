@@ -32,3 +32,13 @@ tags:
 | 3             | Tome-Bearer's Inspiration | **[Interrupt](/docs/glossary/interrupt):** When you would discard a [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) due to using its [overtax](/docs/adventurer/items/overtax) effect, discard a crux token instead. | —                                                |
 | 3             | Gibbering Shield          | Place 1 crux token in an [active slot](/docs/glossary/active-slot). When you are dealt any amount of damage (including true damage), discard this crux token to prevent all of the damage.                                                                                                                                                                                                       | Tenacity cost<br/>(4 → 3). Prevents true damage. |
 | 5             | Fatecarver                | Discard all crux tokens from this sheet. For each crux token [discarded](/docs/glossary/discard), deal 3 [true damage](/docs/glossary/true-damage) to a targetable non-quest enemy.                                                                                                                                                                                                              | —                                                |
+
+---
+
+:::info
+**Does Gibbering Shield persist between battles?**
+
+Crux tokens are meant to clear from active slots between battles, just as dice do.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+:::

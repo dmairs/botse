@@ -31,6 +31,15 @@ Traits do not have specific rules (except for traits of the [<img src="/icons/ar
 
 ---
 
+:::info
+**Is it allowed to use items mid/during an engage?**
+
+No, items cannot be used mid-engage.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+
+:::
+
 :::warning[Errata]
 
 **Item card count - should be 100 common, 60 legendary**

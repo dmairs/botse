@@ -10,6 +10,14 @@ Note that some class abilities are not actions. These class abilities have eithe
 
 ---
 
+:::info
+**Resolving Partial Skills and Abilities**
+
+When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+:::
+
 :::tip[FAQ]
 **Do I have to use an Enduring or Innate ability?**
 

@@ -72,3 +72,11 @@ This skill would work the same if it just said "...deal the rolled damage to the
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/illusion/voice-of-rapture-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Remove all status dice from all [party](/docs/glossary/party.md) members. Then, deal damage equal to the total number of status dice removed to all enemies in play.                              |
 | <img src="/icons/skills/illusion/voice-of-rapture-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Remove all status dice from 1 [party](/docs/glossary/party) member. Then, deal [true damage](/docs/glossary/true-damage) equal to the total number of status dice removed to all enemies in play. |
+
+:::info
+**Does Voice of Rapture (Illusion) affect Status Effects e.g. Honor the Dead from [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light)?**
+
+Yes. “S” dice are considered status dice. It is intentional that they are called this.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Source</a>
+:::

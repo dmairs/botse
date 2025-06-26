@@ -50,4 +50,13 @@ Track any progress made toward the party's quests that requires notes in the par
 Yes, all adventurers get rewards if the encounter was successful, even if they themselves were defeated.
 
 <a href="https://boardgamegeek.com/thread/3442027/article/45495467#45495467" target="_blank">Source</a>
+
+---
+
+**When a quest says "draw and initiate a Conflict" (e.g. SK Circle A31), do you get the XP for both or just the quest?**
+
+You get XP for both.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+
 :::

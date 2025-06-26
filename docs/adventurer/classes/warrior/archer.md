@@ -46,4 +46,13 @@ You roll all 3 and must apply all 3 (or as many as possible). It's a little bit 
 It doesn't work in conjunction with the innate. A targetable enemy and selecting a target are different things. That innate never has you select a target, it just lets you damage an enemy that is eligible as a target, i.e. within your [range](/docs/glossary/range) and [sight](/docs/glossary/sight).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386817756862611581" target="_blank">Source</a>
+
+---
+
+**In Ranged battle form, do adjacent units count as "in range" (for example, when using the Hawk Eye class ability)?**
+
+No, adjacent units are not within your range if you are in [Ranged battle form](/docs/battles/battle-forms/ranged-weapon).
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+
 :::

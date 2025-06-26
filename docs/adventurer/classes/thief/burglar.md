@@ -44,7 +44,7 @@ No, "After defeating an enemy" is the same as "After **you** defeat an enemy". T
 
 ---
 
-**Do items gained from the shop in the under-siege town in Skyrim count as gained ‘in battle’ for the purpose of this class upgrade requirement?**
+**Do items gained from the shop in the under-siege town in Skyrim count as gained ‘in battle' for the purpose of this class upgrade requirement?**
 
 Yes, items gained in an under-siege town count as items gained in battle, as this is a clash.
 

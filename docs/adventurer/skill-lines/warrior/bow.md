@@ -31,6 +31,14 @@ title: Bow
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/bow/volley.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal a total of 4 damage, distributed as you choose among [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you. Then, [place](/docs/glossary/move-or-place) yourself in an [unoccupied](/docs/glossary/occupied) hex 2-4 hexes away from your current hex. |
 
+:::info
+**Can you place yourself without dealing damage?**
+
+No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387191141656559696" target="_blank">Source</a>
+:::
+
 ### Acid Spray
 
 **Dice Supply:** 1
@@ -57,6 +65,16 @@ title: Bow
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/rapid-fire-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage).                                                                                        |
 | <img src="/icons/skills/bow/rapid-fire-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage). Then, recover those dice, replacing them with light [fatigue](/docs/glossary/fatigue). |
+
+:::info
+
+**How do two copies of Rapid Fire (recovering side) resolve?**
+
+Once the first one is resolved, the second wouldn't do anything because you wouldn't have any Snipe dice in your cooldown track upon resolving it. Just because there are two copies of a die in the supply, doesn't mean they necessarily work when rolled together and getting the same result.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+
+:::
 
 ### Arrow Barrage
 

@@ -32,6 +32,14 @@ To perform an engage action, follow the steps below. An ability that instructs a
 
 Each skill die ability has at least 1 of the following codes that determines how it is resolved and where the die must be placed afterwards. Some skills have wording that can affect non-target units. If an ability requires that a die be exhausted, that die must be placed in the leftmost open position in the cooldown track.
 
+:::info
+**Resolving Partial Skills and Abilities**
+
+When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+:::
+
 | Icon                                                              | Name                                            |
 | ----------------------------------------------------------------- | ----------------------------------------------- |
 | <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Active Slot](/docs/glossary/active-slot)       |

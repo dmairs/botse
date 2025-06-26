@@ -45,3 +45,13 @@ Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll
 | 3             | Eldritch Insight       | **[Enduring](/docs/glossary/enduring):** You may use your innate ability on a skill die of any level.                                                                                                                                                                                                                                                                                                                                                                                                                                         | New                                                                                                    |
 | 3             | Reaving Blows          | [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) or [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon): Drain an available [<img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" />](/docs/adventurer/skill-lines/warrior) type skill die. Then, deal 2 [true damage](/docs/glossary/true-damage) to a targetable enemy and [heal](/docs/glossary/healing) for 2 HP. | —                                                                                                      |
 | 4             | Strategic Reserve      | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Refresh any 1 adventurer's race ability.                                                                                                                                                                                                                                                                                                                                                                                            | Tenacity cost (5 → 4)                                                                                  |
+
+---
+
+:::info
+**Can you use Meticulous Disassembly without discarding an item?**
+
+No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+:::

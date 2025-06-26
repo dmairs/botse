@@ -62,6 +62,14 @@ title: Destruction Staff
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/elemental-drain.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Apply this die to your target. When the [enemy](/docs/glossary/enemy) this die is applied to is [defeated](/docs/glossary/defeated), apply this die to an enemy [adjacent](/docs/glossary/adjacent) to it. Then, deal that new enemy 2 [true damage](/docs/glossary/true-damage). If there are no adjacent enemies when this skill would trigger, [recover](/docs/glossary/recover) this die. |
 
+:::info
+**What is considered the source of damage for Elemental Drain?**
+
+The source of the damage is the adventurer, so [Elusive](/docs/battles/enemy-skills/elusive) cannot be bypassed. The difference between Elemental Drain and [Bane](/docs/battles/status-effects/bane) is in the wording. Elemental Drain says "deal that new enemy 2 true damage," as in **you** deal the damage. And the source of this die can be easily tracked, it's owned by a specific adventurer who is dealing the damage. Bane says "This unit is dealt 1 true damage," so the source of the damage is not the adventurer, and you don't track the source of these general status effect dice as there's no reason to.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+:::
+
 ### Elemental Rage
 
 **Dice Supply:** 1

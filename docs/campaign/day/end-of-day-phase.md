@@ -24,6 +24,15 @@ During this step, the adventurers [heal](/docs/glossary/healing), remove dice fr
 
 :::warning[Expert Difficulty]
 On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable), the adventurer may resolve that item's effects before discarding it (if applicable).
+
+---
+
+**Trading items and Expert difficulty**
+
+All adventurers participating in an item trade must have an Adventurers Rest step, the giver and the receiver. Therefore to participate in a trade, you must have discarded an item.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+
 :::
 
 - Each adventurer heals for a number of HP based on the game's difficulty—including defeated adventurers, who are revived when their HP is raised above 0.

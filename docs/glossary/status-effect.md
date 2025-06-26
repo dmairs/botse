@@ -27,6 +27,14 @@ Status effects are removed from all other [units](/docs/glossary/unit), includin
 :::
 
 :::info
+**What is the timing for removal of status effect dice?**
+
+We are making it a general rule that status effects come off after resolving any **"after defeated"** skills on the enemy.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387181293388693556" target="_blank">Source</a>
+
+---
+
 **Can you have the same status effect multiple times?**
 
 No, you can only have one instance of a status effect. If an [adventurer](/docs/glossary/adventurer) would gain a status effect die with a side that they already have in their cooldown track, the die in their cooldown track is removed from its current position and placed back in the leftmost open position.

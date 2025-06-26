@@ -23,7 +23,16 @@ You reveal items and trainers at the beginning of the town encounter as normal.
 
 If your class sheet is flipped to Novice, and you still meet the upgrade requirements, you may instantly flip back to Master.
 
-<a href=" https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+
+---
+
+**Skyrim Town Siege Encounter and defeated adventurer interaction**
+
+A defeated adventurer can still take advantage of the 1 free town action granted if all enemies are defeated in a siege encounter.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+
 :::
 
 :::tip[FAQ]

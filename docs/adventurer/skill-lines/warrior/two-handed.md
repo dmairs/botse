@@ -77,3 +77,11 @@ title: Two Handed
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/two-handed/cleave-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal damage to your target equal to your current HP. Deal half of this damage (rounded up) to all other [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you.                                             |
 | <img src="/icons/skills/two-handed/cleave-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal damage to your target equal to your current [Stamina](/docs/adventurer/stats/stamina) stat. Deal half of this damage (rounded up) to all other [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you. |
+
+:::info
+**Can you deal damage with Cleave to non-targets only?**
+
+Yes, you can do the second part without doing the first part, if you don’t have a target.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+:::
