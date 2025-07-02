@@ -59,4 +59,12 @@ You get XP for both.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
+---
+
+**Can you spend XP after finishing a session guild quest?**
+
+Yes, you get a Reward Phase as normal.
+
+<a href="https://boardgamegeek.com/thread/3534373/article/46270184#46270184" target="_blank">Source</a>
+
 :::
