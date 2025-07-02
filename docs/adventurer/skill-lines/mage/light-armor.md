@@ -9,6 +9,14 @@ tags:
 
 Light Armor focuses on enhancing magic-based playstyles through the use of counters placed in [adventurer's](/docs/glossary/adventurer) [active slots](/docs/glossary/active-slot). When a skill die's value would reduce to a number not printed on the die, it is exhausted. You may choose not to exhaust active Light Armor dice at the end of battle, allowing them to persist between encounters.
 
+:::info
+**Can you roll Light Armor dice outside of battle?**
+
+No, you can't roll Light Armor dice outside of battle. However, if they are already in your Active slots, you are able to use them as described.
+
+<a href="https://discord.com/channels/273472391403798528/1361396191631380611/1390081030886523112" target="_blank">Source</a>
+:::
+
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
