@@ -10,6 +10,14 @@ When a [party](/docs/glossary/party) member resolves an effect that heals anothe
 
 ---
 
+:::info
+**Does healing pool?**
+
+Healing doesn't pool. If you resolve multiple healing abilities back-to-back, sure, take it all together. However, it could be important they don't pool for order of resolution. Say you heal a little, then do something that results in you taking some damage, then you resolve something else that heals you again.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386737216075731054" target="_blank">Source</a>
+:::
+
 :::tip[FAQ]
 **Is how much you healed based on HP gained or the healing given?**
 

@@ -14,6 +14,12 @@ An adventurer can trigger an exploration of a hex in 2 ways:
 
 - **Performing an Explore Action:** An adventurer can also trigger an exploration by performing an explore action targeting an explorable hex. To perform this action, choose an explorable hex in [sight](/docs/glossary/sight) and measure the distance to that hex. If it is within the adventurer's movement range (based on [Stamina](/docs/adventurer/stats/stamina)), an exploration of that hex is triggered.
 
+:::info
+You occupy every hex you move into. When you're using [Acrobatics](/docs/adventurer/skill-lines/thief/acrobatics) to move through already [occupied](/docs/glossary/occupied) hexes, you occupy those hexes, you just can't end your movement in them. You are able to explore an occupied hex if an ability allows you to move into that hex.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Source</a>
+:::
+
 ## Explorable Hexes
 
 A hex with a <img src="/icons/door.svg" alt="Door Icon" className="icon-svg" /> icon is an explorable hex if the following conditions are true:

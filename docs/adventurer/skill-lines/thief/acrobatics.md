@@ -42,6 +42,12 @@ Fleet Phantom specifically grants its movement during start of turn. If a unit u
 | <img src="/icons/skills/acrobatics/rapid-maneuver-1.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, you may move through [enemies](/docs/glossary/enemy). After moving, deal 2 damage to each enemy you moved through.                        |
 | <img src="/icons/skills/acrobatics/rapid-maneuver-2.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, you may move through [enemies](/docs/glossary/enemy). After moving, [heal](/docs/glossary/healing) 1 HP for each enemy you moved through. |
 
+:::info
+You occupy every hex you move into. When you move through already [occupied](/docs/glossary/occupied) hexes, you occupy those hexes, you just can't end your movement in them. You are able to [explore](/docs/battles/types/delve/exploration) an occupied hex if an ability allows you to move into that hex.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Source</a>
+:::
+
 :::tip[FAQ]
 **If you move through the same enemy multiple times during a single move action, does this deal damage per occurrence?**
 

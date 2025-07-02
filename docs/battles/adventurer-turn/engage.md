@@ -38,6 +38,22 @@ Each skill die ability has at least 1 of the following codes that determines how
 When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+
+---
+
+**Target range**
+
+The target has to be in range when selected as a target (step 3) **and** when the die is resolved (step 5).
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386722677531742249" target="_blank">Source</a>
+
+---
+
+**Declaring a Target**
+
+You only declare a target if the game structure tells you to. i.e. as part of an [engage](/docs/battles/adventurer-turn/engage), or if something else in the game tells you to select a target. You can't just randomly select yourself a target in order to use something that triggers based off of selecting a target.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386823964017561610" target="_blank">Source</a> / <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386825052456095804" target="_blank">Source 2</a>
 :::
 
 | Icon                                                              | Name                                            |
