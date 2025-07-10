@@ -51,6 +51,14 @@ title: Restoring Light
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/restoring-light/honor-the-dead.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die in any [adventurer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track). At the end of their turn, [heal](/docs/glossary/healing) them for X HP and reduce this die by 1. If this die would be reduced to 0, apply a [Stealth](/docs/battles/status-effects/stealth) status die to them and [drain](/docs/glossary/drained) this die. |
 
+:::info
+**When recovered from a cooldown track (any adventurers), where does the die go?**
+
+After it is recovered from a cooldown track, this counts as its cooldown time and it returns to the adventurer's mat (it doesn't go back into cooldown track).
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334930549047034022" target="_blank">Source</a>
+:::
+
 ### Rushed Ceremony
 
 **Dice Supply:** 1
