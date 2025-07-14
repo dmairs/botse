@@ -25,6 +25,12 @@ If the battle had an Uncover objective even if the encounter was failed, so long
 
 ---
 
+**Can you gain more Skyshards than required by the objective**
+
+No, the maximum Skyshards you may have is determined by the encounter's objective.
+
+---
+
 **Can I choose not to pick up a Skyshard?**
 
 No, when you enter a tile with a skyshard you must pick it up. Even if the delve has a battle objective that does not relate to Skyshards.
