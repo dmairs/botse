@@ -12,6 +12,14 @@ The party's total gained XP is tracked by the XP dial. An adventurer's unspent s
 
 ---
 
+:::info
+**When a quest says "draw and initiate a Conflict" (e.g. SK Circle A31), do you get the XP for both or just the quest?**
+
+You get XP for both.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+:::
+
 :::tip[FAQ]
 **Can you go above 40 XP?**
 
