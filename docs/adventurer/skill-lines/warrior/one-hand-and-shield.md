@@ -26,7 +26,7 @@ title: One Hand and Shield
 
 Yes you may roll them without a target and place them in an active slot for the damage prevention.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342163322375635045" target="_blank">Source</a>
 :::
 
 ## Level 2
