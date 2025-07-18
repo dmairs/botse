@@ -24,7 +24,7 @@ title: One Hand and Shield
 :::info
 **If I don't have a target, am I able to roll Shield Discipline dice?**
 
-Yes you may roll them with a target and place them in an active slot for the damage prevention.
+Yes you may roll them without a target and place them in an active slot for the damage prevention.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Source</a>
 :::
