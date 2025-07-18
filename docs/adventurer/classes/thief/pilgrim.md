@@ -42,6 +42,14 @@ You may choose any class ability from the randomly drawn class, either from Novi
 
 ---
 
+**When using the Wayfarer class ability, if I use the [Warden's](/docs/adventurer/classes/mage/warden) Feral Guardian ability to summon a companion, does it persist after battle?**
+
+Feral Guardian will persist until the end of session, or until it is defeated (it is not removed at the end of battle).
+
+<a href="https://discord.com/channels/273472391403798528/1392758332900507759/1393239222789472286" target="_blank">Source</a>
+
+---
+
 **Can you use Diplomat multiple times per town encounter?**
 
 No, interrupt class abilities can only be used once per timing.
