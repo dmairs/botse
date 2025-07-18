@@ -55,6 +55,15 @@ No, you can't roll Light Armor dice outside of battle. However, if they are alre
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/light-armor/evocation.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): Reduce this die by 1 to increase a different Light Armor die in any [adventurer's](/docs/glossary/adventurer) [active slot](/docs/glossary/active-slot) by 1. |
 
+:::info
+**What is the timing of Evocation?**
+
+It can be used during your turn.
+
+<a href="https://www.youtube.com/live/caBdZPgLDsE?si=ZhTKQ-TT9fnf0MwD&t=4898" target="_blank">Source (YouTube)</a>
+
+:::
+
 ### Enchant Weapon
 
 **Dice Supply:** 1
