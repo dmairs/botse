@@ -35,6 +35,6 @@ You cannot gain benefits from tenacity results rolled on skill dice either.
 
 Fear is meant to prevent even "after defeat" skills from triggering.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1366888290275430463" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
 :::
