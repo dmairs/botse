@@ -44,8 +44,8 @@ You may choose any class ability from the randomly drawn class, either from Novi
 
 **Can you use Diplomat multiple times per town encounter?**
 
-Class abilities can be used multiple times outside of battle. If you have the tenacity, you can trigger those ones more than once.
+No, interrupt class abilities can only be used once per timing.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Source</a>
 
 :::

@@ -31,3 +31,14 @@ yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
 | 3             | Soul Shred              | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status die to all [adjacent](/docs/glossary/adjacent) enemies. Heal any party member for 1 HP for each Daze die applied.                            | May heal any party member |
 | 3             | Manifestation of Terror | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Place a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die in an [adjacent](/docs/glossary/adjacent) [unoccupied](/docs/glossary/occupied) hex. Apply that die to the next enemy to enter that hex. | Affects only enemy units  |
 | 4             | Consuming Darkness      | **[Enduring](/docs/glossary/enduring):** While you have a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in your [cooldown track](/docs/glossary/cooldown-track), enemies cannot target you.                                                                                                  | Tenacity cost<br/>(5 → 4) |
+
+---
+
+:::info
+**Can [Detection](/docs/battles/enemy-skills/detection) enemies target you while you have Consuming Darkness active?**
+
+Detection ignores the stealth dice effect, but does not ignore class abilities. The class ability would still trigger, and the enemy would be unable to attack the adventurer.
+
+<a href="https://discord.com/channels/273472391403798528/1392760349379399770/1392764832905953380" target="_blank">Source</a>
+
+:::
