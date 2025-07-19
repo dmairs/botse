@@ -24,6 +24,14 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
    - If there are no [unoccupied](/docs/glossary/occupied) hexes remaining on the entrance tile, set undeployed companions next to the entrance tile. They can enter the battle map during later [rounds](/docs/battles/battle-round).
 6. **Set Round Counter:** Set the party's Round Counter die to 1 and place it in the square slot on the dial chip holder. Then, begin battle rounds. Trigger skills and other abilities with "start of battle" timing now.
 
+## Uncover vs Survey
+
+| Aspect             | Uncover                                                                                                                                                         | Survey                             |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
+| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
+| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
+
 ---
 
 :::tip[FAQ]
@@ -32,25 +40,18 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
 The only battle objective which gives you XP for the number of skyshards collected is the [Uncover](/docs/battles/objectives/uncover) objective. Delves with the [Survey](/docs/battles/objectives/survey), [Eliminate](/docs/battles/objectives/eliminate), or any other objective, only give the XP as stated in the encounter.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292564" target="_blank">Source</a>
-:::
-
-:::info
-**How does Uncover differ from Survey?**
-
-| Aspect             | Uncover                                                                                                                                                         | Survey                             |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
-| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
-| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
-
-:::
 
 ---
 
-:::tip[FAQ]
 **Delve GE-07 Throne Room - populate enemies first**
 
 For the Throne Room delve card, populate the enemies first, before resolving the "When Revealed" text.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294284" target="_blank">Source</a>
+:::
+
+:::info
+**Do you shuffle the delve deck at the end of a delve?**
+
+Yes, see step 3 of [End of Battle Cleanup.](/docs/battles/end-of-battle)
 :::
