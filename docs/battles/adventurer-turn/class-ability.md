@@ -29,15 +29,11 @@ Even if they do not use the word "may", innate abilities (from class sheets) as 
 
 **When can class abilities be triggered?**
 
-#### In Combat
-
-Inside of combat, class abilities can only be triggered on your turn as an action. Exceptions to this timing will be prefaced with [Interrupt](/docs/glossary/interrupt) and provide the timing for the ability.
+Inside of combat, a class ability can only be triggered on your turn as an action. Exceptions to this timing will be prefaced with Interrupt and provide the timing for the ability.
 
 Aside from Interrupt abilities that specifically state they can, class actions cannot be used in the middle of another action, such as a move or engage.
 
-#### Outside of Combat
-
-Outside of combat, class abilities can be triggered at any time, as long as the ability makes sense to be triggered outside of combat and doesn't have timing specified.
+Outside of combat, class abilities can be triggered at any time, as long as the ability makes sense to be triggered outside of combat and doesn't have timing specified. There is no limit to how many times you can trigger different or even the same class ability outside of battle - you are limited only by the amount of tenacity you have. The exception, again, is Interrupt class abilities. These can only be used once per the specified timing.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290926" target="_blank">Source</a>
 :::

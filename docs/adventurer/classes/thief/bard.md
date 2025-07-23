@@ -10,6 +10,16 @@ hoverText: ""
 
 **Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 2 hexes of you, including yourself.
 
+:::tip[FAQ]
+**Can you reroll results that _must be resolved_?**
+
+Some skill results state that they must be resolved. However, you are still allowed to reroll them using the Bard's innate.
+
+Remember that the Bard's innate only functions during unit turns, so any rolls that are made outside of battle or outside of a turn, cannot be rerolled with this innate.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Source</a>
+:::
+
 | Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     |
 | ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 2 enemies that were just deployed.                                                                                                            |

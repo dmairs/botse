@@ -33,14 +33,17 @@ hoverText: ""
 
 ---
 
-:::info
+:::tip[FAQ]
+
 **When using the Wayfarer class ability, can you choose an ability from Novice or Master side?**
 
-You may choose any class ability from the randomly drawn class, either from Novice or Master side.
+When you use this ability, you can choose the ability you use from either the novice or master side.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331285375838191708" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294924" target="_blank">Source</a>
 
----
+:::
+
+:::info
 
 **When using the Wayfarer class ability, if I use the [Warden's](/docs/adventurer/classes/mage/warden) Feral Guardian ability to summon a companion, does it persist after battle?**
 

@@ -34,11 +34,11 @@ yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
 
 ---
 
-:::info
+:::tip[FAQ]
 **Can [Detection](/docs/battles/enemy-skills/detection) enemies target you while you have Consuming Darkness active?**
 
-Detection ignores the stealth dice effect, but does not ignore class abilities. The class ability would still trigger, and the enemy would be unable to attack the adventurer.
+If you have a [Stealth](/docs/battles/status-effects/stealth) die in your [cooldown track](/docs/glossary/cooldown-track), Consuming Darkness protects you from being targeted even by enemies with [Detection](/docs/battles/enemy-skills/detection). The reasoning for this is because, while the Detection enemy ignores your Stealth, you yourself don't have to ignore that you have it for the sake of other effects such as this class ability. So while Stealth is ignored, Consuming Darkness is not.
 
-<a href="https://discord.com/channels/273472391403798528/1392760349379399770/1392764832905953380" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294922" target="_blank">Source</a>
 
 :::
