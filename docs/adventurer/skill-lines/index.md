@@ -7,7 +7,7 @@ slug: /adventurer/skill-lines/index
 
 Skill dice are grouped together into skill lines and are ranked by level. Skill lines are divided into three of Tamriel's major constellations, which are shown at the bottom of skill line reference sheets with that constellation's icon and color. The outer border color and number of pips on the skill line token correspond to the constellation, as well.
 
-Skill line attribute tokens are added by visiting trainers during [town](/docs/campaign/day/encounter-phase/town) encounters. When a skill line is added, it becomes trained. Place the new skill line token in an open circular slot at the left or right end of any row. An adventurer cannot have more than 1 of the same skill line attribute token.
+Skill line attribute tokens are added by visiting trainers during [town](/docs/campaign/day/encounter-phase/town) encounters. When a skill line is added, it becomes [trained](/docs/glossary/trained/). Place the new skill line token in an open circular slot at the left or right end of any row. An adventurer cannot have more than 1 of the same skill line attribute token.
 
 Many skill lines are associated with a specific [battle form](/docs/battles/battle-forms/index); that battle form's icon is depicted on the skill line's reference sheet. Battle forms determine the [range](/docs/glossary/range) at which dice can affect other units and whether a skill can be combined with other dice during an [engage](/docs/battles/adventurer-turn/engage) action.
 

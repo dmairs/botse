@@ -6,7 +6,7 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Have a level 2 skill die trained in 2 different [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief) type skill lines.
+**Upgrade**: Have a level 2 skill die [trained](/docs/glossary/trained/) in 2 different [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief) type skill lines.
 
 **Innate Ability**: When engaged by an [adjacent](/docs/glossary/adjacent) enemy, prevent 1 damage dealt to you for each miss rolled.
 
