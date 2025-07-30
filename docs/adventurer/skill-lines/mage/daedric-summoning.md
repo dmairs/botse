@@ -28,6 +28,15 @@ title: Daedric Summoning
 You must always do as much as possible in an ability. So you can do the second part without the first only if there are no enemies to deal the damage to.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Source</a>
+
+---
+
+**How does the free class ability work?**
+
+Whenever there is a turn within a turn, or an engage within an engage, or a (non-interrupt) class ability within an engage - pause the current turn/engage, and resolve the thing "within" as if it is its own complete and separate thing. The damage dealt all gets dealt, it is not held to be later dealt with the damage of the encompassing engage/turn. Once you've finished the thing "within," unpause the encompassing turn/engage and continue on.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
+
 :::
 
 ### Bound Armaments
@@ -72,9 +81,9 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 :::info
 **Can you choose not to apply this effect to a companion, and thus not reduce this die by 1?**
 
-It is not optional, so if it's active, you need to use it and reduce it. Only way to get out of that is exhausting it.
+It is not optional, if it's active, you need to use it and reduce it. The only way to get out of that is exhausting it.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a> / <a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source 2</a>
 :::
 
 ## Level 3

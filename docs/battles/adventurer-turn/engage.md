@@ -92,13 +92,13 @@ Only a unit's target is considered to be engaged. If a unit deals damage to a no
 
 **How are dice and damage resolved on your turn?**
 
-During an engagement, resolve dice one at a time. But damage and damage prevention are pooled and applied to the affected enemy after you resolve the last die of the engage that deals damage to that enemy.
+Dice are resolved one at a time in the order the player chooses. For dice that deal damage, pool all damage that would be dealt to each non-adventurer, and apply that damage after the last die dealing damage to that unit is resolved. If any rolled dice allow non-adventurers to prevent damage, also pool these dice when calculating damage taken. Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved.
 
-For dice that require a target, or for a unit to be targetable/adjacent/within range/within sight etc., the unit must be in the proper position at the time the die is resolved - not necessarily when the damage is applied.
+This replaces the b. point under Resolve the Roll on pg. 60 of the rulebook.
 
-For the sake of some skills and abilities (most notably, the enemy skill Dodge), you may need to determine which dice you are resolving, and how you are resolving them, before you begin to resolve any dice. This is explained in the rulebook on pg. 60 by breaking down the "Resolve the Roll" step into the following sub-steps: first, a) Determine the results to resolve, then b) Resolve abilities.
+Damage dealt by adventurers is pooled when dealt to **enemies or companions**. Damage is is not pooled when dealt to adventurers.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293108" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Source</a>
 
 ---
 
