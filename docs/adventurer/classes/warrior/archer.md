@@ -35,7 +35,7 @@ hoverText: ""
 :::info
 **Do you have to apply all of the statuses you roll as part of Venom Arrow?**
 
-You roll all 3 and must apply all 3 (or as many as possible). It's a little bit of the risk you take when you use this skill.
+You roll all 3 and must apply all 3 (or as many as possible).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361763413876801617" target="_blank">Source</a>
 
