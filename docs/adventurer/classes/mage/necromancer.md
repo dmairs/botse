@@ -56,6 +56,14 @@ No, [adventurer](/docs/glossary/adventurer) [health](/docs/adventurer/stats/heal
 There is no way to just decide to take a companion out of play. You need to get it defeated if you want to get rid of it.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
+
+---
+
+**Does Spiritual Guardian persist between sessions?**
+
+No, it is discarded at the end of the session.
+
+<a href="https://discord.com/channels/273472391403798528/1393185130910187530/1393186198263959615" target="_blank">Source</a>
 :::
 
 :::tip[FAQ]
