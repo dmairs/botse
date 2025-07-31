@@ -41,6 +41,14 @@ You roll all 3 and must apply all 3 (or as many as possible).
 
 ---
 
+**Do you need to apply the status dice rolled from Venom Arrow to different enemies?**
+
+No, you can apply them to the same enemy if you want. You may also apply multiple copies of a status die (e.g. Stealth) to a single enemy (they will still only have one stealth die).
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1400248226208022670" target="_blank">Source</a>
+
+---
+
 **Does the Accuracy ability allow you to increase the range of the Novice Innate?**
 
 It doesn't work in conjunction with the innate. A targetable enemy and selecting a target are different things. That innate never has you select a target, it just lets you damage an enemy that is eligible as a target, i.e. within your [range](/docs/glossary/range) and [sight](/docs/glossary/sight).
