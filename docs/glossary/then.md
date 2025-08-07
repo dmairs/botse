@@ -1,10 +1,10 @@
 ---
 id: then
 title: Then
-hoverText: If an ability says you must do one thing **then** do another, the first portion of that ability is the cost.
+hoverText: If an ability says you must do **X** **then** do **Y**, **X** is considered the cost and must be paid before you can perform **Y**.
 ---
 
-If an ability says you must do one thing **then** do another, the first portion of that ability is the cost.
+If an ability says you must do **X** **then** do **Y**, **X** is considered the cost and must be paid before you can perform **Y**.
 
 :::note[Example]
 The [Bow](/docs/adventurer/skill-lines/warrior/bow) skill line's Volley ability is _"Deal a total of 4 damage, distributed as you choose among enemies adjacent to you. **Then**, place yourself in an unoccupied hex 2-4 hexes away from your current hex."_
