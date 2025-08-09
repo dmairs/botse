@@ -26,7 +26,7 @@ Remove a number of dice from your [cooldown track](/docs/glossary/cooldown-track
 Perform 1 or more of the below actions in any order you choose. You must resolve each action before you perform another action. Some actions prevent an adventurer from performing others, but there is no hard limit to the number of actions an adventurer can perform on their turn.
 
 - **[Move](/docs/battles/adventurer-turn/move):** Move a number of [adjacent](/docs/glossary/adjacent) hexes up to the value of your [Stamina](/docs/adventurer/stats/stamina) stat.
-- **[Engage](/docs/battles/adventurer-turn/engage):** Any number of times per turn, roll a number of available skill dice up to your [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, as appropriate for each skill.
+- **[Engage](/docs/battles/adventurer-turn/engage):** Any number of times per turn, roll a number of [available](/docs/glossary/available) skill dice up to your [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, as appropriate for each skill.
   - After your first engage action each turn, you must gain 1 light [fatigue](/docs/glossary/fatigue) each time you perform an additional engage action (if playing on [Expert](/docs/campaign/difficulty-levels/expert) difficulty, gain 2 light fatigue instead). Otherwise, there is no limit to the number of engage actions you can perform.
 - **[Class Ability](/docs/battles/adventurer-turn/class-ability):** Any number of times per turn, spend the required amount of [tenacity](/docs/glossary/tenacity) to trigger a class ability.
   - Each non-[enduring](/docs/glossary/enduring) class ability must be triggered at its correct timing and can be triggered only once per turn.

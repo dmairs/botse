@@ -14,7 +14,7 @@ A social check can be made only during an encounter that specifically offers the
 
 ### 1. Gather and Roll Dice
 
-Adventurers with relevant skill dice, usually Speech dice, may choose to gather and roll available dice that would assist them in the social check.
+Adventurers with relevant skill dice, usually Speech dice, may choose to gather and roll [available](/docs/glossary/available) dice that would assist them in the social check.
 
 ### 2. Spend Tenacity
 
@@ -26,4 +26,4 @@ Compare the party's total die results and spent [tenacity](/docs/glossary/tenaci
 
 ## Speech in Social Checks
 
-Before [adventurers](/docs/glossary/adventurer) spend any [tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with available Speech skill dice in their attribute slots may choose to roll any number of those skill dice (regardless of their [Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of the rolled results, the numeric values on the rolled results count toward the party's social check, reducing the amount of tenacity that must be spent to succeed at the check. Regardless of success, all rolled dice are exhausted.
+Before [adventurers](/docs/glossary/adventurer) spend any [tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with [available](/docs/glossary/available) Speech skill dice in their attribute slots may choose to roll any number of those skill dice (regardless of their [Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of the rolled results, the numeric values on the rolled results count toward the party's social check, reducing the amount of tenacity that must be spent to succeed at the check. Regardless of success, all rolled dice are exhausted.
