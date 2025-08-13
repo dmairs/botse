@@ -51,6 +51,14 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/heavy-armor/ironclad.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), Resolve and Constitution dice in your cooldown track each prevent 1 additional damage. |
 
+:::info
+**Does Ironclad work with Resolve or Constitution dice that are on a tenacity face?**
+
+No, Resolve and Constitution need to be showing their proper faces in order for Ironclad to affect them. This is because Ironclad is adding to their damage prevention, it's modifying the effect of these dice, but it's still Resolve and Constitution providing that effect. They need to already be preventing damage in order to add to the damage they are preventing.
+
+<a href="https://discord.com/channels/273472391403798528/1393172741640687646/1405226452563001384" target="_blank">Source</a>
+:::
+
 ## Level 3
 
 ### Unstoppable
@@ -60,6 +68,14 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 | Icon                                                                           | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/unstoppable.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), you may [move](/docs/battles/adventurer-turn/move) 1 additional hex for each Heavy Armor skill die in your cooldown track, and you may move into hexes [occupied](/docs/glossary/occupied) by non-[quest units](/docs/glossary/quest-unit). When you do, the unit occupying the hex is [placed](/docs/glossary/move-or-place) in the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex. |
+
+:::info
+**Does Unstoppable work with Heavy Armor dice that are on a tenacity face?**
+
+Yes, Unstoppable doesn't care about what face the die is showing, because it's Unstoppable itself that has the effect, and it doesn't specify what face the die needs to have, just that they are Heavy Armor dice.
+
+<a href="https://discord.com/channels/273472391403798528/1393172741640687646/1405226452563001384" target="_blank">Source</a>
+:::
 
 ## Level 4
 

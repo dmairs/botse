@@ -74,6 +74,14 @@ The wording of this skill intentionally leaves the damage/healing until after yo
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/acrobatics/wind-walker.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your cooldown track, your non-[enduring](/docs/glossary/enduring) [class abilities](/docs/battles/adventurer-turn/class-ability) cost X fewer [tenacity](/docs/glossary/tenacity) (to a minimum of 1). |
 
+:::info
+**How does Wind Walker interact with the item Wood Elf Breeches?**
+
+Wind Walker allows you to trigger Wood Elf Breeches for 1 tenacity, but it does not then also allow you to trigger 3-tenacity class abilities as if they were 1-tenacity class abilities. The abilities it triggers need to be 1-tenacity abilities. A 3-tenacity ability is still a 3-tenacity ability, just one that you can spend less tenacity to trigger via Wind Walker.
+
+<a href="https://discord.com/channels/273472391403798528/1394605568244711454/1405224292467212490" target="_blank">Source</a>
+:::
+
 ## Level 3
 
 ### Expert Evasion

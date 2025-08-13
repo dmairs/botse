@@ -37,6 +37,16 @@ title: Bow
 No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387191141656559696" target="_blank">Source</a>
+
+---
+
+**How does Volley work with [Iron Bark](/docs/battles/enemy-skills/iron-bark)?**
+
+Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved, not at the time the damage is applied. Volley damages an adjacent enemy. Therefore the enemy must be adjacent at the time that Volley is resolved - even if that damage is pooled and then later applied after you are no longer adjacent.
+
+Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
+
+<a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Source</a>
 :::
 
 ### Acid Spray
