@@ -15,3 +15,13 @@ Among the proudest and most magically adept races in Tamriel, the High Elves see
 | [Magicka](/docs/adventurer/stats/magicka)             | 4     |
 | [Combat](/docs/adventurer/skill-lines/warrior/combat) | 1     |
 | [Cooldown](/docs/adventurer/stats/cooldown)           | 2     |
+
+---
+
+:::info
+**Can Syrabane's Boon revive/heal a [defeated](/docs/glossary/defeated) [adventurer](/docs/glossary/adventurer)?**
+
+No, during battle, defeated adventurers can only be revived by healing effects that explicitly state they work on defeated adventurers.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1405800759962107936" target="_blank">Source</a>
+:::
