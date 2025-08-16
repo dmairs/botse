@@ -33,6 +33,14 @@ A defeated adventurer can still take advantage of the 1 free town action granted
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
 
+---
+
+**When a quest says "draw and initiate a Conflict" (e.g. SK Circle A31), do you get the XP for both or just the quest?**
+
+You get XP for both.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+
 :::
 
 :::tip[FAQ]
