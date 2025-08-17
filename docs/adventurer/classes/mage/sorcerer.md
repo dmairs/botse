@@ -54,4 +54,12 @@ Yes.
 No, you can't heal yourself using this ability. Since you must remove HP from yourself and another unit, and then apply those chips to **any other unit** - you are therefore unable to apply those chips to yourself. Note that the Master side of Dark Exchange does allowing healing yourself.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343996569476792372" target="_blank">Source</a>
+
+---
+
+**Can I use Combat Dice or Heavy Armor dice to prevent the damage from Lightning Splash?**
+
+No, the damage from Lightning Splash is dealt by the Sorcerer [Adventurer](/docs/glossary/adventurer). Most damage prevention effects (including Combat and Heavy Armor skill dice) specify "When you are dealt damage by an **[enemy](/docs/glossary/enemy)**...". Therefore, you can't utilize these dice to prevent damage from Lightning Splash as it was dealt by an Adventurer.
+
+<a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Source</a>
 :::
