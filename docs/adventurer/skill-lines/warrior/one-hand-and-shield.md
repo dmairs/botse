@@ -64,6 +64,14 @@ No, it is optional.
 Yes.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Source</a>
+
+---
+
+**Do enemy skills that happen “After this unit's engage” (e.g. [Blind](/docs/battles/enemy-skills/blind)) still trigger, if you defeat an enemy using Defensive Posture?**
+
+After the engage does not trigger if the enemy is defeated, it needs to be on the board when the skill would trigger or else it doesn't happen.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
 :::
 
 ### Shield Charge

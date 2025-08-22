@@ -43,6 +43,20 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/immovable.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), after an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) [engages](/docs/battles/enemy-turn) you, deal that enemy damage equal to the number of [available](/docs/glossary/available) [Combat](/docs/adventurer/skill-lines/warrior/combat) skill dice you have. |
 
+:::info
+**What is the timing of "...after an adjacent enemy engages you"?**
+
+After the enemy has fully resolved the roll for their engage, i.e. **after** damage has been dealt by the enemy. See the "Unit's React" step of the Turn Sequence on a [Enemy Turn](/docs/battles/enemy-turn).
+
+---
+
+**Do enemy skills that happen “After this unit's engage” (e.g. [Blind](/docs/battles/enemy-skills/blind)) still trigger, if you defeat an enemy using Immovable?**
+
+After the engage does not trigger if the enemy is defeated, it needs to be on the board when the skill would trigger or else it doesn't happen.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
+:::
+
 ### Ironclad
 
 **Dice Supply:** 1
