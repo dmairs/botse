@@ -19,3 +19,9 @@ The Daze status effect says that if an enemy moves on its turn, it can't roll di
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292494" target="_blank">Source</a>
 :::
+
+:::info
+**Can you [lockpick](/docs/glossary/lockpicking) if you have Daze and have moved on your turn?**
+
+No, to lockpick you need to be able to roll dice. If you have moved on your turn you are not able to lockpick.
+:::
