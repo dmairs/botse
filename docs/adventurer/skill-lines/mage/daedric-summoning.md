@@ -25,9 +25,11 @@ title: Daedric Summoning
 :::info
 **Can you trigger a class ability without dealing damage first?**
 
-You must always do as much as possible in an ability. So you can do the second part without the first only if there are no enemies to deal the damage to.
+No, dealing 1 true damage to an adjacent enemy is considered a cost that must be paid to trigger a class ability.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Source</a>
+If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
 
 ---
 
