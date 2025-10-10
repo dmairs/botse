@@ -12,6 +12,14 @@ This unit considers all [units](/docs/glossary/unit) to be opposing units. If th
 
 ---
 
+:::warning[Errata]
+This unit has a range of 1, considers allied units to be targetable, and can only target the strongest adjacent unit. Enemies remove this die after dealing damage.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1426011120522760232" target="_blank">Source</a>
+:::
+
+---
+
 :::tip[FAQ]
 **How does Blind effect enemy targeting?**
 
