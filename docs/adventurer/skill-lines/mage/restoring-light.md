@@ -19,6 +19,14 @@ title: Restoring Light
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/restoring-light/purge.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At any time, you may exhaust this die to remove 1 status die from a [party](/docs/glossary/party) member and heal them for 1 HP. |
 
+:::info
+**What is the timing of "At any time..."?**
+
+"At any time" includes outside of your turn. However, you cannot interrupt something else that is currently resolving. (The one exception to this, of course, would be your own engage, as you are generally always allowed to resolve dice in active slots as you are resolving the different dice of your engage)
+
+<a href="https://discord.com/channels/273472391403798528/1392799821441663016/1428069890337669343" target="_blank">Source</a>
+:::
+
 ### Hasty Prayer
 
 **Dice Supply:** 1

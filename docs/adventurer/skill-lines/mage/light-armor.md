@@ -58,10 +58,9 @@ No, you can't roll Light Armor dice outside of battle. However, if they are alre
 :::info
 **What is the timing of Evocation?**
 
-It can be used during your turn.
+"At any time". This includes outside of your turn. However, you cannot interrupt something else that is currently resolving. (The one exception to this, of course, would be your own engage, as you are generally always allowed to resolve dice in active slots as you are resolving the different dice of your engage)
 
-<a href="https://www.youtube.com/live/caBdZPgLDsE?si=ZhTKQ-TT9fnf0MwD&t=4898" target="_blank">Source (YouTube)</a>
-
+<a href="https://discord.com/channels/273472391403798528/1392765632021266495/1428070083976105994" target="_blank">Source</a>
 :::
 
 ### Enchant Weapon
