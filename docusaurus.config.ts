@@ -50,7 +50,7 @@ const config: Config = {
       appId: "MGWXDK9XAV",
       apiKey: "f5bc8a4afdd20ef7754fa018b947a2f7",
       indexName: "botse",
-
+      askAi: "JQFgkf3mV5vk",
       contextualSearch: true,
       externalUrlRegex: "external\\.com|domain\\.com",
       searchParameters: {},
