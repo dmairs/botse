@@ -36,4 +36,12 @@ Maim only interacts with damage dealt, so you may still freely roll Combat dice 
 Only the damage dealt by Combat dice is halved, all other damage is unaffected.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+
+---
+
+**Which Combat dice does Maim affect?**
+
+Both white and black Combat dice will be affected by Maim.
+
+<a href="http://boardgamegeek.com/thread/3517103/article/46125866#46125866" target="_blank">Source</a>
 :::
