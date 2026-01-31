@@ -29,7 +29,7 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Consum
 
 ### Guild Kiosk Town Action
 
-**Guild Hall Study:** [Discard](/docs/glossary/discard) 1 [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable) or [<img src="/icons/enchantment.svg" alt="Enchantment Item Icon" className="icon-svg" />](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
+**Guild Hall Study:** [Discard](/docs/glossary/discard) 1 [<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion) or [<img src="/icons/enchantment.svg" alt="Enchantment Item Icon" className="icon-svg" />](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
 
 ### Guild Focus
 
