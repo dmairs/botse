@@ -64,6 +64,15 @@ There is no way to just decide to take a companion out of play. You need to get 
 No, it is discarded at the end of the session.
 
 <a href="https://discord.com/channels/273472391403798528/1393185130910187530/1393186198263959615" target="_blank">Source</a>
+
+---
+
+**How does [Stalwart](/docs/battles/enemy-skills/stalwart) and Master Blastbones work?**
+
+[Stalwart](/docs/battles/enemy-skills/stalwart) is only applicable to HP lost in a unit's turn. It doesn't apply for damage dealt outside of a unit's turn, such as damage dealt by the companions summoned through Master Blastbones.
+
+<a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Source</a>
+
 :::
 
 :::tip[FAQ]

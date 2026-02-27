@@ -116,3 +116,11 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 | Icon                                                                    | Ability                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/scatter-shot.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): All damage dealt to your target this [engage](/docs/battles/adventurer-turn/engage) [may](/docs/glossary/may) also be dealt to another [targetable](/docs/glossary/targetable) [enemy](/docs/glossary/enemy). [Defense](/docs/adventurer/stats/defense) ignored as a result of Snipe dice may also be ignored for this enemy. |
+
+:::info
+**Does Scatter Shot count as 'dealing damage' for the purpose of engaging [Dodge](/docs/battles/enemy-skills/dodge)?**
+
+Scatter Shot counts as a damage-dealing die for the purpose of [Dodge](/docs/battles/enemy-skills/dodge) (as long as it actually results in damage being dealt).
+
+<a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Source</a>
+:::

@@ -14,4 +14,13 @@ This [unit](/docs/glossary/unit) [cannot](/docs/glossary/cannot) lose more than 
 If a unit can't lose HP, for example by having the enemy skill Stalwart, nothing can cause it to lose HP. This includes true damage. This isn't damage prevention like defense is, so no type of damage can override this. Only skills/abilities that would straight up [defeat](/docs/glossary/defeated) the unit outright can get around this (or the [Fear](/docs/battles/status-effects/fear) status effect, which would then allow you to ignore the skill entirely).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293224" target="_blank">Source</a>
+
+:::
+
+:::info
+**How does Stalwart and Master [Blastbones](/docs/adventurer/classes/mage/necromancer) work?**
+
+Stalwart is only applicable to HP lost in a unit's turn. It doesn't apply for damage dealt outside of a unit's turn, such as damage dealt by the companions summoned through Master Blastbones.
+
+<a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Source</a>
 :::

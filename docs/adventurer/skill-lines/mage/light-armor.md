@@ -43,6 +43,14 @@ No, you can't roll Light Armor dice outside of battle. However, if they are alre
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/light-armor/spell-warding.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): Once per turn, when engaged by an [enemy](/docs/glossary/enemy), you may reduce this die by any number to prevent 1 damage. You may [then](/docs/glossary/then) [recover](/docs/glossary/recover) a single [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill die equal in level to the value by which you reduced this die. |
 
+:::info
+**Can Spell Warding recover itself as part of resolving its effect?**
+
+Yes, it can recover itself. If Spell Warding reduces itself to a number not on the die, per the Light Armor rules, it exhausts itself when that happens. It therefore will be in the cooldown track at the time you recover dice from the rest of the Spell Warding ability, and so it can be the die you recover.
+
+<a href="https://discord.com/channels/273472391403798528/1440460820445139104/1476322833767338025" target="_blank">Source</a>
+:::
+
 ## Level 2
 
 ### Evocation

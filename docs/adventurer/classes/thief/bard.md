@@ -50,6 +50,14 @@ Yes, you can make the decision to use the Bard's Stagger and Sway ability any ti
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
 
+---
+
+**How does Elusive work with damage that happens outside of a turn (e.g Red Mountain Drinking Song)?**
+
+Elusive is only able to prevent damage that happens within a turn. It's not applicable to damage that happens outside of a unit's turn. So Bard's Red Mountain Drinking Song is not affected by Elusive when used after the initial enemy deployment that happens outside of a turn.
+
+<a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Source</a>
+
 :::
 
 :::tip[FAQ]
