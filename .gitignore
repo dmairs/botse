@@ -8,6 +8,12 @@
 .docusaurus
 .cache-loader
 
+# Compiled JS output generated from TypeScript sources
+docusaurus.config.js
+sidebars.js
+src/**/*.js
+!src/components/SkillLines/addTooltips.js
+
 # Misc
 .DS_Store
 .env.local
