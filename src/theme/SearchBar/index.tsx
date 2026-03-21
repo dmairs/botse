@@ -8,6 +8,7 @@
 
 import React, {
   useCallback,
+  useEffect,
   useMemo,
   useRef,
   useState,
@@ -206,18 +207,20 @@ function useSearchParameters({
 }
 
 function useAiSearchPreference(): [boolean, () => void] {
-  const [aiEnabled, setAiEnabled] = useState<boolean>(() => {
-    if (typeof window === "undefined") return true;
+  // Default to true for SSR safety; corrected from localStorage after mount.
+  const [aiEnabled, setAiEnabled] = useState<boolean>(true);
+
+  useEffect(() => {
     const stored = localStorage.getItem(AI_SEARCH_STORAGE_KEY);
-    return stored === null ? true : stored === "true";
-  });
+    if (stored !== null) {
+      setAiEnabled(stored === "true");
+    }
+  }, []);
 
   const toggle = useCallback(() => {
     setAiEnabled((prev) => {
       const next = !prev;
-      if (typeof window !== "undefined") {
-        localStorage.setItem(AI_SEARCH_STORAGE_KEY, String(next));
-      }
+      localStorage.setItem(AI_SEARCH_STORAGE_KEY, String(next));
       return next;
     });
   }, []);
