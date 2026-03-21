@@ -58,3 +58,50 @@ html[data-theme="dark"] .skill-icon {
 input[type="search"] {
   font-size: 16px;
 }
+
+/* AI search toggle button shown alongside the DocSearch button */
+.search-with-ai-toggle {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.search-ai-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 7px;
+  border-radius: var(--ifm-global-radius);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: transparent;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  transition: color var(--ifm-transition-fast),
+    border-color var(--ifm-transition-fast),
+    background var(--ifm-transition-fast);
+  white-space: nowrap;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.search-ai-toggle--enabled {
+  color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.search-ai-toggle--enabled:hover {
+  background: var(--ifm-color-primary);
+  color: var(--ifm-color-white);
+}
+
+.search-ai-toggle--disabled {
+  color: var(--ifm-color-emphasis-500);
+  border-color: var(--ifm-color-emphasis-300);
+  text-decoration: line-through;
+}
+
+.search-ai-toggle--disabled:hover {
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-emphasis-700);
+}
