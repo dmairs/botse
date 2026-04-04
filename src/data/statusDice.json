@@ -1,0 +1,44 @@
+[
+  {
+    "id": "bane",
+    "name": "Bane",
+    "icon": "/icons/bane.svg",
+    "hoverText": "This unit is dealt 1 true damage at the start of each of its turns.",
+    "filePath": "/docs/battles/status-effects/bane"
+  },
+  {
+    "id": "blind",
+    "name": "Blind",
+    "icon": "/icons/blind.svg",
+    "hoverText": "This unit considers all units to be opposing units. If this unit engages, it can only target the strongest adjacent unit.",
+    "filePath": "/docs/battles/status-effects/blind"
+  },
+  {
+    "id": "daze",
+    "name": "Daze",
+    "icon": "/icons/daze.svg",
+    "hoverText": "This unit cannot roll dice on the same turn it moves, and it cannot move on the same turn it rolls dice. At the end of this unit's turn, remove this die.",
+    "filePath": "/docs/battles/status-effects/daze"
+  },
+  {
+    "id": "fear",
+    "name": "Fear",
+    "icon": "/icons/fear.svg",
+    "hoverText": "The effects of this unit's non-Combat skills are ignored. This effect does not apply to skill dice already in active slots or the cooldown track.",
+    "filePath": "/docs/battles/status-effects/fear"
+  },
+  {
+    "id": "maim",
+    "name": "Maim",
+    "icon": "/icons/maim.svg",
+    "hoverText": "When this unit rolls Combat skill dice, the total damage rolled is reduced by half, then rounded down. This effect does not apply to true damage.",
+    "filePath": "/docs/battles/status-effects/maim"
+  },
+  {
+    "id": "stealth",
+    "name": "Stealth",
+    "icon": "/icons/stealth.svg",
+    "hoverText": "This unit can only be targeted by opposing units that were adjacent to it at the start of the current turn. After this unit deals damage, this die is removed.",
+    "filePath": "/docs/battles/status-effects/stealth"
+  }
+]

@@ -80,6 +80,11 @@ const config: Config = {
           position: "left",
           label: "Enemy Skills Tracker",
         },
+        {
+          to: "cooldown-track-tracker",
+          position: "left",
+          label: "Cooldown Track Tracker",
+        },
       ],
     },
     sidebar: {
