@@ -42,3 +42,9 @@ If you have a [Stealth](/docs/battles/status-effects/stealth) die in your [coold
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294922" target="_blank">Source</a>
 
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/usMp91Y8e6g?si=D7YLCuQSzOdU-ceb" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

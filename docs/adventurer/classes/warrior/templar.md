@@ -36,3 +36,9 @@ If a game effect depends on how much a unit healed, the amount considered is the
 | 3             | Sun Shield       | Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                                                          | —                                               |
 | 3             | Solar Flare      | Deal a targetable enemy damage equal to your [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                    | —                                               |
 | 4             | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Roll 4 enemy Combat dice and deal the damage to all targetable enemies. Deal an additional 2 damage to all <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemies. | + 1 enemy Combat die. Tenacity cost<br/>(5 → 4) |
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/Dg6WFMrrnao?si=oZwpUg5kmUIW_XDp" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

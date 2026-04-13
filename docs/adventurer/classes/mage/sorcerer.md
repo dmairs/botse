@@ -63,3 +63,9 @@ No, the damage from Lightning Splash is dealt by the Sorcerer [Adventurer](/docs
 
 <a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/6q0cdtwwRg8?si=ypNfHcpF07ySebuY" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

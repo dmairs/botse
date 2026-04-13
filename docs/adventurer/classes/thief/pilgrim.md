@@ -60,3 +60,9 @@ No, interrupt class abilities can only be used once per timing.
 <a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Source</a>
 
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/-IiwVHcxeXc?si=qba837be2dGqKSJj" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

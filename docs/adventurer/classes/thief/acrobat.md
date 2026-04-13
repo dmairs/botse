@@ -39,3 +39,9 @@ No, you must drain a skill die.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1334931433562570825" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/z2Prr-TEfDU?si=GRm4QpI_6gjHgrke" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

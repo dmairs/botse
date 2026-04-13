@@ -82,3 +82,9 @@ Yes. On the master side, you can use the Bone Armor class ability to add HP abov
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/Oa8ZPQnYJMw?si=zMDh0CC6l0bB8uT3" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

@@ -67,3 +67,9 @@ Whenever there is a turn within a turn, or an engage within an engage, or a (non
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/iiVjlUa1VUA?si=HMC0t-WaCt61Cpt_" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

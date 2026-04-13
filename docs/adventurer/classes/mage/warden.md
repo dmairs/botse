@@ -44,3 +44,9 @@ You can keep the current companion at the end of battle if you became a master d
 | 3             | Savage Beast     | Take an immediate turn for an [adjacent](/docs/glossary/adjacent) non-quest <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> enemy as if it is a companion controlled by you.                                                                                                                                | New                                 |
 | 3             | Advanced Species | A [companion](/docs/glossary/companion) may immediately move up to 2 hexes and engage. If it is a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, it may move up to 2 additional hexes and increase its Combat stat by 2 for this engage.                                                                  | Tenacity cost (4→ 3)                |
 | 5             | Feral Guardian   | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Deploy [companion](/docs/glossary/companion) unit: **Feral Guardian** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. It is a companion controlled by you. _Once per battle._     | No longer removed at end of battle. |
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/QCTqtM_g6uQ?si=Cn1YPTceYBcpIPU5" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
