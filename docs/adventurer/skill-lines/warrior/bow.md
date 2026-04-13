@@ -124,3 +124,9 @@ Scatter Shot counts as a damage-dealing die for the purpose of [Dodge](/docs/bat
 
 <a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/Rg6jXq7QB8Q?si=yreGJ0XJyC8RaSOr" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

@@ -80,3 +80,9 @@ Yes. “S” dice are considered status dice. It is intentional that they are ca
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/pbaQHfMPTcs?si=kqJHRZY_670bMB3Y" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

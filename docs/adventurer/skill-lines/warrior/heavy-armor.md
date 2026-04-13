@@ -100,3 +100,9 @@ Yes, Unstoppable doesn't care about what face the die is showing, because it's U
 | Icon                                                                          | Ability                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/juggernaut.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), you may gain 1 light [fatigue](/docs/glossary/fatigue) to gain 2 [tenacity](/docs/glossary/tenacity) each time you change [battle form](/docs/battles/battle-forms/). |
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/b8GP2VkUsQI?si=NE9viVh9TY2X2lZu" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

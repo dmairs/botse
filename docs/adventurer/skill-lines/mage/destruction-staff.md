@@ -97,3 +97,9 @@ The wording of Elemental Rage is "Choose a cache in range, and deal a total of X
 | Icon                                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/ancient-knowledge.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): For each of your [available](/docs/glossary/available) [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage/) type skill dice, deal your target 1 damage and [heal](/docs/glossary/healing) for 1 HP. |
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/aP4FZQCtc_8?si=Km71KdPjv1rmKlz5" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
