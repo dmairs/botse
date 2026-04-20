@@ -30,3 +30,9 @@ hoverText: ""
 | 2             | Knight Errant       | **[Enduring](/docs/glossary/enduring):** You may consider yourself to be any single adventurer [race](/docs/adventurer/races/index) when applying game effects that refer to adventurer races.                                                                                                | New                                                                                                        |
 | 3             | Sworn Oath          | **[Interrupt](/docs/glossary/interrupt):** After you defeat an enemy, [heal](/docs/glossary/healing) for 4 HP.                                                                                                                                                                                | —                                                                                                          |
 | 5             | Oathbearer's Charge | [Discard](/docs/glossary/discard) 1 of the party's active side quests or 2 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> from your inventory. [Then](/docs/glossary/then), deal 10 damage to an [adjacent](/docs/glossary/adjacent) non-quest enemy. | Allows discarding 2 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> |
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/wIcXMnx5EAA?si=cOYjzykToEgJFb-F" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
