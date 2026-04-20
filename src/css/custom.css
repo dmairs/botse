@@ -224,6 +224,6 @@ input[type="search"] {
   }
 
   .class-table-wrapper tbody td:nth-child(4)::before {
-    content: "Upgrade effect";
+    content: "Upgrade Effect";
   }
 }
