@@ -10,6 +10,8 @@ hoverText: ""
 
 **Innate Ability**: After you defeat an enemy, you may immediately move up to 4 hexes. You may move through [units](/docs/glossary/unit) during this movement.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                 |
 | ------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Rousing Speed    | Move a number of hexes up to your [Cooldown](/docs/all/stats/cooldown) stat. If you end this movement [adjacent](/docs/glossary/adjacent) to no enemies, you may [heal](/docs/glossary/healing) for 1 HP.                                                                                               |
@@ -18,9 +20,13 @@ hoverText: ""
 | 3             | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                                                                                      |
 | 4             | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                                             |
 
+</div>
+
 ## Master
 
 **Innate Ability**: You may always move through [units](/docs/glossary/unit). After you defeat an enemy, you may immediately move up to 5 hexes.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                    | Upgrade effect                                      |
 | ------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
@@ -29,6 +35,8 @@ hoverText: ""
 | 2             | Tumbling         | **[Interrupt](/docs/glossary/interrupt):** When you would be dealt any amount of damage, you may drain a die anywhere on your adventurer mat to prevent that damage.                                                                                                                       | Removes battle form requirement. May drain any die. |
 | 3             | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                                                                         | —                                                   |
 | 3             | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                                | Tenacity cost<br/>(4 → 3)                           |
+
+</div>
 
 ---
 

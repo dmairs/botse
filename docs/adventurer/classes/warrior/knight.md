@@ -10,6 +10,8 @@ hoverText: ""
 
 **Innate Ability**: After the party gains a side quest, [heal](/docs/glossary/healing) to full HP or gain 3 [tenacity](/docs/glossary/tenacity).
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name                | Ability                                                                                                                                                                                     |
 | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Honor Duel          | If there is only 1 enemy within 3 hexes of you, deal 3 damage to that enemy.                                                                                                                |
@@ -18,9 +20,13 @@ hoverText: ""
 | 3             | Sworn Oath          | **[Interrupt](/docs/glossary/interrupt):** After you defeat an enemy, [heal](/docs/glossary/healing) for 4 HP.                                                                              |
 | 5             | Oathbearer's Charge | [Discard](/docs/glossary/discard) 1 of the party's active side quests. [Then](/docs/glossary/then), deal 10 damage to an [adjacent](/docs/glossary/adjacent) non-quest enemy.               |
 
+</div>
+
 ## Master
 
 **Innate Ability**: After the party gains a side quest, [heal](/docs/glossary/healing) to full HP or gain 3 [tenacity](/docs/glossary/tenacity). After completing a side quest with your party, [heal](/docs/glossary/healing) to full HP and clear your cooldown track.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name                | Ability                                                                                                                                                                                                                                                                                       | Upgrade effect                                                                                             |
 | ------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -30,6 +36,8 @@ hoverText: ""
 | 2             | Knight Errant       | **[Enduring](/docs/glossary/enduring):** You may consider yourself to be any single adventurer [race](/docs/adventurer/races/index) when applying game effects that refer to adventurer races.                                                                                                | New                                                                                                        |
 | 3             | Sworn Oath          | **[Interrupt](/docs/glossary/interrupt):** After you defeat an enemy, [heal](/docs/glossary/healing) for 4 HP.                                                                                                                                                                                | —                                                                                                          |
 | 5             | Oathbearer's Charge | [Discard](/docs/glossary/discard) 1 of the party's active side quests or 2 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> from your inventory. [Then](/docs/glossary/then), deal 10 damage to an [adjacent](/docs/glossary/adjacent) non-quest enemy. | Allows discarding 2 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> |
+
+</div>
 
 ## Related Content
 

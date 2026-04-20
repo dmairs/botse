@@ -16,6 +16,8 @@ If a game effect depends on how much a unit healed, the amount considered is the
 
 **Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                              |
 | ------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2             | Restoring Spirit | **[Interrupt](/docs/glossary/interrupt):** After you deal damage to an [adjacent](/docs/glossary/adjacent) enemy, [heal](/docs/glossary/healing) a party member in [sight](/docs/glossary/sight) for HP equal to the amount of damage dealt.                                                         |
@@ -24,9 +26,13 @@ If a game effect depends on how much a unit healed, the amount considered is the
 | 3             | Solar Flare      | Deal a targetable enemy damage equal to your [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                    |
 | 5             | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Roll 3 enemy Combat dice and deal the damage to all targetable enemies. Deal an additional 2 damage to all <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemies. |
 
+</div>
+
 ## Master
 
 **Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP. You may also recover a Combat skill die from your cooldown track, immediately roll it, and apply the result.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                              | Upgrade effect                                  |
 | ------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -36,6 +42,8 @@ If a game effect depends on how much a unit healed, the amount considered is the
 | 3             | Sun Shield       | Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                                                          | —                                               |
 | 3             | Solar Flare      | Deal a targetable enemy damage equal to your [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                    | —                                               |
 | 4             | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Roll 4 enemy Combat dice and deal the damage to all targetable enemies. Deal an additional 2 damage to all <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemies. | + 1 enemy Combat die. Tenacity cost<br/>(5 → 4) |
+
+</div>
 
 ## Related Content
 

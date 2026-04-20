@@ -10,6 +10,8 @@ hoverText: ""
 
 **Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy) than undefeated [party members](/docs/glossary/party), ignore 1 defense on your target.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Dragon Leap           | Each adventurer may move 1 hex. You may spend any amount of additional [tenacity](/docs/glossary/tenacity) to increase the number of hexes each adventurer may move by 1 for each additional tenacity spent.                                                                                                                                                                                                                                                                                        |
@@ -18,9 +20,13 @@ hoverText: ""
 | 2             | Cauterize             | Gain 1 [overfatigue](/docs/glossary/fatigue) and recover up to 2 [drained](/docs/glossary/drained) dice.                                                                                                                                                                                                                                                                                                                                                                                            |
 | 3             | Dragon Blood          | **[Enduring](/docs/glossary/enduring):** After you defeat an enemy, you may remove 2 light [fatigue](/docs/glossary/fatigue) or 1 overfatigue from your cooldown track.                                                                                                                                                                                                                                                                                                                             |
 
+</div>
+
 ## Master
 
 **Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy) than undefeated [party members](/docs/glossary/party), you ignore 1 defense on all enemies.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Upgrade effect                      |
 | ------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -29,6 +35,8 @@ hoverText: ""
 | 2             | Molten Weapons        | **[Interrupt](/docs/glossary/interrupt):** After rolling dice for your engage, if you are using a [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon), your Combat skill dice deal [true damage](/docs/glossary/true-damage) during this engage.                                                                                                                                                                                          | May be triggered after rolling dice |
 | 2             | Cauterize             | Gain 1 [overfatigue](/docs/glossary/fatigue) and recover up to 2 [drained](/docs/glossary/drained) dice.                                                                                                                                                                                                                                                                                                                                                                                            | —                                   |
 | 3             | Dragon Blood          | **[Enduring](/docs/glossary/enduring):** After any adventurer defeats an enemy, they may remove 2 light [fatigue](/docs/glossary/fatigue) or 1 overfatigue from their cooldown track.                                                                                                                                                                                                                                                                                                               | Affects all adventurers             |
+
+</div>
 
 ---
 
