@@ -195,9 +195,8 @@ input[type="search"] {
   }
 
   .class-table-wrapper tbody td {
-    display: grid;
-    grid-template-columns: minmax(7.5rem, 40%) minmax(0, 1fr);
-    gap: 0.4rem;
+    display: block;
+    padding: 0.45rem 0.6rem;
     border: 0;
     border-top: 1px solid var(--ifm-color-emphasis-200);
   }
@@ -207,6 +206,8 @@ input[type="search"] {
   }
 
   .class-table-wrapper tbody td::before {
+    display: block;
+    margin-bottom: 0.2rem;
     font-weight: 700;
     color: var(--ifm-color-emphasis-700);
   }
