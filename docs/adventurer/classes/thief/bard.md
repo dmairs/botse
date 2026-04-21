@@ -20,6 +20,8 @@ Remember that the Bard's innate only functions during unit turns, so any rolls t
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Source</a>
 :::
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     |
 | ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 2 enemies that were just deployed.                                                                                                            |
@@ -28,9 +30,13 @@ Remember that the Bard's innate only functions during unit turns, so any rolls t
 | 3             | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. |
 | 3             | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          |
 
+</div>
+
 ## Master
 
 **Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 4 hexes of you, including yourself.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     | Upgrade effect             |
 | ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -40,6 +46,8 @@ Remember that the Bard's innate only functions during unit turns, so any rolls t
 | 2             | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. | Tenacity cost<br/>(3 → 2)  |
 | 3             | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          | —                          |
 | 5             | Battle of Glenumbra Moors  | Choose an adventurer. That adventurer removes all light [fatigue](/docs/glossary/fatigue) from their [cooldown track](/docs/glossary/cooldown-track) and takes an immediate turn. Your turn resumes when this turn ends. _Once per battle._                                 | New                        |
+
+</div>
 
 ---
 

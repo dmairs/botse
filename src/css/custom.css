@@ -122,3 +122,109 @@ input[type="search"] {
   height: 100%;
   border: 0;
 }
+
+.class-table-wrapper {
+  width: 100%;
+  margin: 1rem 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.class-table-wrapper table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.class-table-wrapper th,
+.class-table-wrapper td {
+  padding: 0.45rem 0.6rem;
+  font-size: 0.9rem;
+  vertical-align: top;
+  white-space: normal;
+}
+
+.class-table-wrapper th:nth-child(3),
+.class-table-wrapper td:nth-child(3),
+.class-table-wrapper th:nth-child(4),
+.class-table-wrapper td:nth-child(4) {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+@media (max-width: 768px) {
+  .class-table-wrapper table {
+    min-width: 42rem;
+  }
+
+  .class-table-wrapper th,
+  .class-table-wrapper td {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.82rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .class-table-wrapper table,
+  .class-table-wrapper thead,
+  .class-table-wrapper tbody,
+  .class-table-wrapper tr,
+  .class-table-wrapper th,
+  .class-table-wrapper td {
+    display: block;
+  }
+
+  .class-table-wrapper table {
+    min-width: 0;
+  }
+
+  .class-table-wrapper thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+
+  .class-table-wrapper tbody tr {
+    margin: 0 0 0.75rem;
+    border: 1px solid var(--ifm-color-emphasis-300);
+    border-radius: var(--ifm-global-radius);
+  }
+
+  .class-table-wrapper tbody td {
+    display: block;
+    padding: 0.45rem 0.6rem;
+    border: 0;
+    border-top: 1px solid var(--ifm-color-emphasis-200);
+  }
+
+  .class-table-wrapper tbody td:first-child {
+    border-top: 0;
+  }
+
+  .class-table-wrapper tbody td::before {
+    display: block;
+    margin-bottom: 0.2rem;
+    font-weight: 700;
+    color: var(--ifm-color-emphasis-700);
+  }
+
+  .class-table-wrapper tbody td:nth-child(1)::before {
+    content: "Tenacity Cost";
+  }
+
+  .class-table-wrapper tbody td:nth-child(2)::before {
+    content: "Name";
+  }
+
+  .class-table-wrapper tbody td:nth-child(3)::before {
+    content: "Ability";
+  }
+
+  .class-table-wrapper tbody td:nth-child(4)::before {
+    content: "Upgrade Effect";
+  }
+}

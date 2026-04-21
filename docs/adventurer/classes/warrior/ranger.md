@@ -12,6 +12,8 @@ tags:
 
 **Innate Ability**: The party's base overland movement is increased by 1.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                                 |
 | ------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2             | Trapping Webs    | **[Interrupt](/docs/glossary/interrupt):** At the start of any enemy's turn, reduce its movement this turn by 1.                                                                                                                                                                                                        |
@@ -20,9 +22,13 @@ tags:
 | 3             | Revealing Flare  | **[Enduring](/docs/glossary/enduring):** When the party rolls to determine an unstable encounter, you may reroll the unstable die once.                                                                                                                                                                                 |
 | 5             | Nimble Protector | **[Interrupt](/docs/glossary/interrupt):** When you would take damage, deal all of that damage to an [adjacent](/docs/glossary/adjacent) unit [instead](/docs/glossary/instead).                                                                                                                                        |
 
+</div>
+
 ## Master
 
 **Innate Ability**: The party's base overland movement is increased by 1. Each adventurer may remove 1 additional die during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase/#2-adventurers-rest) step.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name               | Ability                                                                                                                                                                                                                                                                                                                 | Upgrade effect            |
 | ------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -32,3 +38,5 @@ tags:
 | 3             | Wanderer           | **[Interrupt](/docs/glossary/interrupt):** After drawing a Peaceful (<img src="/icons/peaceful.svg" alt="Peaceful Icon" className="icon-svg" />) or Conflict (<img src="/icons/conflict.svg" alt="Conflict Icon" className="icon-svg" />) overland encounter card, discard that card and draw another of the same type. | —                         |
 | 3             | Revealing Flare    | **[Enduring](/docs/glossary/enduring):** When the party rolls to determine an unstable encounter, you may reroll the unstable die up to 2 times.                                                                                                                                                                        | + 1 reroll                |
 | 4             | Nimble Protector   | **[Interrupt](/docs/glossary/interrupt):** When you would take damage, deal all of that damage to an [adjacent](/docs/glossary/adjacent) unit [instead](/docs/glossary/instead).                                                                                                                                        | Tenacity cost<br/>(5 → 4) |
+
+</div>

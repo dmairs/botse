@@ -10,6 +10,8 @@ hoverText: ""
 
 **Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die is removed or recovered from your [cooldown track](/docs/glossary/cooldown-track), you may move up to 4 hexes.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name                    | Ability                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Summon Shade            | **[Interrupt](/docs/glossary/interrupt):** When any party member would be dealt damage, remove a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die from your [cooldown track](/docs/glossary/cooldown-track) to prevent that damage.                                                            |
@@ -18,10 +20,14 @@ hoverText: ""
 | 3             | Manifestation of Terror | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Place a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die in an [adjacent](/docs/glossary/adjacent) [unoccupied](/docs/glossary/occupied) hex. Apply that die to the next unit to enter that hex. |
 | 5             | Consuming Darkness      | **[Enduring](/docs/glossary/enduring):** While you have a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in your [cooldown track](/docs/glossary/cooldown-track), enemies cannot target you.                                                                                                 |
 
+</div>
+
 ## Master
 
 **Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in removed or recovered from your [cooldown track](/docs/glossary/cooldown-track), you may [heal](/docs/glossary/healing) for 1 HP and place
 yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name                    | Ability                                                                                                                                                                                                                                                                                                                                                                              | Upgrade effect            |
 | ------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
@@ -31,6 +37,8 @@ yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
 | 3             | Soul Shred              | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status die to all [adjacent](/docs/glossary/adjacent) enemies. Heal any party member for 1 HP for each Daze die applied.                            | May heal any party member |
 | 3             | Manifestation of Terror | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Place a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die in an [adjacent](/docs/glossary/adjacent) [unoccupied](/docs/glossary/occupied) hex. Apply that die to the next enemy to enter that hex. | Affects only enemy units  |
 | 4             | Consuming Darkness      | **[Enduring](/docs/glossary/enduring):** While you have a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in your [cooldown track](/docs/glossary/cooldown-track), enemies cannot target you.                                                                                                  | Tenacity cost<br/>(5 → 4) |
+
+</div>
 
 ---
 

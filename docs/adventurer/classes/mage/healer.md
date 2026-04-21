@@ -10,6 +10,8 @@ hoverText: ""
 
 **Innate Ability**: At the start of your turn, you may gain 1 light [fatigue](/docs/glossary/fatigue) to [heal](/docs/glossary/healing) yourself or an [adjacent](/docs/glossary/adjacent) party member for 1 HP.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name              | Ability                                                                                                                                                                                                                                                                          |
 | ------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Medicinal Use     | [Discard](/docs/glossary/discard) an item. [Then](/docs/glossary/then), [heal](/docs/glossary/healing) any 1 party member for 3 HP.                                                                                                                                              |
@@ -18,9 +20,14 @@ hoverText: ""
 | 2             | Liquid Efficiency | Move up to 4 light [fatigue](/docs/glossary/fatigue) from any adventurers' cooldown tracks to your [active slots](/docs/glossary/active-slot). Heal yourself for 1 HP for each fatigue moved this way (these light fatigue dice are treated as active skill dice until removed). |
 | 3             | Hope Infusion     | Any 1 [adventurer](/docs/glossary/adventurer) in play gains 3 [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                               |
 
+</div>
+
 ## Master
 
 **Innate Ability**: At the start of your turn, you may gain 1 light [fatigue](/docs/glossary/fatigue) to [heal](/docs/glossary/healing) any 1 party member for 2 HP.  
+
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name | Ability | Upgrade effect |
 | ------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | 1 | Medicinal Use | [Discard](/docs/glossary/discard) an item. [Then](/docs/glossary/then), [heal](/docs/glossary/healing) any 1 party member to their full HP. | Healing amount (3 → full) |
@@ -29,3 +36,5 @@ hoverText: ""
 | 2 | Liquid Efficiency | Move up to 4 [fatigue](/docs/glossary/fatigue) from any adventurers' cooldown tracks to your [active slots](/docs/glossary/active-slot). Heal yourself for 1 HP for each fatigue moved this way (these fatigue dice are treated as active skill dice until removed). | Allows [overfatigue](/docs/glossary/fatigue) dice moving |
 | 3 | Hope Infusion | Any 1 [adventurer](/docs/glossary/adventurer) in play gains 3 [bonus HP](/docs/glossary/bonus-hp). | — |
 | 4 | From the Brink | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) **[Interrupt](/docs/glossary/interrupt):** At any time, revive a [defeated](/docs/glossary/defeated) [party](/docs/glossary/party) member, [healing](/docs/glossary/healing) them to full HP, and deploy them to any [unoccupied](/docs/glossary/occupied) hex. You may use this ability even while defeated, even on yourself. | New |
+
+</div>

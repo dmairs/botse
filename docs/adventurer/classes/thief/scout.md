@@ -10,6 +10,8 @@ hoverText: ""
 
 **Innate Ability**: **[Interrupt](/docs/glossary/interrupt):** After deploying enemies at the start of a clash or dungeon, you may swap the positions of 2 non-quest enemies.
 
+<div className="class-table-wrapper">
+
 | Tenacity Cost | Name              | Ability                                                                                                                                                                                                                                                                                                                                                               |
 | ------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Treasure Hunter   | **[Interrupt](/docs/glossary/interrupt):** When making a lockpick check, gain 1 additional attempt for that check.                                                                                                                                                                                                                                                    |
@@ -18,9 +20,13 @@ hoverText: ""
 | 3             | Barbed Trap       | Place a [Maim](/docs/battles/status-effects/maim) (<img src="/icons/maim.svg" alt="Maim Icon" className="icon-svg" />) status die in an [adjacent](/docs/glossary/adjacent) [unoccupied](/docs/glossary/occupied) hex. Apply that die to the next unit to enter that hex.                                                                                             |
 | 3             | Skilled Tracker   | **[Enduring](/docs/glossary/enduring):** The party's base overland movement is increased by 2.                                                                                                                                                                                                                                                                        |
 
+</div>
+
 ## Master
 
 **Innate Ability**: **[Interrupt](/docs/glossary/interrupt):** After deploying enemies at the start of a clash or dungeon, you may swap the positions of any number of non-quest enemies.
+
+<div className="class-table-wrapper">
 
 | Tenacity Cost | Name              | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Upgrade effect             |
 | ------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -30,3 +36,5 @@ hoverText: ""
 | 2             | Barbed Trap       | Place a [Maim](/docs/battles/status-effects/maim) (<img src="/icons/maim.svg" alt="Maim Icon" className="icon-svg" />) status die in an [adjacent](/docs/glossary/adjacent) [unoccupied](/docs/glossary/occupied) hex. Apply that die to the next unit to enter that hex.                                                                                                                                                                                                              | Tenacity cost<br/>( 3 → 2) |
 | 2             | Skilled Tracker   | **[Enduring](/docs/glossary/enduring):** The party's base overland movement is increased by 2.                                                                                                                                                                                                                                                                                                                                                                                         | Tenacity cost<br/>( 3 → 2) |
 | 4             | Fade Away         | **[Interrupt](/docs/glossary/interrupt):** At any time, gain a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die.                                                                                                                                                                                                                                                                                  | New                        |
+
+</div>
