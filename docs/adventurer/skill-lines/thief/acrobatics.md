@@ -127,3 +127,9 @@ Yes, you are allowed to use the reroll the same turn, as long as you do it befor
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1340036564134133841" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/Bnf5Ipr6F4w?si=DVMWTIcQPCDTiH-Z" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
