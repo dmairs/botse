@@ -132,3 +132,9 @@ No.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1369324418010058863" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/_NifSV5dEhw?si=E-qVUKzeHVEVMfTM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
