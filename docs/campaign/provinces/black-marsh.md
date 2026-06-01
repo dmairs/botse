@@ -25,3 +25,9 @@ The paragraph for Session 2 ends with "Proceed to the Black Marsh endgame quest 
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294807" target="_blank">Source</a>
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/YWnHwlfj_jg?si=e5C2Le7Fs_vgNhVt" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
