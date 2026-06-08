@@ -57,3 +57,9 @@ This damage is not being dealt by the adventurer, the enemy is dealing this dama
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Source</a>
 
 :::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/bNy-cds6Hy8?si=bMRZz4yWvF6RVdsd" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
