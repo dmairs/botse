@@ -74,3 +74,9 @@ title: Shadow
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/shadow/dark-veil-1.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the start of your turn, you may reduce this die by 1 gain a [Stealth](/docs/battles/status-effects/stealth) status die. If this would be reduced to 0, exhaust it. |
 | <img src="/icons/skills/shadow/dark-veil-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Gain a [Stealth](/docs/battles/status-effects/stealth) status die and immediately [recover](/docs/glossary/recover) a different Shadow skill die.                                 |
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/4kIT36MUAsk?si=34122V-PUubRGCyD" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
